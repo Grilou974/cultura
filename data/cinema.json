@@ -1,0 +1,2878 @@
+{
+ "quiz": {
+  "easy": [
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Avatar' (2009) ?",
+     "en": "Who directed 'Avatar' (2009)?"
+    },
+    "options": [
+     "James Cameron",
+     "Steven Spielberg",
+     "Peter Jackson",
+     "Ridley Scott"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui interprète Jack dans 'Titanic' (1997) ?",
+     "en": "Who plays Jack in 'Titanic' (1997)?"
+    },
+    "options": [
+     "Leonardo DiCaprio",
+     "Brad Pitt",
+     "Matt Damon",
+     "Tom Cruise"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Dans quel film entend-on : 'Que la Force soit avec toi' ?",
+     "en": "In which film do we hear 'May the Force be with you'?"
+    },
+    "options": [
+     "Star Wars",
+     "Star Trek",
+     "Avatar",
+     "Dune"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Pulp Fiction' (1994) ?",
+     "en": "Who directed 'Pulp Fiction' (1994)?"
+    },
+    "options": [
+     "Quentin Tarantino",
+     "Martin Scorsese",
+     "Coen brothers",
+     "David Fincher"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel acteur joue Tony Stark / Iron Man ?",
+     "en": "Which actor plays Tony Stark / Iron Man?"
+    },
+    "options": [
+     "Robert Downey Jr.",
+     "Chris Evans",
+     "Chris Hemsworth",
+     "Mark Ruffalo"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Le Parrain' (1972) ?",
+     "en": "Who directed 'The Godfather' (1972)?"
+    },
+    "options": [
+     "Francis Ford Coppola",
+     "Martin Scorsese",
+     "Stanley Kubrick",
+     "Sidney Lumet"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel studio a produit la franchise 'Toy Story' ?",
+     "en": "Which studio produced the 'Toy Story' franchise?"
+    },
+    "options": [
+     "Pixar",
+     "DreamWorks",
+     "Studio Ghibli",
+     "Illumination"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui joue Harry Potter dans la saga cinématographique ?",
+     "en": "Who plays Harry Potter in the film saga?"
+    },
+    "options": [
+     "Daniel Radcliffe",
+     "Rupert Grint",
+     "Tom Felton",
+     "Eddie Redmayne"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film commence par : 'Il était une fois dans une galaxie lointaine...' ?",
+     "en": "Which film opens with: 'A long time ago in a galaxy far, far away...'?"
+    },
+    "options": [
+     "Star Wars",
+     "Dune",
+     "Star Trek",
+     "Guardians of the Galaxy"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'E.T. l'extra-terrestre' ?",
+     "en": "Who directed 'E.T. the Extra-Terrestrial'?"
+    },
+    "options": [
+     "Steven Spielberg",
+     "George Lucas",
+     "Ridley Scott",
+     "John Carpenter"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel est le nom du sorcier dans 'Le Seigneur des Anneaux' ?",
+     "en": "What is the wizard's name in 'The Lord of the Rings'?"
+    },
+    "options": [
+     "Gandalf",
+     "Saruman",
+     "Radagast",
+     "Merlin"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui joue le rôle-titre dans 'Forrest Gump' (1994) ?",
+     "en": "Who plays the title role in 'Forrest Gump' (1994)?"
+    },
+    "options": [
+     "Tom Hanks",
+     "Kevin Costner",
+     "Robin Williams",
+     "Mel Gibson"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'animation Disney met en scène Simba ?",
+     "en": "Which Disney animated film features Simba?"
+    },
+    "options": [
+     "Le Roi Lion",
+     "Mulan",
+     "Aladdin",
+     "Bambi"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Inception' (2010) ?",
+     "en": "Who directed 'Inception' (2010)?"
+    },
+    "options": [
+     "Christopher Nolan",
+     "David Fincher",
+     "Denis Villeneuve",
+     "J.J. Abrams"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel super-héros est joué par Chris Evans dans les films Marvel ?",
+     "en": "Which superhero does Chris Evans play in Marvel films?"
+    },
+    "options": [
+     "Captain America",
+     "Thor",
+     "Iron Man",
+     "Hulk"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Combien d'Oscars 'Titanic' (1997) a-t-il remportés ?",
+     "en": "How many Oscars did 'Titanic' (1997) win?"
+    },
+    "options": [
+     "11",
+     "7",
+     "9",
+     "5"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Le Silence des agneaux' ?",
+     "en": "Who directed 'The Silence of the Lambs'?"
+    },
+    "options": [
+     "Jonathan Demme",
+     "David Fincher",
+     "Martin Scorsese",
+     "Brian De Palma"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel acteur interprète le Joker dans 'The Dark Knight' (2008) ?",
+     "en": "Which actor plays the Joker in 'The Dark Knight' (2008)?"
+    },
+    "options": [
+     "Heath Ledger",
+     "Jack Nicholson",
+     "Joaquin Phoenix",
+     "Jared Leto"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Dans 'Matrix', quelle pilule choisit Neo ?",
+     "en": "In 'The Matrix', which pill does Neo choose?"
+    },
+    "options": [
+     "La rouge",
+     "La bleue",
+     "La verte",
+     "La noire"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui joue Indiana Jones ?",
+     "en": "Who plays Indiana Jones?"
+    },
+    "options": [
+     "Harrison Ford",
+     "Mel Gibson",
+     "Bruce Willis",
+     "Tom Selleck"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film met en scène un grand requin blanc terrorisant une plage ?",
+     "en": "Which film features a great white shark terrorizing a beach?"
+    },
+    "options": [
+     "Les Dents de la mer (Jaws)",
+     "Deep Blue Sea",
+     "The Meg",
+     "Open Water"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a composé la bande originale de 'Star Wars' ?",
+     "en": "Who composed the 'Star Wars' soundtrack?"
+    },
+    "options": [
+     "John Williams",
+     "Hans Zimmer",
+     "Ennio Morricone",
+     "Danny Elfman"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Dans 'Le Roi Lion', qui est le frère de Mufasa ?",
+     "en": "In 'The Lion King', who is Mufasa's brother?"
+    },
+    "options": [
+     "Scar",
+     "Rafiki",
+     "Zazu",
+     "Timon"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Joker' (2019) ?",
+     "en": "Who directed 'Joker' (2019)?"
+    },
+    "options": [
+     "Todd Phillips",
+     "Christopher Nolan",
+     "Tim Burton",
+     "David Fincher"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel acteur joue Jack Sparrow dans 'Pirates des Caraïbes' ?",
+     "en": "Which actor plays Jack Sparrow in 'Pirates of the Caribbean'?"
+    },
+    "options": [
+     "Johnny Depp",
+     "Orlando Bloom",
+     "Brad Pitt",
+     "Tom Cruise"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui est le réalisateur de 'Les Aventuriers de l'arche perdue' ?",
+     "en": "Who directed 'Raiders of the Lost Ark'?"
+    },
+    "options": [
+     "Steven Spielberg",
+     "George Lucas",
+     "Ridley Scott",
+     "James Cameron"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel est le nom du robot dans 'Wall-E' ?",
+     "en": "What is the robot's name in 'Wall-E'?"
+    },
+    "options": [
+     "Wall-E",
+     "Eva",
+     "R2-D2",
+     "C-3PO"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film commence par la phrase : 'Run, Forrest, run!' ?",
+     "en": "Which film features the line 'Run, Forrest, run!'?"
+    },
+    "options": [
+     "Forrest Gump",
+     "Rain Man",
+     "Cast Away",
+     "The Green Mile"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel acteur incarne Wolverine ?",
+     "en": "Which actor plays Wolverine?"
+    },
+    "options": [
+     "Hugh Jackman",
+     "Ryan Reynolds",
+     "Patrick Stewart",
+     "Ian McKellen"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Shrek' (2001) ?",
+     "en": "Who directed 'Shrek' (2001)?"
+    },
+    "options": [
+     "Andrew Adamson & Vicky Jenson",
+     "Brad Bird",
+     "John Lasseter",
+     "Pete Docter"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel acteur joue le rôle de Neo dans 'Matrix' ?",
+     "en": "Which actor plays Neo in 'The Matrix'?"
+    },
+    "options": [
+     "Keanu Reeves",
+     "Tom Cruise",
+     "Will Smith",
+     "Christian Bale"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Avengers : Endgame' ?",
+     "en": "Who directed 'Avengers: Endgame'?"
+    },
+    "options": [
+     "Anthony et Joe Russo",
+     "Joss Whedon",
+     "James Gunn",
+     "Taika Waititi"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel personnage dit : 'I'll be back' ?",
+     "en": "Which character says 'I'll be back'?"
+    },
+    "options": [
+     "Terminator",
+     "James Bond",
+     "John McClane",
+     "Rocky"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui chante 'My Heart Will Go On' (thème de Titanic) ?",
+     "en": "Who sings 'My Heart Will Go On' (Titanic theme)?"
+    },
+    "options": [
+     "Céline Dion",
+     "Whitney Houston",
+     "Mariah Carey",
+     "Adele"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Dans 'Rocky', quel sport pratique le héros ?",
+     "en": "In 'Rocky', what sport does the hero practice?"
+    },
+    "options": [
+     "Boxe",
+     "MMA",
+     "Catch",
+     "Karaté"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel acteur français interprète Astérix dans 'Astérix & Obélix : Mission Cléopâtre' ?",
+     "en": "Which French actor plays Asterix in 'Asterix & Obelix: Mission Cleopatra'?"
+    },
+    "options": [
+     "Christian Clavier",
+     "Gérard Depardieu",
+     "Edouard Baer",
+     "Jean Reno"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film a remporté l'Oscar du meilleur film 2020 ?",
+     "en": "Which film won the 2020 Best Picture Oscar?"
+    },
+    "options": [
+     "Parasite",
+     "1917",
+     "Joker",
+     "Once Upon a Time in Hollywood"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel personnage de Pixar a peur du noir et travaille à Monstropolis ?",
+     "en": "Which Pixar character is afraid of the dark and works in Monstropolis?"
+    },
+    "options": [
+     "Bob Razowski",
+     "Sully",
+     "Mike Wazowski",
+     "Boo"
+    ],
+    "answer": 2
+   },
+   {
+    "q": {
+     "fr": "Quel film mettant en scène un xénomorphe est sorti en 1979 ?",
+     "en": "Which 1979 film features a Xenomorph?"
+    },
+    "options": [
+     "Alien, le huitième passager",
+     "Predator",
+     "The Thing",
+     "Aliens"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a joué James Bond dans 'Casino Royale' (2006) ?",
+     "en": "Who played James Bond in 'Casino Royale' (2006)?"
+    },
+    "options": [
+     "Daniel Craig",
+     "Pierce Brosnan",
+     "Sean Connery",
+     "Timothy Dalton"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film montre une horloge de minuit pour rentrer ?",
+     "en": "Which film features a midnight curfew for the heroine to return?"
+    },
+    "options": [
+     "Cendrillon",
+     "La Belle au bois dormant",
+     "Blanche-Neige",
+     "Raiponce"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui joue Mr. Bean ?",
+     "en": "Who plays Mr. Bean?"
+    },
+    "options": [
+     "Rowan Atkinson",
+     "Hugh Grant",
+     "John Cleese",
+     "Mike Myers"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'animation parle d'une voiture de course nommée Flash McQueen ?",
+     "en": "Which animated film features a race car named Lightning McQueen?"
+    },
+    "options": [
+     "Cars",
+     "Turbo",
+     "Speed Racer",
+     "Wreck-It Ralph"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'horreur met en scène un clown nommé Pennywise ?",
+     "en": "Which horror film features a clown named Pennywise?"
+    },
+    "options": [
+     "Ça (It)",
+     "Saw",
+     "The Conjuring",
+     "Insidious"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film Pixar parle d'un poisson clown ?",
+     "en": "Which Pixar film is about a clownfish?"
+    },
+    "options": [
+     "Le Monde de Nemo",
+     "Le Monde de Dory",
+     "Shark Tale",
+     "Bee Movie"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Schindler's List' ?",
+     "en": "Who directed 'Schindler's List'?"
+    },
+    "options": [
+     "Steven Spielberg",
+     "Roman Polanski",
+     "Stanley Kubrick",
+     "Oliver Stone"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'animation Disney met en scène une reine des glaces ?",
+     "en": "Which Disney animated film features an ice queen?"
+    },
+    "options": [
+     "La Reine des Neiges (Frozen)",
+     "Raiponce",
+     "Vaiana",
+     "Encanto"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel super-héros est l'alter ego de Bruce Wayne ?",
+     "en": "Which superhero is Bruce Wayne's alter ego?"
+    },
+    "options": [
+     "Batman",
+     "Superman",
+     "Iron Man",
+     "Green Lantern"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film commence à Hogwarts ?",
+     "en": "Which film series begins at Hogwarts?"
+    },
+    "options": [
+     "Harry Potter",
+     "Narnia",
+     "Le Seigneur des Anneaux",
+     "Percy Jackson"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui interprète le héros dans 'John Wick' ?",
+     "en": "Who plays the hero in 'John Wick'?"
+    },
+    "options": [
+     "Keanu Reeves",
+     "Liam Neeson",
+     "Jason Statham",
+     "Denzel Washington"
+    ],
+    "answer": 0
+   }
+  ],
+  "medium": [
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Citizen Kane' (1941) ?",
+     "en": "Who directed 'Citizen Kane' (1941)?"
+    },
+    "options": [
+     "Orson Welles",
+     "John Ford",
+     "Alfred Hitchcock",
+     "Frank Capra"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film a remporté la Palme d'Or à Cannes en 2019 ?",
+     "en": "Which film won the Palme d'Or at Cannes in 2019?"
+    },
+    "options": [
+     "Parasite",
+     "Titane",
+     "Anatomie d'une chute",
+     "The Square"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Vertigo' (1958) ?",
+     "en": "Who directed 'Vertigo' (1958)?"
+    },
+    "options": [
+     "Alfred Hitchcock",
+     "Billy Wilder",
+     "Orson Welles",
+     "Howard Hawks"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Dans quel film Marlon Brando joue Vito Corleone ?",
+     "en": "In which film does Marlon Brando play Vito Corleone?"
+    },
+    "options": [
+     "Le Parrain",
+     "Apocalypse Now",
+     "Un tramway nommé Désir",
+     "Sur les quais"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Mulholland Drive' ?",
+     "en": "Who directed 'Mulholland Drive'?"
+    },
+    "options": [
+     "David Lynch",
+     "David Fincher",
+     "Christopher Nolan",
+     "Darren Aronofsky"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit et réalisé '2001 : L'Odyssée de l'espace' ?",
+     "en": "Who wrote and directed '2001: A Space Odyssey'?"
+    },
+    "options": [
+     "Stanley Kubrick",
+     "Steven Spielberg",
+     "Ridley Scott",
+     "George Lucas"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle actrice joue Mia Wallace dans 'Pulp Fiction' ?",
+     "en": "Which actress plays Mia Wallace in 'Pulp Fiction'?"
+    },
+    "options": [
+     "Uma Thurman",
+     "Patricia Arquette",
+     "Diane Kruger",
+     "Cameron Diaz"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Les Affranchis' (1990) ?",
+     "en": "Who directed 'Goodfellas' (1990)?"
+    },
+    "options": [
+     "Martin Scorsese",
+     "Francis Ford Coppola",
+     "Brian De Palma",
+     "Sergio Leone"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Wes Anderson est sorti en 2014 ?",
+     "en": "Which Wes Anderson film was released in 2014?"
+    },
+    "options": [
+     "The Grand Budapest Hotel",
+     "Moonrise Kingdom",
+     "Isle of Dogs",
+     "The Royal Tenenbaums"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Le Labyrinthe de Pan' (2006) ?",
+     "en": "Who directed 'Pan's Labyrinth' (2006)?"
+    },
+    "options": [
+     "Guillermo del Toro",
+     "Alejandro González Iñárritu",
+     "Alfonso Cuarón",
+     "Pedro Almodóvar"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film français a remporté la Palme d'Or en 2013 ?",
+     "en": "Which French film won the Palme d'Or in 2013?"
+    },
+    "options": [
+     "La Vie d'Adèle",
+     "Amour",
+     "The Artist",
+     "Entre les murs"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Fight Club' (1999) ?",
+     "en": "Who directed 'Fight Club' (1999)?"
+    },
+    "options": [
+     "David Fincher",
+     "Quentin Tarantino",
+     "Christopher Nolan",
+     "Spike Jonze"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel acteur incarne Hannibal Lecter dans 'Le Silence des agneaux' ?",
+     "en": "Which actor plays Hannibal Lecter in 'The Silence of the Lambs'?"
+    },
+    "options": [
+     "Anthony Hopkins",
+     "Robert De Niro",
+     "Al Pacino",
+     "Gary Oldman"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Mommy' (2014) ?",
+     "en": "Who directed 'Mommy' (2014)?"
+    },
+    "options": [
+     "Xavier Dolan",
+     "Denis Villeneuve",
+     "Jean-Marc Vallée",
+     "Atom Egoyan"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui joue Travis Bickle dans 'Taxi Driver' ?",
+     "en": "Who plays Travis Bickle in 'Taxi Driver'?"
+    },
+    "options": [
+     "Robert De Niro",
+     "Al Pacino",
+     "Jack Nicholson",
+     "Dustin Hoffman"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'Hitchcock se déroule dans un motel isolé ?",
+     "en": "Which Hitchcock film is set in an isolated motel?"
+    },
+    "options": [
+     "Psychose",
+     "Les Oiseaux",
+     "Sueurs froides",
+     "Fenêtre sur cour"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit la musique du 'Bon, la Brute et le Truand' ?",
+     "en": "Who composed the score for 'The Good, the Bad and the Ugly'?"
+    },
+    "options": [
+     "Ennio Morricone",
+     "Nino Rota",
+     "Jerry Goldsmith",
+     "John Barry"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Dans quel film Audrey Hepburn joue Holly Golightly ?",
+     "en": "In which film does Audrey Hepburn play Holly Golightly?"
+    },
+    "options": [
+     "Diamants sur canapé (Breakfast at Tiffany's)",
+     "Sabrina",
+     "My Fair Lady",
+     "Vacances romaines"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Eternal Sunshine of the Spotless Mind' ?",
+     "en": "Who directed 'Eternal Sunshine of the Spotless Mind'?"
+    },
+    "options": [
+     "Michel Gondry",
+     "Spike Jonze",
+     "Charlie Kaufman",
+     "David O. Russell"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'animation japonais est réalisé par Hayao Miyazaki et sort en 2001 ?",
+     "en": "Which Hayao Miyazaki animated film was released in 2001?"
+    },
+    "options": [
+     "Le Voyage de Chihiro",
+     "Mon voisin Totoro",
+     "Princesse Mononoké",
+     "Le Château ambulant"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a joué Maximus dans 'Gladiator' ?",
+     "en": "Who played Maximus in 'Gladiator'?"
+    },
+    "options": [
+     "Russell Crowe",
+     "Mel Gibson",
+     "Brad Pitt",
+     "Kevin Costner"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Lost in Translation' ?",
+     "en": "Who directed 'Lost in Translation'?"
+    },
+    "options": [
+     "Sofia Coppola",
+     "Wes Anderson",
+     "Spike Jonze",
+     "Charlie Kaufman"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film se déroule à Casablanca pendant la Seconde Guerre mondiale ?",
+     "en": "Which film is set in Casablanca during WWII?"
+    },
+    "options": [
+     "Casablanca",
+     "The English Patient",
+     "L'Atalante",
+     "Le Patient anglais"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Apocalypse Now' (1979) ?",
+     "en": "Who directed 'Apocalypse Now' (1979)?"
+    },
+    "options": [
+     "Francis Ford Coppola",
+     "Stanley Kubrick",
+     "Oliver Stone",
+     "Michael Cimino"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel acteur incarne le personnage de 'There Will Be Blood' ?",
+     "en": "Which actor stars in 'There Will Be Blood'?"
+    },
+    "options": [
+     "Daniel Day-Lewis",
+     "Tom Hanks",
+     "Tommy Lee Jones",
+     "Bill Murray"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Le Loup de Wall Street' ?",
+     "en": "Who directed 'The Wolf of Wall Street'?"
+    },
+    "options": [
+     "Martin Scorsese",
+     "Adam McKay",
+     "David O. Russell",
+     "Oliver Stone"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'animation Pixar parle d'émotions personnifiées ?",
+     "en": "Which Pixar film personifies emotions inside a child's head?"
+    },
+    "options": [
+     "Vice-Versa (Inside Out)",
+     "Coco",
+     "Soul",
+     "Là-haut"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Memento' (2000) ?",
+     "en": "Who directed 'Memento' (2000)?"
+    },
+    "options": [
+     "Christopher Nolan",
+     "David Fincher",
+     "M. Night Shyamalan",
+     "Bryan Singer"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'Almodóvar a gagné l'Oscar du meilleur film étranger 1999 ?",
+     "en": "Which Almodóvar film won the Best Foreign Film Oscar for 1999?"
+    },
+    "options": [
+     "Tout sur ma mère",
+     "Volver",
+     "Parle avec elle",
+     "La Mauvaise Éducation"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel acteur incarne Forrest Gump ?",
+     "en": "Which actor plays Forrest Gump?"
+    },
+    "options": [
+     "Tom Hanks",
+     "Tom Cruise",
+     "Kevin Costner",
+     "John Travolta"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle franchise comporte les films 'Hunger Games' ?",
+     "en": "Which franchise comprises the 'Hunger Games' films?"
+    },
+    "options": [
+     "The Hunger Games",
+     "Divergent",
+     "Maze Runner",
+     "Twilight"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film a popularisé la phrase : 'Avec un grand pouvoir vient une grande responsabilité' ?",
+     "en": "Which film popularized the line 'With great power comes great responsibility'?"
+    },
+    "options": [
+     "Spider-Man (2002)",
+     "Batman Begins",
+     "Iron Man",
+     "Superman"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'No Country for Old Men' ?",
+     "en": "Who directed 'No Country for Old Men'?"
+    },
+    "options": [
+     "Coen brothers",
+     "Quentin Tarantino",
+     "Paul Thomas Anderson",
+     "David Fincher"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Polanski a gagné 3 Oscars en 2003 ?",
+     "en": "Which Polanski film won 3 Oscars in 2003?"
+    },
+    "options": [
+     "Le Pianiste",
+     "Chinatown",
+     "Rosemary's Baby",
+     "Frantic"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'La La Land' (2016) ?",
+     "en": "Who directed 'La La Land' (2016)?"
+    },
+    "options": [
+     "Damien Chazelle",
+     "Spike Jonze",
+     "Tom Hooper",
+     "Bennett Miller"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'Hitchcock met en scène une attaque massive d'oiseaux ?",
+     "en": "Which Hitchcock film features a massive bird attack?"
+    },
+    "options": [
+     "Les Oiseaux",
+     "Psychose",
+     "Sueurs froides",
+     "La Mort aux trousses"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Drive' (2011) ?",
+     "en": "Who directed 'Drive' (2011)?"
+    },
+    "options": [
+     "Nicolas Winding Refn",
+     "David Fincher",
+     "Christopher Nolan",
+     "Denis Villeneuve"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Cuarón a gagné l'Oscar de meilleur réalisateur en 2019 ?",
+     "en": "Which Cuarón film won Best Director at the 2019 Oscars?"
+    },
+    "options": [
+     "Roma",
+     "Les Fils de l'homme",
+     "Gravity",
+     "Y tu mamá también"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui joue Andy Dufresne dans 'Les Évadés' (1994) ?",
+     "en": "Who plays Andy Dufresne in 'The Shawshank Redemption' (1994)?"
+    },
+    "options": [
+     "Tim Robbins",
+     "Morgan Freeman",
+     "Sean Penn",
+     "Edward Norton"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel personnage est joué par Anthony Hopkins dans 'Le Silence des agneaux' ?",
+     "en": "Which character does Anthony Hopkins play in 'The Silence of the Lambs'?"
+    },
+    "options": [
+     "Hannibal Lecter",
+     "Norman Bates",
+     "Patrick Bateman",
+     "Buffalo Bill"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Birdman' (2014) ?",
+     "en": "Who directed 'Birdman' (2014)?"
+    },
+    "options": [
+     "Alejandro González Iñárritu",
+     "Damien Chazelle",
+     "Wes Anderson",
+     "Darren Aronofsky"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Coen frères se déroule dans le Minnesota ?",
+     "en": "Which Coen brothers film is set in Minnesota?"
+    },
+    "options": [
+     "Fargo",
+     "No Country for Old Men",
+     "The Big Lebowski",
+     "True Grit"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'There Will Be Blood' ?",
+     "en": "Who directed 'There Will Be Blood'?"
+    },
+    "options": [
+     "Paul Thomas Anderson",
+     "Coen brothers",
+     "David Fincher",
+     "Wes Anderson"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film commence par 'A long time ago in a galaxy far, far away…' ?",
+     "en": "Which film opens with 'A long time ago in a galaxy far, far away…'?"
+    },
+    "options": [
+     "Star Wars",
+     "Dune",
+     "Star Trek",
+     "Stargate"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Les Sept Samouraïs' (1954) ?",
+     "en": "Who directed 'Seven Samurai' (1954)?"
+    },
+    "options": [
+     "Akira Kurosawa",
+     "Yasujirō Ozu",
+     "Kenji Mizoguchi",
+     "Takeshi Kitano"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel acteur joue Andy en chef dans 'Les Évadés' ?",
+     "en": "Which actor plays the warden in 'The Shawshank Redemption'?"
+    },
+    "options": [
+     "Bob Gunton",
+     "Morgan Freeman",
+     "Tim Robbins",
+     "Clancy Brown"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film mettant en scène Heath Ledger et Jake Gyllenhaal a marqué 2005 ?",
+     "en": "Which 2005 film starred Heath Ledger and Jake Gyllenhaal?"
+    },
+    "options": [
+     "Le Secret de Brokeback Mountain",
+     "Donnie Darko",
+     "Jarhead",
+     "The Patriot"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'The Truman Show' ?",
+     "en": "Who directed 'The Truman Show'?"
+    },
+    "options": [
+     "Peter Weir",
+     "Tim Burton",
+     "Ron Howard",
+     "Bryan Singer"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'animation française fait référence aux Inuits ?",
+     "en": "Which French animated film deals with Inuit themes?"
+    },
+    "options": [
+     "Kirikou et la Sorcière",
+     "Tante Hilda !",
+     "Le Tableau",
+     "Persepolis"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Christopher Nolan se déroule pendant la 2nde Guerre mondiale ?",
+     "en": "Which Christopher Nolan film is set during World War II?"
+    },
+    "options": [
+     "Dunkerque",
+     "Interstellar",
+     "Inception",
+     "Tenet"
+    ],
+    "answer": 0
+   }
+  ],
+  "hard": [
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Persona' (1966) ?",
+     "en": "Who directed 'Persona' (1966)?"
+    },
+    "options": [
+     "Ingmar Bergman",
+     "Federico Fellini",
+     "Michelangelo Antonioni",
+     "François Truffaut"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Le Mépris' (1963) ?",
+     "en": "Who directed 'Le Mépris' (1963)?"
+    },
+    "options": [
+     "Jean-Luc Godard",
+     "François Truffaut",
+     "Éric Rohmer",
+     "Alain Resnais"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'Ozu (1953) est considéré comme un chef-d'œuvre japonais ?",
+     "en": "Which 1953 Ozu film is considered a Japanese masterpiece?"
+    },
+    "options": [
+     "Voyage à Tokyo",
+     "Rashômon",
+     "Les Sept Samouraïs",
+     "Ugetsu"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'La Dolce Vita' (1960) ?",
+     "en": "Who directed 'La Dolce Vita' (1960)?"
+    },
+    "options": [
+     "Federico Fellini",
+     "Luchino Visconti",
+     "Vittorio De Sica",
+     "Michelangelo Antonioni"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Tarkovski est sorti en 1972 ?",
+     "en": "Which 1972 Tarkovsky film?"
+    },
+    "options": [
+     "Solaris",
+     "Stalker",
+     "Andreï Roublev",
+     "Le Sacrifice"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Les Quatre Cents Coups' (1959) ?",
+     "en": "Who directed 'The 400 Blows' (1959)?"
+    },
+    "options": [
+     "François Truffaut",
+     "Jean-Luc Godard",
+     "Claude Chabrol",
+     "Louis Malle"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel acteur incarne Daniel Plainview dans 'There Will Be Blood' ?",
+     "en": "Which actor plays Daniel Plainview in 'There Will Be Blood'?"
+    },
+    "options": [
+     "Daniel Day-Lewis",
+     "Robert Duvall",
+     "Tommy Lee Jones",
+     "Robert De Niro"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Stalker' (1979) ?",
+     "en": "Who directed 'Stalker' (1979)?"
+    },
+    "options": [
+     "Andreï Tarkovski",
+     "Andrzej Wajda",
+     "Krzysztof Kieślowski",
+     "Sergei Paradjanov"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Kubrick est tiré d'une nouvelle de Stephen King ?",
+     "en": "Which Kubrick film is adapted from a Stephen King novella?"
+    },
+    "options": [
+     "Shining",
+     "Orange mécanique",
+     "Lolita",
+     "Eyes Wide Shut"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Le Septième Sceau' (1957) ?",
+     "en": "Who directed 'The Seventh Seal' (1957)?"
+    },
+    "options": [
+     "Ingmar Bergman",
+     "Carl Theodor Dreyer",
+     "Luis Buñuel",
+     "Michelangelo Antonioni"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Buñuel met en scène un dîner qui ne peut commencer ?",
+     "en": "Which Buñuel film features a dinner that can never start?"
+    },
+    "options": [
+     "Le Charme discret de la bourgeoisie",
+     "Belle de jour",
+     "Un chien andalou",
+     "L'Ange exterminateur"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'L'Année dernière à Marienbad' ?",
+     "en": "Who directed 'Last Year at Marienbad'?"
+    },
+    "options": [
+     "Alain Resnais",
+     "Jean-Luc Godard",
+     "Agnès Varda",
+     "Chris Marker"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Wong Kar-wai date de 2000 ?",
+     "en": "Which Wong Kar-wai film was released in 2000?"
+    },
+    "options": [
+     "In the Mood for Love",
+     "Chungking Express",
+     "2046",
+     "Happy Together"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'M le Maudit' (1931) ?",
+     "en": "Who directed 'M' (1931)?"
+    },
+    "options": [
+     "Fritz Lang",
+     "F.W. Murnau",
+     "Erich von Stroheim",
+     "G.W. Pabst"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Welles (1958) est un film noir tourné à la frontière mexicaine ?",
+     "en": "Which Welles film (1958) is a noir set on the US-Mexico border?"
+    },
+    "options": [
+     "La Soif du mal",
+     "Othello",
+     "La Dame de Shanghai",
+     "Le Procès"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Annie Hall' (1977) ?",
+     "en": "Who directed 'Annie Hall' (1977)?"
+    },
+    "options": [
+     "Woody Allen",
+     "Mike Nichols",
+     "Sidney Lumet",
+     "Robert Altman"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Bergman traite du mariage ?",
+     "en": "Which Bergman film deals with marriage?"
+    },
+    "options": [
+     "Scènes de la vie conjugale",
+     "Cris et chuchotements",
+     "Persona",
+     "Sonate d'automne"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Les Tontons flingueurs' ?",
+     "en": "Who directed 'Les Tontons flingueurs'?"
+    },
+    "options": [
+     "Georges Lautner",
+     "Henri Verneuil",
+     "Claude Sautet",
+     "Gilles Grangier"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Sergio Leone (1968) clôt la 'Trilogie du Dollar' avec Charles Bronson ?",
+     "en": "Which Sergio Leone film (1968) follows the Dollars trilogy with Charles Bronson?"
+    },
+    "options": [
+     "Il était une fois dans l'Ouest",
+     "Pour une poignée de dollars",
+     "Et pour quelques dollars de plus",
+     "Il était une fois en Amérique"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Le Cuirassé Potemkine' (1925) ?",
+     "en": "Who directed 'Battleship Potemkin' (1925)?"
+    },
+    "options": [
+     "Sergei Eisenstein",
+     "Vsevolod Pudovkin",
+     "Dziga Vertov",
+     "Aleksandr Dovjenko"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Renoir (1939) est un classique de la satire sociale ?",
+     "en": "Which 1939 Renoir film is a social satire classic?"
+    },
+    "options": [
+     "La Règle du jeu",
+     "La Grande Illusion",
+     "La Bête humaine",
+     "Boudu sauvé des eaux"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Mon oncle' (1958) ?",
+     "en": "Who directed 'Mon Oncle' (1958)?"
+    },
+    "options": [
+     "Jacques Tati",
+     "Robert Bresson",
+     "Jean Cocteau",
+     "Marcel Carné"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Kubrick (1980) met en scène l'hôtel Overlook ?",
+     "en": "Which 1980 Kubrick film is set at the Overlook Hotel?"
+    },
+    "options": [
+     "Shining",
+     "Eyes Wide Shut",
+     "Barry Lyndon",
+     "Full Metal Jacket"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Trois couleurs : Bleu' (1993) ?",
+     "en": "Who directed 'Three Colors: Blue' (1993)?"
+    },
+    "options": [
+     "Krzysztof Kieślowski",
+     "Andrzej Wajda",
+     "Roman Polanski",
+     "Agnieszka Holland"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Lars von Trier inaugure la 'Trilogie de l'Amérique' ?",
+     "en": "Which Lars von Trier film opens his 'America' trilogy?"
+    },
+    "options": [
+     "Dogville",
+     "Manderlay",
+     "Wasington",
+     "Antichrist"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit le scénario de 'Eternal Sunshine of the Spotless Mind' ?",
+     "en": "Who wrote 'Eternal Sunshine of the Spotless Mind'?"
+    },
+    "options": [
+     "Charlie Kaufman",
+     "Michel Gondry",
+     "Spike Jonze",
+     "Aaron Sorkin"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel chef opérateur a souvent collaboré avec Roger Deakins est connu pour 'Blade Runner 2049' ?",
+     "en": "Which cinematographer is known for 'Blade Runner 2049'?"
+    },
+    "options": [
+     "Roger Deakins",
+     "Emmanuel Lubezki",
+     "Hoyte van Hoytema",
+     "Robert Richardson"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Mike Nichols (1967) met en scène Dustin Hoffman ?",
+     "en": "Which 1967 Mike Nichols film stars Dustin Hoffman?"
+    },
+    "options": [
+     "Le Lauréat",
+     "Macadam Cowboy",
+     "Catch-22",
+     "Carnal Knowledge"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Andreï Roublev' (1966) ?",
+     "en": "Who directed 'Andrei Rublev' (1966)?"
+    },
+    "options": [
+     "Andreï Tarkovski",
+     "Sergei Bondarchuk",
+     "Aleksandr Sokurov",
+     "Mikhail Kalatozov"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Polanski (1968) est un thriller paranormal ?",
+     "en": "Which 1968 Polanski film is a paranormal thriller?"
+    },
+    "options": [
+     "Rosemary's Baby",
+     "Chinatown",
+     "Répulsion",
+     "Frantic"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Le Voleur de bicyclette' (1948) ?",
+     "en": "Who directed 'Bicycle Thieves' (1948)?"
+    },
+    "options": [
+     "Vittorio De Sica",
+     "Roberto Rossellini",
+     "Luchino Visconti",
+     "Federico Fellini"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Coen (1996) commence par un crime mal préparé dans le Minnesota ?",
+     "en": "Which 1996 Coen film opens with a botched crime in Minnesota?"
+    },
+    "options": [
+     "Fargo",
+     "Blood Simple",
+     "Miller's Crossing",
+     "Barton Fink"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Le Septième Continent' (1989) ?",
+     "en": "Who directed 'The Seventh Continent' (1989)?"
+    },
+    "options": [
+     "Michael Haneke",
+     "Ulrich Seidl",
+     "Werner Herzog",
+     "Wim Wenders"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'Almodóvar (2006) raconte le retour d'une mère ?",
+     "en": "Which 2006 Almodóvar film tells of a mother's return?"
+    },
+    "options": [
+     "Volver",
+     "Talk to Her",
+     "All About My Mother",
+     "Bad Education"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Les Vacances de M. Hulot' ?",
+     "en": "Who directed 'Mr. Hulot's Holiday'?"
+    },
+    "options": [
+     "Jacques Tati",
+     "René Clair",
+     "Marcel Pagnol",
+     "Sacha Guitry"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Kubrick est sorti à titre posthume en 1999 ?",
+     "en": "Which Kubrick film was released posthumously in 1999?"
+    },
+    "options": [
+     "Eyes Wide Shut",
+     "AI",
+     "Spartacus",
+     "Lolita"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'À bout de souffle' (1960) ?",
+     "en": "Who directed 'Breathless' (1960)?"
+    },
+    "options": [
+     "Jean-Luc Godard",
+     "François Truffaut",
+     "Claude Chabrol",
+     "Jacques Rivette"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel acteur tient le rôle principal de 'Aguirre, la colère de Dieu' ?",
+     "en": "Which actor leads 'Aguirre, the Wrath of God'?"
+    },
+    "options": [
+     "Klaus Kinski",
+     "Bruno Ganz",
+     "Werner Herzog",
+     "Heinz Hoenig"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Le Voyage dans la Lune' (1902) ?",
+     "en": "Who directed 'A Trip to the Moon' (1902)?"
+    },
+    "options": [
+     "Georges Méliès",
+     "Auguste Lumière",
+     "Edwin S. Porter",
+     "Louis Feuillade"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Lynch (1986) commence par une oreille découpée ?",
+     "en": "Which 1986 Lynch film opens with a severed ear?"
+    },
+    "options": [
+     "Blue Velvet",
+     "Eraserhead",
+     "Wild at Heart",
+     "Lost Highway"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Le Septième Sceau' avec Max von Sydow ?",
+     "en": "Who directed 'The Seventh Seal' starring Max von Sydow?"
+    },
+    "options": [
+     "Ingmar Bergman",
+     "Luis Buñuel",
+     "Carl Theodor Dreyer",
+     "Werner Herzog"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Pasolini (1975) est très controversé ?",
+     "en": "Which 1975 Pasolini film is highly controversial?"
+    },
+    "options": [
+     "Salò ou les 120 journées de Sodome",
+     "Théorème",
+     "Mamma Roma",
+     "Médée"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Lawrence d'Arabie' (1962) ?",
+     "en": "Who directed 'Lawrence of Arabia' (1962)?"
+    },
+    "options": [
+     "David Lean",
+     "John Huston",
+     "George Stevens",
+     "William Wyler"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Wim Wenders se déroule à Berlin avec des anges ?",
+     "en": "Which Wim Wenders film features angels in Berlin?"
+    },
+    "options": [
+     "Les Ailes du désir",
+     "Paris, Texas",
+     "L'Ami américain",
+     "Buena Vista Social Club"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'La Strada' (1954) ?",
+     "en": "Who directed 'La Strada' (1954)?"
+    },
+    "options": [
+     "Federico Fellini",
+     "Roberto Rossellini",
+     "Vittorio De Sica",
+     "Pier Paolo Pasolini"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Bresson (1959) est inspiré de Dostoïevski ?",
+     "en": "Which 1959 Bresson film is inspired by Dostoevsky?"
+    },
+    "options": [
+     "Pickpocket",
+     "Mouchette",
+     "Au hasard Balthazar",
+     "L'Argent"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'L'Enfance d'Ivan' (1962) ?",
+     "en": "Who directed 'Ivan's Childhood' (1962)?"
+    },
+    "options": [
+     "Andreï Tarkovski",
+     "Sergei Eisenstein",
+     "Mikhail Kalatozov",
+     "Larisa Shepitko"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Polanski (1974) est un néo-noir avec Jack Nicholson ?",
+     "en": "Which 1974 Polanski film is a neo-noir with Jack Nicholson?"
+    },
+    "options": [
+     "Chinatown",
+     "Rosemary's Baby",
+     "Frantic",
+     "Le Pianiste"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Aguirre, la colère de Dieu' (1972) ?",
+     "en": "Who directed 'Aguirre, the Wrath of God' (1972)?"
+    },
+    "options": [
+     "Werner Herzog",
+     "Rainer Werner Fassbinder",
+     "Wim Wenders",
+     "Volker Schlöndorff"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Bertolucci (1972) provoque un scandale ?",
+     "en": "Which 1972 Bertolucci film caused a scandal?"
+    },
+    "options": [
+     "Le Dernier Tango à Paris",
+     "1900",
+     "Le Conformiste",
+     "The Dreamers"
+    ],
+    "answer": 0
+   }
+  ],
+  "expert": [
+   {
+    "q": {
+     "fr": "Qui réalise 'L'Aurore' (Sunrise, 1927) ?",
+     "en": "Who directed 'Sunrise' (1927)?"
+    },
+    "options": [
+     "F.W. Murnau",
+     "Fritz Lang",
+     "Erich von Stroheim",
+     "King Vidor"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Dreyer (1928) est centré sur Jeanne d'Arc ?",
+     "en": "Which 1928 Dreyer film centers on Joan of Arc?"
+    },
+    "options": [
+     "La Passion de Jeanne d'Arc",
+     "Ordet",
+     "Vampyr",
+     "Gertrud"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'L'Atalante' (1934) ?",
+     "en": "Who directed 'L'Atalante' (1934)?"
+    },
+    "options": [
+     "Jean Vigo",
+     "Marcel Carné",
+     "Jean Renoir",
+     "René Clair"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'Antonioni (1960) est un manifeste de l'aliénation ?",
+     "en": "Which 1960 Antonioni film is a manifesto of alienation?"
+    },
+    "options": [
+     "L'Avventura",
+     "La Notte",
+     "L'Eclisse",
+     "Il deserto rosso"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Le Spectre de la Liberté' (1974) ?",
+     "en": "Who directed 'The Phantom of Liberty' (1974)?"
+    },
+    "options": [
+     "Luis Buñuel",
+     "Alain Resnais",
+     "Jean-Luc Godard",
+     "Werner Herzog"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Carl Th. Dreyer (1955) traite de la foi ?",
+     "en": "Which 1955 Dreyer film addresses faith?"
+    },
+    "options": [
+     "Ordet",
+     "Vampyr",
+     "Day of Wrath",
+     "Gertrud"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Au hasard Balthazar' (1966) ?",
+     "en": "Who directed 'Au Hasard Balthazar' (1966)?"
+    },
+    "options": [
+     "Robert Bresson",
+     "Jacques Rivette",
+     "Éric Rohmer",
+     "Jacques Demy"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Pialat met en scène Sandrine Bonnaire et obtient l'Ours d'Or 1987 ?",
+     "en": "Which Pialat film starring Sandrine Bonnaire won the 1987 Golden Bear?"
+    },
+    "options": [
+     "Sous le soleil de Satan",
+     "À nos amours",
+     "Police",
+     "Van Gogh"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Sans soleil' (1983) ?",
+     "en": "Who directed 'Sans Soleil' (1983)?"
+    },
+    "options": [
+     "Chris Marker",
+     "Agnès Varda",
+     "Alain Resnais",
+     "Jean Rouch"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Sokurov (2002) est tourné en un seul plan-séquence ?",
+     "en": "Which 2002 Sokurov film is shot in a single take?"
+    },
+    "options": [
+     "L'Arche russe",
+     "Faust",
+     "Le Soleil",
+     "Père, fils"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Le Miroir' (1975) ?",
+     "en": "Who directed 'Mirror' (1975)?"
+    },
+    "options": [
+     "Andreï Tarkovski",
+     "Aleksei Guerman",
+     "Aleksandr Sokurov",
+     "Larisa Shepitko"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Renoir (1937) se déroule pendant la 1ère Guerre mondiale ?",
+     "en": "Which 1937 Renoir film is set during WWI?"
+    },
+    "options": [
+     "La Grande Illusion",
+     "La Règle du jeu",
+     "La Bête humaine",
+     "Toni"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Le Pont de la rivière Kwaï' ?",
+     "en": "Who directed 'The Bridge on the River Kwai'?"
+    },
+    "options": [
+     "David Lean",
+     "Carol Reed",
+     "Anthony Mann",
+     "Henry King"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'Ozu (1949) traite des relations père-fille ?",
+     "en": "Which 1949 Ozu film deals with father-daughter relations?"
+    },
+    "options": [
+     "Printemps tardif",
+     "Voyage à Tokyo",
+     "Bonjour",
+     "Le Goût du saké"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Pickpocket' (1959) ?",
+     "en": "Who directed 'Pickpocket' (1959)?"
+    },
+    "options": [
+     "Robert Bresson",
+     "Jean-Pierre Melville",
+     "Henri-Georges Clouzot",
+     "Jules Dassin"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Welles (1965) adapte plusieurs pièces de Shakespeare ?",
+     "en": "Which 1965 Welles film adapts several Shakespeare plays?"
+    },
+    "options": [
+     "Falstaff",
+     "Othello",
+     "Macbeth",
+     "Le Procès"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Les Lumières de la ville' (City Lights, 1931) ?",
+     "en": "Who directed 'City Lights' (1931)?"
+    },
+    "options": [
+     "Charlie Chaplin",
+     "Buster Keaton",
+     "Harold Lloyd",
+     "King Vidor"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Béla Tarr (1994) dure plus de 7 heures ?",
+     "en": "Which Béla Tarr film (1994) runs over 7 hours?"
+    },
+    "options": [
+     "Sátántangó",
+     "Le Cheval de Turin",
+     "Werckmeister Harmoniak",
+     "Damnation"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Le Temps de l'innocence' (1993) ?",
+     "en": "Who directed 'The Age of Innocence' (1993)?"
+    },
+    "options": [
+     "Martin Scorsese",
+     "James Ivory",
+     "Stephen Frears",
+     "Anthony Minghella"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'Apichatpong Weerasethakul a gagné la Palme d'Or 2010 ?",
+     "en": "Which Apichatpong Weerasethakul film won the 2010 Palme d'Or?"
+    },
+    "options": [
+     "Oncle Boonmee",
+     "Cemetery of Splendour",
+     "Memoria",
+     "Syndromes and a Century"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Plein Soleil' (1960) ?",
+     "en": "Who directed 'Plein Soleil' (1960)?"
+    },
+    "options": [
+     "René Clément",
+     "Henri-Georges Clouzot",
+     "Jean-Pierre Melville",
+     "Claude Autant-Lara"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Resnais (1955) est un court-métrage documentaire sur les camps nazis ?",
+     "en": "Which 1955 Resnais short documents Nazi camps?"
+    },
+    "options": [
+     "Nuit et Brouillard",
+     "Hiroshima mon amour",
+     "L'Année dernière à Marienbad",
+     "Toute la mémoire du monde"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Le Salon de musique' (1958) ?",
+     "en": "Who directed 'The Music Room' (1958)?"
+    },
+    "options": [
+     "Satyajit Ray",
+     "Mrinal Sen",
+     "Ritwik Ghatak",
+     "Guru Dutt"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Hou Hsiao-hsien (1989) a remporté le Lion d'Or à Venise ?",
+     "en": "Which 1989 Hou Hsiao-hsien film won the Golden Lion?"
+    },
+    "options": [
+     "La Cité des douleurs",
+     "Millennium Mambo",
+     "Three Times",
+     "Café Lumière"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'La Maman et la Putain' (1973) ?",
+     "en": "Who directed 'The Mother and the Whore' (1973)?"
+    },
+    "options": [
+     "Jean Eustache",
+     "Maurice Pialat",
+     "Philippe Garrel",
+     "Jean-Pierre Mocky"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Mikio Naruse (1960) parle d'une mère ?",
+     "en": "Which 1960 Mikio Naruse film is about a mother?"
+    },
+    "options": [
+     "Quand une femme monte l'escalier",
+     "Floating Clouds",
+     "Une femme dans la tourmente",
+     "Sound of the Mountain"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Le Festin de Babette' (1987) ?",
+     "en": "Who directed 'Babette's Feast' (1987)?"
+    },
+    "options": [
+     "Gabriel Axel",
+     "Bille August",
+     "Lars von Trier",
+     "Carl Th. Dreyer"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Theo Angelopoulos a gagné la Palme d'Or 1998 ?",
+     "en": "Which Theo Angelopoulos film won the 1998 Palme d'Or?"
+    },
+    "options": [
+     "L'Éternité et un jour",
+     "Le Regard d'Ulysse",
+     "Paysage dans le brouillard",
+     "La Poussière du temps"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Faces' (1968) ?",
+     "en": "Who directed 'Faces' (1968)?"
+    },
+    "options": [
+     "John Cassavetes",
+     "Robert Altman",
+     "Hal Ashby",
+     "Bob Rafelson"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Béla Tarr est sa dernière œuvre (2011) ?",
+     "en": "Which Béla Tarr film is his final work (2011)?"
+    },
+    "options": [
+     "Le Cheval de Turin",
+     "Sátántangó",
+     "Damnation",
+     "Werckmeister Harmoniak"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Le Caïman' (2006) sur Berlusconi ?",
+     "en": "Who directed 'The Caiman' (2006) about Berlusconi?"
+    },
+    "options": [
+     "Nanni Moretti",
+     "Marco Bellocchio",
+     "Paolo Sorrentino",
+     "Matteo Garrone"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Béla Tarr (2000) est tiré d'un roman de László Krasznahorkai ?",
+     "en": "Which 2000 Béla Tarr film is from a Krasznahorkai novel?"
+    },
+    "options": [
+     "Les Harmonies Werckmeister",
+     "Damnation",
+     "L'Outsider",
+     "Le Cheval de Turin"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'L'Enfant' (2005) ?",
+     "en": "Who directed 'L'Enfant' (2005)?"
+    },
+    "options": [
+     "Dardenne brothers",
+     "Bruno Dumont",
+     "Lucas Belvaux",
+     "Jacques Doillon"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Hou Hsiao-hsien (2015) revisite le wuxia ?",
+     "en": "Which 2015 Hou Hsiao-hsien film revisits wuxia?"
+    },
+    "options": [
+     "The Assassin",
+     "Three Times",
+     "Café Lumière",
+     "Goodbye South, Goodbye"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Voyage en Italie' (1954) ?",
+     "en": "Who directed 'Journey to Italy' (1954)?"
+    },
+    "options": [
+     "Roberto Rossellini",
+     "Vittorio De Sica",
+     "Luchino Visconti",
+     "Michelangelo Antonioni"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Sembène (1966) est considéré comme le 1er long-métrage africain ?",
+     "en": "Which 1966 Sembène film is considered the first African feature?"
+    },
+    "options": [
+     "La Noire de…",
+     "Mandabi",
+     "Xala",
+     "Camp de Thiaroye"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Rétrospective' (Le Quattro Volte, 2010) ?",
+     "en": "Who directed 'Le Quattro Volte' (2010)?"
+    },
+    "options": [
+     "Michelangelo Frammartino",
+     "Matteo Garrone",
+     "Paolo Sorrentino",
+     "Alice Rohrwacher"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Kelly Reichardt (2010) est un western minimaliste ?",
+     "en": "Which 2010 Kelly Reichardt film is a minimalist western?"
+    },
+    "options": [
+     "La Dernière Piste (Meek's Cutoff)",
+     "Wendy and Lucy",
+     "Old Joy",
+     "First Cow"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Sátántangó' ?",
+     "en": "Who directed 'Sátántangó'?"
+    },
+    "options": [
+     "Béla Tarr",
+     "Miklós Jancsó",
+     "István Szabó",
+     "Krzysztof Kieślowski"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Hong Sang-soo (2017) a gagné le prix Alfred Bauer à Berlin ?",
+     "en": "Which 2017 Hong Sang-soo film won the Alfred Bauer at Berlin?"
+    },
+    "options": [
+     "On the Beach at Night Alone",
+     "The Day After",
+     "Hotel by the River",
+     "Right Now, Wrong Then"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'L'Étrange aventure de Mr Bean' ? (piège — film inexistant)",
+     "en": "Who directed 'The Strange Adventure of Mr Bean'? (trick — does not exist)"
+    },
+    "options": [
+     "Aucun de ces noms",
+     "Steven Spielberg",
+     "Roman Polanski",
+     "Wes Anderson"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Tarkovski (1986) est son dernier ?",
+     "en": "Which 1986 Tarkovsky film is his final?"
+    },
+    "options": [
+     "Le Sacrifice",
+     "Stalker",
+     "Nostalghia",
+     "Solaris"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'L'Esclave libre' (Band of Angels, 1957) ?",
+     "en": "Who directed 'Band of Angels' (1957)?"
+    },
+    "options": [
+     "Raoul Walsh",
+     "John Ford",
+     "Howard Hawks",
+     "Anthony Mann"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'Abbas Kiarostami (1997) a gagné la Palme d'Or ?",
+     "en": "Which 1997 Kiarostami film won the Palme d'Or?"
+    },
+    "options": [
+     "Le Goût de la cerise",
+     "Le vent nous emportera",
+     "Close-Up",
+     "Ten"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'L'Échine du diable' (2001) ?",
+     "en": "Who directed 'The Devil's Backbone' (2001)?"
+    },
+    "options": [
+     "Guillermo del Toro",
+     "Pedro Almodóvar",
+     "Alejandro Amenábar",
+     "Juan Antonio Bayona"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Lucrecia Martel (2008) est un thriller intime ?",
+     "en": "Which 2008 Lucrecia Martel film is an intimate thriller?"
+    },
+    "options": [
+     "La Femme sans tête",
+     "La Cienaga",
+     "La Niña Santa",
+     "Zama"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'La Soif du mal' (Touch of Evil, 1958) ?",
+     "en": "Who directed 'Touch of Evil' (1958)?"
+    },
+    "options": [
+     "Orson Welles",
+     "Robert Aldrich",
+     "Nicholas Ray",
+     "Sam Fuller"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Carlos Reygadas (2007) est tourné en bourgeoisie mexicaine ?",
+     "en": "Which 2007 Carlos Reygadas film?"
+    },
+    "options": [
+     "Lumière silencieuse",
+     "Japón",
+     "Post Tenebras Lux",
+     "Notre Temps"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Le Septième Continent' d'Haneke ?",
+     "en": "Who directed Haneke's 'Seventh Continent'?"
+    },
+    "options": [
+     "Michael Haneke",
+     "Ulrich Seidl",
+     "Markus Schleinzer",
+     "Florian Henckel"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'Aki Kaurismäki (2002) raconte un boxeur amnésique ?",
+     "en": "Which 2002 Aki Kaurismäki film tells of an amnesiac boxer?"
+    },
+    "options": [
+     "L'Homme sans passé",
+     "Au loin s'en vont les nuages",
+     "J'ai engagé un tueur",
+     "Les Lumières du faubourg"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "memory": {
+  "pairs": [
+   {
+    "a": {
+     "fr": "Pulp Fiction",
+     "en": "Pulp Fiction"
+    },
+    "b": {
+     "fr": "Quentin Tarantino",
+     "en": "Quentin Tarantino"
+    }
+   },
+   {
+    "a": {
+     "fr": "Le Parrain",
+     "en": "The Godfather"
+    },
+    "b": {
+     "fr": "Francis Ford Coppola",
+     "en": "Francis Ford Coppola"
+    }
+   },
+   {
+    "a": {
+     "fr": "Inception",
+     "en": "Inception"
+    },
+    "b": {
+     "fr": "Christopher Nolan",
+     "en": "Christopher Nolan"
+    }
+   },
+   {
+    "a": {
+     "fr": "Fight Club",
+     "en": "Fight Club"
+    },
+    "b": {
+     "fr": "David Fincher",
+     "en": "David Fincher"
+    }
+   },
+   {
+    "a": {
+     "fr": "Shining",
+     "en": "The Shining"
+    },
+    "b": {
+     "fr": "Stanley Kubrick",
+     "en": "Stanley Kubrick"
+    }
+   },
+   {
+    "a": {
+     "fr": "Le Voyage de Chihiro",
+     "en": "Spirited Away"
+    },
+    "b": {
+     "fr": "Hayao Miyazaki",
+     "en": "Hayao Miyazaki"
+    }
+   },
+   {
+    "a": {
+     "fr": "La La Land",
+     "en": "La La Land"
+    },
+    "b": {
+     "fr": "Damien Chazelle",
+     "en": "Damien Chazelle"
+    }
+   },
+   {
+    "a": {
+     "fr": "Mommy",
+     "en": "Mommy"
+    },
+    "b": {
+     "fr": "Xavier Dolan",
+     "en": "Xavier Dolan"
+    }
+   },
+   {
+    "a": {
+     "fr": "Drive",
+     "en": "Drive"
+    },
+    "b": {
+     "fr": "N. W. Refn",
+     "en": "N. W. Refn"
+    }
+   },
+   {
+    "a": {
+     "fr": "Mulholland Drive",
+     "en": "Mulholland Drive"
+    },
+    "b": {
+     "fr": "David Lynch",
+     "en": "David Lynch"
+    }
+   },
+   {
+    "a": {
+     "fr": "Les Affranchis",
+     "en": "Goodfellas"
+    },
+    "b": {
+     "fr": "Martin Scorsese",
+     "en": "Martin Scorsese"
+    }
+   },
+   {
+    "a": {
+     "fr": "Lawrence d'Arabie",
+     "en": "Lawrence of Arabia"
+    },
+    "b": {
+     "fr": "David Lean",
+     "en": "David Lean"
+    }
+   }
+  ]
+ },
+ "trueFalse": [
+  {
+   "stmt": {
+    "fr": "'Titanic' (1997) a gagné 11 Oscars.",
+    "en": "'Titanic' (1997) won 11 Oscars."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "'Parasite' a remporté l'Oscar du meilleur film 2020.",
+    "en": "'Parasite' won Best Picture in 2020."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Steven Spielberg a réalisé 'Le Parrain'.",
+    "en": "Steven Spielberg directed 'The Godfather'."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "Quentin Tarantino a réalisé 'Pulp Fiction'.",
+    "en": "Quentin Tarantino directed 'Pulp Fiction'."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le rôle de Jack dans Titanic est joué par Brad Pitt.",
+    "en": "Brad Pitt plays Jack in Titanic."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "Disney a racheté Pixar en 2006.",
+    "en": "Disney bought Pixar in 2006."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le Joker de 'The Dark Knight' est joué par Heath Ledger.",
+    "en": "Heath Ledger plays the Joker in 'The Dark Knight'."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "'La La Land' a gagné l'Oscar du meilleur film.",
+    "en": "'La La Land' won Best Picture."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "Hayao Miyazaki est le fondateur du Studio Ghibli.",
+    "en": "Hayao Miyazaki co-founded Studio Ghibli."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le rôle principal de 'Forrest Gump' est joué par Tom Cruise.",
+    "en": "Tom Cruise plays Forrest Gump."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "James Cameron a réalisé 'Avatar' (2009).",
+    "en": "James Cameron directed 'Avatar' (2009)."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Marlon Brando refuse l'Oscar du meilleur acteur en 1973.",
+    "en": "Marlon Brando refused his Best Actor Oscar in 1973."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le film 'Joker' (2019) est sorti avant 'Black Panther'.",
+    "en": "'Joker' (2019) was released before 'Black Panther'."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "Kubrick a réalisé '2001 : L'Odyssée de l'espace'.",
+    "en": "Kubrick directed '2001: A Space Odyssey'."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le premier 'Star Wars' est sorti en 1977.",
+    "en": "The first 'Star Wars' was released in 1977."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Christopher Nolan a réalisé 'Avatar'.",
+    "en": "Christopher Nolan directed 'Avatar'."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "Cannes décerne la Palme d'Or.",
+    "en": "Cannes awards the Palme d'Or."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Pixar a sorti son 1er long métrage en 1995.",
+    "en": "Pixar released its first feature in 1995."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le 1er James Bond officiel est 'Dr. No' (1962).",
+    "en": "The first official Bond film is 'Dr. No' (1962)."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "L'Oscar du meilleur film s'appelle 'Best Director'.",
+    "en": "The Best Picture Oscar is named 'Best Director'."
+   },
+   "answer": false
+  }
+ ]
+}

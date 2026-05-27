@@ -1,0 +1,613 @@
+{
+ "quiz": {
+  "easy": [
+   {
+    "q": {
+     "fr": "Quel personnage de Nintendo est plombier ?",
+     "en": "Which Nintendo character is a plumber?"
+    },
+    "options": [
+     {
+      "fr": "Mario",
+      "en": "Mario"
+     },
+     {
+      "fr": "Link",
+      "en": "Link"
+     },
+     {
+      "fr": "Donkey Kong",
+      "en": "Donkey Kong"
+     },
+     {
+      "fr": "Kirby",
+      "en": "Kirby"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Dans quel jeu peut-on capturer des Pokémon ?",
+     "en": "In which series do you catch Pokémon?"
+    },
+    "options": [
+     {
+      "fr": "Pokémon",
+      "en": "Pokémon"
+     },
+     {
+      "fr": "Digimon",
+      "en": "Digimon"
+     },
+     {
+      "fr": "Yo-kai Watch",
+      "en": "Yo-kai Watch"
+     },
+     {
+      "fr": "Monster Hunter",
+      "en": "Monster Hunter"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu se joue avec des cubes et permet de construire ?",
+     "en": "Which game lets you build with blocks?"
+    },
+    "options": [
+     {
+      "fr": "Minecraft",
+      "en": "Minecraft"
+     },
+     {
+      "fr": "Roblox",
+      "en": "Roblox"
+     },
+     {
+      "fr": "Terraria",
+      "en": "Terraria"
+     },
+     {
+      "fr": "LEGO Worlds",
+      "en": "LEGO Worlds"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle entreprise crée la PlayStation ?",
+     "en": "Which company makes the PlayStation?"
+    },
+    "options": [
+     {
+      "fr": "Sony",
+      "en": "Sony"
+     },
+     {
+      "fr": "Microsoft",
+      "en": "Microsoft"
+     },
+     {
+      "fr": "Nintendo",
+      "en": "Nintendo"
+     },
+     {
+      "fr": "Sega",
+      "en": "Sega"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Comment s'appelle la mascotte de Sega ?",
+     "en": "Who is Sega's mascot?"
+    },
+    "options": [
+     {
+      "fr": "Sonic",
+      "en": "Sonic"
+     },
+     {
+      "fr": "Tails",
+      "en": "Tails"
+     },
+     {
+      "fr": "Knuckles",
+      "en": "Knuckles"
+     },
+     {
+      "fr": "Shadow",
+      "en": "Shadow"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "medium": [
+   {
+    "q": {
+     "fr": "Quel studio développe 'The Witcher' ?",
+     "en": "Which studio develops 'The Witcher'?"
+    },
+    "options": [
+     {
+      "fr": "CD Projekt RED",
+      "en": "CD Projekt RED"
+     },
+     {
+      "fr": "Bethesda",
+      "en": "Bethesda"
+     },
+     {
+      "fr": "Ubisoft",
+      "en": "Ubisoft"
+     },
+     {
+      "fr": "EA",
+      "en": "EA"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Dans 'Zelda : Breath of the Wild', le héros se nomme :",
+     "en": "In 'Zelda: Breath of the Wild' the hero is called:"
+    },
+    "options": [
+     {
+      "fr": "Link",
+      "en": "Link"
+     },
+     {
+      "fr": "Zelda",
+      "en": "Zelda"
+     },
+     {
+      "fr": "Ganon",
+      "en": "Ganon"
+     },
+     {
+      "fr": "Sheik",
+      "en": "Sheik"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle est l'année de sortie de 'Super Mario Bros.' (NES) ?",
+     "en": "Release year of 'Super Mario Bros.' (NES)?"
+    },
+    "options": [
+     {
+      "fr": "1985",
+      "en": "1985"
+     },
+     {
+      "fr": "1981",
+      "en": "1981"
+     },
+     {
+      "fr": "1990",
+      "en": "1990"
+     },
+     {
+      "fr": "1988",
+      "en": "1988"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui est le créateur de la franchise 'Metal Gear' ?",
+     "en": "Who created the 'Metal Gear' franchise?"
+    },
+    "options": [
+     {
+      "fr": "Hideo Kojima",
+      "en": "Hideo Kojima"
+     },
+     {
+      "fr": "Shigeru Miyamoto",
+      "en": "Shigeru Miyamoto"
+     },
+     {
+      "fr": "Hironobu Sakaguchi",
+      "en": "Hironobu Sakaguchi"
+     },
+     {
+      "fr": "Yu Suzuki",
+      "en": "Yu Suzuki"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu de combat met en scène Ryu et Ken ?",
+     "en": "Which fighting series features Ryu and Ken?"
+    },
+    "options": [
+     {
+      "fr": "Street Fighter",
+      "en": "Street Fighter"
+     },
+     {
+      "fr": "Tekken",
+      "en": "Tekken"
+     },
+     {
+      "fr": "Mortal Kombat",
+      "en": "Mortal Kombat"
+     },
+     {
+      "fr": "King of Fighters",
+      "en": "King of Fighters"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "hard": [
+   {
+    "q": {
+     "fr": "Quel jeu indé met en scène Madeline gravissant une montagne ?",
+     "en": "Which indie game features Madeline climbing a mountain?"
+    },
+    "options": [
+     {
+      "fr": "Celeste",
+      "en": "Celeste"
+     },
+     {
+      "fr": "Hollow Knight",
+      "en": "Hollow Knight"
+     },
+     {
+      "fr": "Hades",
+      "en": "Hades"
+     },
+     {
+      "fr": "Cuphead",
+      "en": "Cuphead"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu mécanique met en scène des 'Stands' ?",
+     "en": "Which game series uses 'Stands'?"
+    },
+    "options": [
+     {
+      "fr": "JoJo's Bizarre Adventure",
+      "en": "JoJo's Bizarre Adventure"
+     },
+     {
+      "fr": "Persona",
+      "en": "Persona"
+     },
+     {
+      "fr": "Yakuza",
+      "en": "Yakuza"
+     },
+     {
+      "fr": "Devil May Cry",
+      "en": "Devil May Cry"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel studio a développé 'Bloodborne' ?",
+     "en": "Which studio developed 'Bloodborne'?"
+    },
+    "options": [
+     {
+      "fr": "FromSoftware",
+      "en": "FromSoftware"
+     },
+     {
+      "fr": "Capcom",
+      "en": "Capcom"
+     },
+     {
+      "fr": "Konami",
+      "en": "Konami"
+     },
+     {
+      "fr": "Square Enix",
+      "en": "Square Enix"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle est la première console portable de Nintendo en couleur ?",
+     "en": "First Nintendo color handheld?"
+    },
+    "options": [
+     {
+      "fr": "Game Boy Color",
+      "en": "Game Boy Color"
+     },
+     {
+      "fr": "Game Boy Advance",
+      "en": "Game Boy Advance"
+     },
+     {
+      "fr": "DS",
+      "en": "DS"
+     },
+     {
+      "fr": "Virtual Boy",
+      "en": "Virtual Boy"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu inaugure le 'Soulslike' ?",
+     "en": "Which game founded the 'Soulslike' genre?"
+    },
+    "options": [
+     {
+      "fr": "Demon's Souls (2009)",
+      "en": "Demon's Souls (2009)"
+     },
+     {
+      "fr": "Dark Souls (2011)",
+      "en": "Dark Souls (2011)"
+     },
+     {
+      "fr": "Bloodborne (2015)",
+      "en": "Bloodborne (2015)"
+     },
+     {
+      "fr": "Elden Ring (2022)",
+      "en": "Elden Ring (2022)"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "expert": [
+   {
+    "q": {
+     "fr": "Quel jeu de 1976 est considéré comme l'un des premiers RPG sur ordinateur ?",
+     "en": "Which 1976 game is considered one of the first computer RPGs?"
+    },
+    "options": [
+     {
+      "fr": "Dungeon",
+      "en": "Dungeon"
+     },
+     {
+      "fr": "Adventure",
+      "en": "Adventure"
+     },
+     {
+      "fr": "Zork",
+      "en": "Zork"
+     },
+     {
+      "fr": "Rogue",
+      "en": "Rogue"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a composé la musique de 'Chrono Trigger' ?",
+     "en": "Who composed the 'Chrono Trigger' soundtrack?"
+    },
+    "options": [
+     {
+      "fr": "Yasunori Mitsuda",
+      "en": "Yasunori Mitsuda"
+     },
+     {
+      "fr": "Nobuo Uematsu",
+      "en": "Nobuo Uematsu"
+     },
+     {
+      "fr": "Koji Kondo",
+      "en": "Koji Kondo"
+     },
+     {
+      "fr": "Hitoshi Sakimoto",
+      "en": "Hitoshi Sakimoto"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu Atari de 1980 a inspiré 'Pac-Man' ?",
+     "en": "Which 1980 Atari game inspired 'Pac-Man'?"
+    },
+    "options": [
+     {
+      "fr": "Aucun (Pac-Man est Namco)",
+      "en": "Aucun (Pac-Man est Namco)"
+     },
+     {
+      "fr": "Adventure",
+      "en": "Adventure"
+     },
+     {
+      "fr": "Pong",
+      "en": "Pong"
+     },
+     {
+      "fr": "Asteroids",
+      "en": "Asteroids"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel moteur graphique est utilisé par 'Fortnite' ?",
+     "en": "Which game engine powers 'Fortnite'?"
+    },
+    "options": [
+     {
+      "fr": "Unreal Engine",
+      "en": "Unreal Engine"
+     },
+     {
+      "fr": "Unity",
+      "en": "Unity"
+     },
+     {
+      "fr": "CryEngine",
+      "en": "CryEngine"
+     },
+     {
+      "fr": "Source",
+      "en": "Source"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "'EVE Online' tourne autour de quel univers ?",
+     "en": "'EVE Online' is set in which universe?"
+    },
+    "options": [
+     {
+      "fr": "Univers spatial New Eden",
+      "en": "Univers spatial New Eden"
+     },
+     {
+      "fr": "Médiéval-fantastique",
+      "en": "Médiéval-fantastique"
+     },
+     {
+      "fr": "Cyberpunk Tokyo",
+      "en": "Cyberpunk Tokyo"
+     },
+     {
+      "fr": "Western",
+      "en": "Western"
+     }
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "trueFalse": [
+  {
+   "stmt": {
+    "fr": "La Nintendo Switch est sortie en 2017.",
+    "en": "The Nintendo Switch launched in 2017."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Mario est apparu pour la 1ère fois dans 'Donkey Kong' (1981).",
+    "en": "Mario first appeared in 'Donkey Kong' (1981)."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Minecraft a été racheté par Sony en 2014.",
+    "en": "Minecraft was bought by Sony in 2014."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "La PlayStation 2 reste la console la plus vendue de l'histoire.",
+    "en": "The PS2 is still the best-selling console ever."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le Game Boy a été créé par Gunpei Yokoi.",
+    "en": "The Game Boy was created by Gunpei Yokoi."
+   },
+   "answer": true
+  }
+ ],
+ "memory": {
+  "pairs": [
+   {
+    "a": {
+     "fr": "Mario",
+     "en": "Mario"
+    },
+    "b": {
+     "fr": "Nintendo",
+     "en": "Nintendo"
+    }
+   },
+   {
+    "a": {
+     "fr": "Sonic",
+     "en": "Sonic"
+    },
+    "b": {
+     "fr": "Sega",
+     "en": "Sega"
+    }
+   },
+   {
+    "a": {
+     "fr": "Master Chief",
+     "en": "Master Chief"
+    },
+    "b": {
+     "fr": "Halo",
+     "en": "Halo"
+    }
+   },
+   {
+    "a": {
+     "fr": "Kratos",
+     "en": "Kratos"
+    },
+    "b": {
+     "fr": "God of War",
+     "en": "God of War"
+    }
+   },
+   {
+    "a": {
+     "fr": "Geralt",
+     "en": "Geralt"
+    },
+    "b": {
+     "fr": "The Witcher",
+     "en": "The Witcher"
+    }
+   },
+   {
+    "a": {
+     "fr": "Lara Croft",
+     "en": "Lara Croft"
+    },
+    "b": {
+     "fr": "Tomb Raider",
+     "en": "Tomb Raider"
+    }
+   }
+  ]
+ }
+}

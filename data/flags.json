@@ -1,0 +1,6255 @@
+{
+ "quiz": {
+  "easy": [
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "dk",
+    "options": [
+     {
+      "fr": "Danemark",
+      "en": "Denmark"
+     },
+     {
+      "fr": "Burkina Faso",
+      "en": "Burkina Faso"
+     },
+     {
+      "fr": "Vietnam",
+      "en": "Vietnam"
+     },
+     {
+      "fr": "Cameroun",
+      "en": "Cameroon"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "se",
+    "options": [
+     {
+      "fr": "Suède",
+      "en": "Sweden"
+     },
+     {
+      "fr": "Pays-Bas",
+      "en": "Netherlands"
+     },
+     {
+      "fr": "Sierra Leone",
+      "en": "Sierra Leone"
+     },
+     {
+      "fr": "Jordanie",
+      "en": "Jordan"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "pt",
+    "options": [
+     {
+      "fr": "Portugal",
+      "en": "Portugal"
+     },
+     {
+      "fr": "Guatemala",
+      "en": "Guatemala"
+     },
+     {
+      "fr": "Barbade",
+      "en": "Barbados"
+     },
+     {
+      "fr": "Éthiopie",
+      "en": "Ethiopia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "au",
+    "options": [
+     {
+      "fr": "Australie",
+      "en": "Australia"
+     },
+     {
+      "fr": "Uruguay",
+      "en": "Uruguay"
+     },
+     {
+      "fr": "Roumanie",
+      "en": "Romania"
+     },
+     {
+      "fr": "Maurice",
+      "en": "Mauritius"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "es",
+    "options": [
+     {
+      "fr": "Espagne",
+      "en": "Spain"
+     },
+     {
+      "fr": "Grèce",
+      "en": "Greece"
+     },
+     {
+      "fr": "Mexique",
+      "en": "Mexico"
+     },
+     {
+      "fr": "Vanuatu",
+      "en": "Vanuatu"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ve",
+    "options": [
+     {
+      "fr": "Venezuela",
+      "en": "Venezuela"
+     },
+     {
+      "fr": "Estonie",
+      "en": "Estonia"
+     },
+     {
+      "fr": "Taïwan",
+      "en": "Taiwan"
+     },
+     {
+      "fr": "Syrie",
+      "en": "Syria"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "fi",
+    "options": [
+     {
+      "fr": "Finlande",
+      "en": "Finland"
+     },
+     {
+      "fr": "Pays-Bas",
+      "en": "Netherlands"
+     },
+     {
+      "fr": "Biélorussie",
+      "en": "Belarus"
+     },
+     {
+      "fr": "Danemark",
+      "en": "Denmark"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ru",
+    "options": [
+     {
+      "fr": "Russie",
+      "en": "Russia"
+     },
+     {
+      "fr": "Libye",
+      "en": "Libya"
+     },
+     {
+      "fr": "Azerbaïdjan",
+      "en": "Azerbaijan"
+     },
+     {
+      "fr": "Burundi",
+      "en": "Burundi"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "at",
+    "options": [
+     {
+      "fr": "Autriche",
+      "en": "Austria"
+     },
+     {
+      "fr": "Salvador",
+      "en": "El Salvador"
+     },
+     {
+      "fr": "Ghana",
+      "en": "Ghana"
+     },
+     {
+      "fr": "Chili",
+      "en": "Chile"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "eg",
+    "options": [
+     {
+      "fr": "Égypte",
+      "en": "Egypt"
+     },
+     {
+      "fr": "Sénégal",
+      "en": "Senegal"
+     },
+     {
+      "fr": "Malaisie",
+      "en": "Malaysia"
+     },
+     {
+      "fr": "Croatie",
+      "en": "Croatia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "th",
+    "options": [
+     {
+      "fr": "Thaïlande",
+      "en": "Thailand"
+     },
+     {
+      "fr": "Tonga",
+      "en": "Tonga"
+     },
+     {
+      "fr": "Chypre",
+      "en": "Cyprus"
+     },
+     {
+      "fr": "Seychelles",
+      "en": "Seychelles"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "be",
+    "options": [
+     {
+      "fr": "Belgique",
+      "en": "Belgium"
+     },
+     {
+      "fr": "Nauru",
+      "en": "Nauru"
+     },
+     {
+      "fr": "Panama",
+      "en": "Panama"
+     },
+     {
+      "fr": "Grèce",
+      "en": "Greece"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "mx",
+    "options": [
+     {
+      "fr": "Mexique",
+      "en": "Mexico"
+     },
+     {
+      "fr": "Jamaïque",
+      "en": "Jamaica"
+     },
+     {
+      "fr": "Salvador",
+      "en": "El Salvador"
+     },
+     {
+      "fr": "Pérou",
+      "en": "Peru"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "it",
+    "options": [
+     {
+      "fr": "Italie",
+      "en": "Italy"
+     },
+     {
+      "fr": "Mali",
+      "en": "Mali"
+     },
+     {
+      "fr": "Liechtenstein",
+      "en": "Liechtenstein"
+     },
+     {
+      "fr": "Macédoine du Nord",
+      "en": "North Macedonia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "il",
+    "options": [
+     {
+      "fr": "Israël",
+      "en": "Israel"
+     },
+     {
+      "fr": "Chili",
+      "en": "Chile"
+     },
+     {
+      "fr": "Tanzanie",
+      "en": "Tanzania"
+     },
+     {
+      "fr": "Libye",
+      "en": "Libya"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "sa",
+    "options": [
+     {
+      "fr": "Arabie Saoudite",
+      "en": "Saudi Arabia"
+     },
+     {
+      "fr": "Géorgie",
+      "en": "Georgia"
+     },
+     {
+      "fr": "Nicaragua",
+      "en": "Nicaragua"
+     },
+     {
+      "fr": "Micronésie",
+      "en": "Micronesia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ca",
+    "options": [
+     {
+      "fr": "Canada",
+      "en": "Canada"
+     },
+     {
+      "fr": "Gambie",
+      "en": "Gambia"
+     },
+     {
+      "fr": "Lituanie",
+      "en": "Lithuania"
+     },
+     {
+      "fr": "Palaos",
+      "en": "Palau"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "no",
+    "options": [
+     {
+      "fr": "Norvège",
+      "en": "Norway"
+     },
+     {
+      "fr": "Pakistan",
+      "en": "Pakistan"
+     },
+     {
+      "fr": "Hong Kong",
+      "en": "Hong Kong"
+     },
+     {
+      "fr": "Inde",
+      "en": "India"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ma",
+    "options": [
+     {
+      "fr": "Maroc",
+      "en": "Morocco"
+     },
+     {
+      "fr": "Estonie",
+      "en": "Estonia"
+     },
+     {
+      "fr": "Brésil",
+      "en": "Brazil"
+     },
+     {
+      "fr": "Bahreïn",
+      "en": "Bahrain"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "fr",
+    "options": [
+     {
+      "fr": "France",
+      "en": "France"
+     },
+     {
+      "fr": "Tadjikistan",
+      "en": "Tajikistan"
+     },
+     {
+      "fr": "Chypre",
+      "en": "Cyprus"
+     },
+     {
+      "fr": "Turquie",
+      "en": "Turkey"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "co",
+    "options": [
+     {
+      "fr": "Colombie",
+      "en": "Colombia"
+     },
+     {
+      "fr": "Slovaquie",
+      "en": "Slovakia"
+     },
+     {
+      "fr": "Togo",
+      "en": "Togo"
+     },
+     {
+      "fr": "Monaco",
+      "en": "Monaco"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "gr",
+    "options": [
+     {
+      "fr": "Grèce",
+      "en": "Greece"
+     },
+     {
+      "fr": "Bahreïn",
+      "en": "Bahrain"
+     },
+     {
+      "fr": "Slovaquie",
+      "en": "Slovakia"
+     },
+     {
+      "fr": "Papouasie-Nouvelle-Guinée",
+      "en": "Papua New Guinea"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "id",
+    "options": [
+     {
+      "fr": "Indonésie",
+      "en": "Indonesia"
+     },
+     {
+      "fr": "Lesotho",
+      "en": "Lesotho"
+     },
+     {
+      "fr": "Turkménistan",
+      "en": "Turkmenistan"
+     },
+     {
+      "fr": "Costa Rica",
+      "en": "Costa Rica"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "cz",
+    "options": [
+     {
+      "fr": "République tchèque",
+      "en": "Czech Republic"
+     },
+     {
+      "fr": "Ouganda",
+      "en": "Uganda"
+     },
+     {
+      "fr": "Algérie",
+      "en": "Algeria"
+     },
+     {
+      "fr": "Malte",
+      "en": "Malta"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ke",
+    "options": [
+     {
+      "fr": "Kenya",
+      "en": "Kenya"
+     },
+     {
+      "fr": "Maroc",
+      "en": "Morocco"
+     },
+     {
+      "fr": "Bosnie-Herzégovine",
+      "en": "Bosnia and Herzegovina"
+     },
+     {
+      "fr": "Grenade",
+      "en": "Grenada"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "kr",
+    "options": [
+     {
+      "fr": "Corée du Sud",
+      "en": "South Korea"
+     },
+     {
+      "fr": "Guinée-Bissau",
+      "en": "Guinea-Bissau"
+     },
+     {
+      "fr": "Burkina Faso",
+      "en": "Burkina Faso"
+     },
+     {
+      "fr": "Malte",
+      "en": "Malta"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "pl",
+    "options": [
+     {
+      "fr": "Pologne",
+      "en": "Poland"
+     },
+     {
+      "fr": "Antigua-et-Barbuda",
+      "en": "Antigua and Barbuda"
+     },
+     {
+      "fr": "Bolivie",
+      "en": "Bolivia"
+     },
+     {
+      "fr": "Afghanistan",
+      "en": "Afghanistan"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "nl",
+    "options": [
+     {
+      "fr": "Pays-Bas",
+      "en": "Netherlands"
+     },
+     {
+      "fr": "Bolivie",
+      "en": "Bolivia"
+     },
+     {
+      "fr": "Tadjikistan",
+      "en": "Tajikistan"
+     },
+     {
+      "fr": "Éthiopie",
+      "en": "Ethiopia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ch",
+    "options": [
+     {
+      "fr": "Suisse",
+      "en": "Switzerland"
+     },
+     {
+      "fr": "Lituanie",
+      "en": "Lithuania"
+     },
+     {
+      "fr": "Algérie",
+      "en": "Algeria"
+     },
+     {
+      "fr": "République du Congo",
+      "en": "Republic of Congo"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "cl",
+    "options": [
+     {
+      "fr": "Chili",
+      "en": "Chile"
+     },
+     {
+      "fr": "Eswatini",
+      "en": "Eswatini"
+     },
+     {
+      "fr": "Suède",
+      "en": "Sweden"
+     },
+     {
+      "fr": "Dominique",
+      "en": "Dominica"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "cu",
+    "options": [
+     {
+      "fr": "Cuba",
+      "en": "Cuba"
+     },
+     {
+      "fr": "Mexique",
+      "en": "Mexico"
+     },
+     {
+      "fr": "Pologne",
+      "en": "Poland"
+     },
+     {
+      "fr": "Israël",
+      "en": "Israel"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "dz",
+    "options": [
+     {
+      "fr": "Algérie",
+      "en": "Algeria"
+     },
+     {
+      "fr": "Guatemala",
+      "en": "Guatemala"
+     },
+     {
+      "fr": "Kenya",
+      "en": "Kenya"
+     },
+     {
+      "fr": "Nauru",
+      "en": "Nauru"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "vn",
+    "options": [
+     {
+      "fr": "Vietnam",
+      "en": "Vietnam"
+     },
+     {
+      "fr": "Timor oriental",
+      "en": "East Timor"
+     },
+     {
+      "fr": "Suriname",
+      "en": "Suriname"
+     },
+     {
+      "fr": "Égypte",
+      "en": "Egypt"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "pe",
+    "options": [
+     {
+      "fr": "Pérou",
+      "en": "Peru"
+     },
+     {
+      "fr": "Soudan",
+      "en": "Sudan"
+     },
+     {
+      "fr": "Libye",
+      "en": "Libya"
+     },
+     {
+      "fr": "Suriname",
+      "en": "Suriname"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ar",
+    "options": [
+     {
+      "fr": "Argentine",
+      "en": "Argentina"
+     },
+     {
+      "fr": "Malawi",
+      "en": "Malawi"
+     },
+     {
+      "fr": "Niger",
+      "en": "Niger"
+     },
+     {
+      "fr": "Monténégro",
+      "en": "Montenegro"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "hu",
+    "options": [
+     {
+      "fr": "Hongrie",
+      "en": "Hungary"
+     },
+     {
+      "fr": "Sierra Leone",
+      "en": "Sierra Leone"
+     },
+     {
+      "fr": "Allemagne",
+      "en": "Germany"
+     },
+     {
+      "fr": "Nauru",
+      "en": "Nauru"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "nz",
+    "options": [
+     {
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand"
+     },
+     {
+      "fr": "Saint-Marin",
+      "en": "San Marino"
+     },
+     {
+      "fr": "Autriche",
+      "en": "Austria"
+     },
+     {
+      "fr": "Nauru",
+      "en": "Nauru"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "de",
+    "options": [
+     {
+      "fr": "Allemagne",
+      "en": "Germany"
+     },
+     {
+      "fr": "Burkina Faso",
+      "en": "Burkina Faso"
+     },
+     {
+      "fr": "Saint-Christophe-et-Niévès",
+      "en": "Saint Kitts and Nevis"
+     },
+     {
+      "fr": "Chypre",
+      "en": "Cyprus"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ie",
+    "options": [
+     {
+      "fr": "Irlande",
+      "en": "Ireland"
+     },
+     {
+      "fr": "Hong Kong",
+      "en": "Hong Kong"
+     },
+     {
+      "fr": "Costa Rica",
+      "en": "Costa Rica"
+     },
+     {
+      "fr": "Birmanie",
+      "en": "Myanmar"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "tn",
+    "options": [
+     {
+      "fr": "Tunisie",
+      "en": "Tunisia"
+     },
+     {
+      "fr": "Pologne",
+      "en": "Poland"
+     },
+     {
+      "fr": "Jordanie",
+      "en": "Jordan"
+     },
+     {
+      "fr": "Érythrée",
+      "en": "Eritrea"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "gb",
+    "options": [
+     {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom"
+     },
+     {
+      "fr": "Kenya",
+      "en": "Kenya"
+     },
+     {
+      "fr": "Burundi",
+      "en": "Burundi"
+     },
+     {
+      "fr": "France",
+      "en": "France"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ph",
+    "options": [
+     {
+      "fr": "Philippines",
+      "en": "Philippines"
+     },
+     {
+      "fr": "Saint-Marin",
+      "en": "San Marino"
+     },
+     {
+      "fr": "Malte",
+      "en": "Malta"
+     },
+     {
+      "fr": "Angola",
+      "en": "Angola"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "jp",
+    "options": [
+     {
+      "fr": "Japon",
+      "en": "Japan"
+     },
+     {
+      "fr": "Sint-Maarten",
+      "en": "Sint Maarten"
+     },
+     {
+      "fr": "Cuba",
+      "en": "Cuba"
+     },
+     {
+      "fr": "République démocratique du Congo",
+      "en": "DR Congo"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "br",
+    "options": [
+     {
+      "fr": "Brésil",
+      "en": "Brazil"
+     },
+     {
+      "fr": "Pologne",
+      "en": "Poland"
+     },
+     {
+      "fr": "Guatemala",
+      "en": "Guatemala"
+     },
+     {
+      "fr": "Liban",
+      "en": "Lebanon"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "in",
+    "options": [
+     {
+      "fr": "Inde",
+      "en": "India"
+     },
+     {
+      "fr": "Nicaragua",
+      "en": "Nicaragua"
+     },
+     {
+      "fr": "République démocratique du Congo",
+      "en": "DR Congo"
+     },
+     {
+      "fr": "Jamaïque",
+      "en": "Jamaica"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "za",
+    "options": [
+     {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+     },
+     {
+      "fr": "Bulgarie",
+      "en": "Bulgaria"
+     },
+     {
+      "fr": "Nigeria",
+      "en": "Nigeria"
+     },
+     {
+      "fr": "Côte d'Ivoire",
+      "en": "Ivory Coast"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "tr",
+    "options": [
+     {
+      "fr": "Turquie",
+      "en": "Turkey"
+     },
+     {
+      "fr": "Sint-Maarten",
+      "en": "Sint Maarten"
+     },
+     {
+      "fr": "Chili",
+      "en": "Chile"
+     },
+     {
+      "fr": "Mauritanie",
+      "en": "Mauritania"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "us",
+    "options": [
+     {
+      "fr": "États-Unis",
+      "en": "United States"
+     },
+     {
+      "fr": "Niger",
+      "en": "Niger"
+     },
+     {
+      "fr": "France",
+      "en": "France"
+     },
+     {
+      "fr": "République dominicaine",
+      "en": "Dominican Republic"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "cn",
+    "options": [
+     {
+      "fr": "Chine",
+      "en": "China"
+     },
+     {
+      "fr": "Yémen",
+      "en": "Yemen"
+     },
+     {
+      "fr": "Botswana",
+      "en": "Botswana"
+     },
+     {
+      "fr": "Espagne",
+      "en": "Spain"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ng",
+    "options": [
+     {
+      "fr": "Nigeria",
+      "en": "Nigeria"
+     },
+     {
+      "fr": "Pologne",
+      "en": "Poland"
+     },
+     {
+      "fr": "Éthiopie",
+      "en": "Ethiopia"
+     },
+     {
+      "fr": "Qatar",
+      "en": "Qatar"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "medium": [
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "sg",
+    "options": [
+     {
+      "fr": "Singapour",
+      "en": "Singapore"
+     },
+     {
+      "fr": "Croatie",
+      "en": "Croatia"
+     },
+     {
+      "fr": "Mauritanie",
+      "en": "Mauritania"
+     },
+     {
+      "fr": "Indonésie",
+      "en": "Indonesia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "gh",
+    "options": [
+     {
+      "fr": "Ghana",
+      "en": "Ghana"
+     },
+     {
+      "fr": "Vatican",
+      "en": "Vatican City"
+     },
+     {
+      "fr": "Bénin",
+      "en": "Benin"
+     },
+     {
+      "fr": "Uruguay",
+      "en": "Uruguay"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "kh",
+    "options": [
+     {
+      "fr": "Cambodge",
+      "en": "Cambodia"
+     },
+     {
+      "fr": "Zimbabwe",
+      "en": "Zimbabwe"
+     },
+     {
+      "fr": "Albanie",
+      "en": "Albania"
+     },
+     {
+      "fr": "Mongolie",
+      "en": "Mongolia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "cm",
+    "options": [
+     {
+      "fr": "Cameroun",
+      "en": "Cameroon"
+     },
+     {
+      "fr": "République tchèque",
+      "en": "Czech Republic"
+     },
+     {
+      "fr": "Norvège",
+      "en": "Norway"
+     },
+     {
+      "fr": "Îles Salomon",
+      "en": "Solomon Islands"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "si",
+    "options": [
+     {
+      "fr": "Slovénie",
+      "en": "Slovenia"
+     },
+     {
+      "fr": "Palestine",
+      "en": "Palestine"
+     },
+     {
+      "fr": "Malaisie",
+      "en": "Malaysia"
+     },
+     {
+      "fr": "Timor oriental",
+      "en": "East Timor"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "mt",
+    "options": [
+     {
+      "fr": "Malte",
+      "en": "Malta"
+     },
+     {
+      "fr": "Bhoutan",
+      "en": "Bhutan"
+     },
+     {
+      "fr": "Malawi",
+      "en": "Malawi"
+     },
+     {
+      "fr": "Liechtenstein",
+      "en": "Liechtenstein"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "mm",
+    "options": [
+     {
+      "fr": "Birmanie",
+      "en": "Myanmar"
+     },
+     {
+      "fr": "Argentine",
+      "en": "Argentina"
+     },
+     {
+      "fr": "Kiribati",
+      "en": "Kiribati"
+     },
+     {
+      "fr": "Papouasie-Nouvelle-Guinée",
+      "en": "Papua New Guinea"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "sy",
+    "options": [
+     {
+      "fr": "Syrie",
+      "en": "Syria"
+     },
+     {
+      "fr": "Panama",
+      "en": "Panama"
+     },
+     {
+      "fr": "Danemark",
+      "en": "Denmark"
+     },
+     {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "om",
+    "options": [
+     {
+      "fr": "Oman",
+      "en": "Oman"
+     },
+     {
+      "fr": "Kirghizstan",
+      "en": "Kyrgyzstan"
+     },
+     {
+      "fr": "Liechtenstein",
+      "en": "Liechtenstein"
+     },
+     {
+      "fr": "Népal",
+      "en": "Nepal"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ae",
+    "options": [
+     {
+      "fr": "Émirats arabes unis",
+      "en": "United Arab Emirates"
+     },
+     {
+      "fr": "Irlande",
+      "en": "Ireland"
+     },
+     {
+      "fr": "Macédoine du Nord",
+      "en": "North Macedonia"
+     },
+     {
+      "fr": "Hongrie",
+      "en": "Hungary"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "lu",
+    "options": [
+     {
+      "fr": "Luxembourg",
+      "en": "Luxembourg"
+     },
+     {
+      "fr": "République tchèque",
+      "en": "Czech Republic"
+     },
+     {
+      "fr": "Burkina Faso",
+      "en": "Burkina Faso"
+     },
+     {
+      "fr": "Djibouti",
+      "en": "Djibouti"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "bg",
+    "options": [
+     {
+      "fr": "Bulgarie",
+      "en": "Bulgaria"
+     },
+     {
+      "fr": "Maroc",
+      "en": "Morocco"
+     },
+     {
+      "fr": "Timor oriental",
+      "en": "East Timor"
+     },
+     {
+      "fr": "Cuba",
+      "en": "Cuba"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ir",
+    "options": [
+     {
+      "fr": "Iran",
+      "en": "Iran"
+     },
+     {
+      "fr": "Arménie",
+      "en": "Armenia"
+     },
+     {
+      "fr": "Tanzanie",
+      "en": "Tanzania"
+     },
+     {
+      "fr": "Macédoine du Nord",
+      "en": "North Macedonia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "my",
+    "options": [
+     {
+      "fr": "Malaisie",
+      "en": "Malaysia"
+     },
+     {
+      "fr": "Portugal",
+      "en": "Portugal"
+     },
+     {
+      "fr": "Somalie",
+      "en": "Somalia"
+     },
+     {
+      "fr": "Libéria",
+      "en": "Liberia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "qa",
+    "options": [
+     {
+      "fr": "Qatar",
+      "en": "Qatar"
+     },
+     {
+      "fr": "Danemark",
+      "en": "Denmark"
+     },
+     {
+      "fr": "Mexique",
+      "en": "Mexico"
+     },
+     {
+      "fr": "Fidji",
+      "en": "Fiji"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "cy",
+    "options": [
+     {
+      "fr": "Chypre",
+      "en": "Cyprus"
+     },
+     {
+      "fr": "Mauritanie",
+      "en": "Mauritania"
+     },
+     {
+      "fr": "Italie",
+      "en": "Italy"
+     },
+     {
+      "fr": "Suède",
+      "en": "Sweden"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ro",
+    "options": [
+     {
+      "fr": "Roumanie",
+      "en": "Romania"
+     },
+     {
+      "fr": "Saint-Christophe-et-Niévès",
+      "en": "Saint Kitts and Nevis"
+     },
+     {
+      "fr": "Moldavie",
+      "en": "Moldova"
+     },
+     {
+      "fr": "Chili",
+      "en": "Chile"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ci",
+    "options": [
+     {
+      "fr": "Côte d'Ivoire",
+      "en": "Ivory Coast"
+     },
+     {
+      "fr": "Mongolie",
+      "en": "Mongolia"
+     },
+     {
+      "fr": "Namibie",
+      "en": "Namibia"
+     },
+     {
+      "fr": "Madagascar",
+      "en": "Madagascar"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ua",
+    "options": [
+     {
+      "fr": "Ukraine",
+      "en": "Ukraine"
+     },
+     {
+      "fr": "Slovaquie",
+      "en": "Slovakia"
+     },
+     {
+      "fr": "Tadjikistan",
+      "en": "Tajikistan"
+     },
+     {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "jo",
+    "options": [
+     {
+      "fr": "Jordanie",
+      "en": "Jordan"
+     },
+     {
+      "fr": "Chili",
+      "en": "Chile"
+     },
+     {
+      "fr": "Libye",
+      "en": "Libya"
+     },
+     {
+      "fr": "France",
+      "en": "France"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "lt",
+    "options": [
+     {
+      "fr": "Lituanie",
+      "en": "Lithuania"
+     },
+     {
+      "fr": "Ouzbékistan",
+      "en": "Uzbekistan"
+     },
+     {
+      "fr": "Malte",
+      "en": "Malta"
+     },
+     {
+      "fr": "Burundi",
+      "en": "Burundi"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ly",
+    "options": [
+     {
+      "fr": "Libye",
+      "en": "Libya"
+     },
+     {
+      "fr": "Iran",
+      "en": "Iran"
+     },
+     {
+      "fr": "Timor oriental",
+      "en": "East Timor"
+     },
+     {
+      "fr": "Comores",
+      "en": "Comoros"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "iq",
+    "options": [
+     {
+      "fr": "Irak",
+      "en": "Iraq"
+     },
+     {
+      "fr": "Kosovo",
+      "en": "Kosovo"
+     },
+     {
+      "fr": "Gambie",
+      "en": "Gambia"
+     },
+     {
+      "fr": "Vanuatu",
+      "en": "Vanuatu"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "np",
+    "options": [
+     {
+      "fr": "Népal",
+      "en": "Nepal"
+     },
+     {
+      "fr": "Monaco",
+      "en": "Monaco"
+     },
+     {
+      "fr": "Namibie",
+      "en": "Namibia"
+     },
+     {
+      "fr": "Israël",
+      "en": "Israel"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ba",
+    "options": [
+     {
+      "fr": "Bosnie-Herzégovine",
+      "en": "Bosnia and Herzegovina"
+     },
+     {
+      "fr": "République tchèque",
+      "en": "Czech Republic"
+     },
+     {
+      "fr": "Jordanie",
+      "en": "Jordan"
+     },
+     {
+      "fr": "Slovaquie",
+      "en": "Slovakia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "md",
+    "options": [
+     {
+      "fr": "Moldavie",
+      "en": "Moldova"
+     },
+     {
+      "fr": "Inde",
+      "en": "India"
+     },
+     {
+      "fr": "Paraguay",
+      "en": "Paraguay"
+     },
+     {
+      "fr": "Sainte-Lucie",
+      "en": "Saint Lucia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ge",
+    "options": [
+     {
+      "fr": "Géorgie",
+      "en": "Georgia"
+     },
+     {
+      "fr": "Mauritanie",
+      "en": "Mauritania"
+     },
+     {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+     },
+     {
+      "fr": "Antigua-et-Barbuda",
+      "en": "Antigua and Barbuda"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "am",
+    "options": [
+     {
+      "fr": "Arménie",
+      "en": "Armenia"
+     },
+     {
+      "fr": "Bahreïn",
+      "en": "Bahrain"
+     },
+     {
+      "fr": "Inde",
+      "en": "India"
+     },
+     {
+      "fr": "Mexique",
+      "en": "Mexico"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "et",
+    "options": [
+     {
+      "fr": "Éthiopie",
+      "en": "Ethiopia"
+     },
+     {
+      "fr": "Bolivie",
+      "en": "Bolivia"
+     },
+     {
+      "fr": "Mozambique",
+      "en": "Mozambique"
+     },
+     {
+      "fr": "Angola",
+      "en": "Angola"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ee",
+    "options": [
+     {
+      "fr": "Estonie",
+      "en": "Estonia"
+     },
+     {
+      "fr": "Niger",
+      "en": "Niger"
+     },
+     {
+      "fr": "Nigeria",
+      "en": "Nigeria"
+     },
+     {
+      "fr": "Inde",
+      "en": "India"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "az",
+    "options": [
+     {
+      "fr": "Azerbaïdjan",
+      "en": "Azerbaijan"
+     },
+     {
+      "fr": "République du Congo",
+      "en": "Republic of Congo"
+     },
+     {
+      "fr": "Pays-Bas",
+      "en": "Netherlands"
+     },
+     {
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "al",
+    "options": [
+     {
+      "fr": "Albanie",
+      "en": "Albania"
+     },
+     {
+      "fr": "Turquie",
+      "en": "Turkey"
+     },
+     {
+      "fr": "Suriname",
+      "en": "Suriname"
+     },
+     {
+      "fr": "Kiribati",
+      "en": "Kiribati"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "mk",
+    "options": [
+     {
+      "fr": "Macédoine du Nord",
+      "en": "North Macedonia"
+     },
+     {
+      "fr": "Biélorussie",
+      "en": "Belarus"
+     },
+     {
+      "fr": "Kirghizstan",
+      "en": "Kyrgyzstan"
+     },
+     {
+      "fr": "Corée du Sud",
+      "en": "South Korea"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "lb",
+    "options": [
+     {
+      "fr": "Liban",
+      "en": "Lebanon"
+     },
+     {
+      "fr": "Togo",
+      "en": "Togo"
+     },
+     {
+      "fr": "Macédoine du Nord",
+      "en": "North Macedonia"
+     },
+     {
+      "fr": "Paraguay",
+      "en": "Paraguay"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ye",
+    "options": [
+     {
+      "fr": "Yémen",
+      "en": "Yemen"
+     },
+     {
+      "fr": "Suriname",
+      "en": "Suriname"
+     },
+     {
+      "fr": "Canada",
+      "en": "Canada"
+     },
+     {
+      "fr": "Barbade",
+      "en": "Barbados"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "is",
+    "options": [
+     {
+      "fr": "Islande",
+      "en": "Iceland"
+     },
+     {
+      "fr": "Pays-Bas",
+      "en": "Netherlands"
+     },
+     {
+      "fr": "Brunei",
+      "en": "Brunei"
+     },
+     {
+      "fr": "Îles Salomon",
+      "en": "Solomon Islands"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "by",
+    "options": [
+     {
+      "fr": "Biélorussie",
+      "en": "Belarus"
+     },
+     {
+      "fr": "Bolivie",
+      "en": "Bolivia"
+     },
+     {
+      "fr": "Cap-Vert",
+      "en": "Cape Verde"
+     },
+     {
+      "fr": "République centrafricaine",
+      "en": "Central African Republic"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "bd",
+    "options": [
+     {
+      "fr": "Bangladesh",
+      "en": "Bangladesh"
+     },
+     {
+      "fr": "Koweït",
+      "en": "Kuwait"
+     },
+     {
+      "fr": "Islande",
+      "en": "Iceland"
+     },
+     {
+      "fr": "Ukraine",
+      "en": "Ukraine"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "kw",
+    "options": [
+     {
+      "fr": "Koweït",
+      "en": "Kuwait"
+     },
+     {
+      "fr": "Tonga",
+      "en": "Tonga"
+     },
+     {
+      "fr": "Monaco",
+      "en": "Monaco"
+     },
+     {
+      "fr": "Bahreïn",
+      "en": "Bahrain"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "la",
+    "options": [
+     {
+      "fr": "Laos",
+      "en": "Laos"
+     },
+     {
+      "fr": "Moldavie",
+      "en": "Moldova"
+     },
+     {
+      "fr": "Luxembourg",
+      "en": "Luxembourg"
+     },
+     {
+      "fr": "Turkménistan",
+      "en": "Turkmenistan"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "lv",
+    "options": [
+     {
+      "fr": "Lettonie",
+      "en": "Latvia"
+     },
+     {
+      "fr": "Indonésie",
+      "en": "Indonesia"
+     },
+     {
+      "fr": "Tonga",
+      "en": "Tonga"
+     },
+     {
+      "fr": "Panama",
+      "en": "Panama"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "pk",
+    "options": [
+     {
+      "fr": "Pakistan",
+      "en": "Pakistan"
+     },
+     {
+      "fr": "Jordanie",
+      "en": "Jordan"
+     },
+     {
+      "fr": "Ouganda",
+      "en": "Uganda"
+     },
+     {
+      "fr": "Koweït",
+      "en": "Kuwait"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "hr",
+    "options": [
+     {
+      "fr": "Croatie",
+      "en": "Croatia"
+     },
+     {
+      "fr": "Saint-Christophe-et-Niévès",
+      "en": "Saint Kitts and Nevis"
+     },
+     {
+      "fr": "Grèce",
+      "en": "Greece"
+     },
+     {
+      "fr": "Allemagne",
+      "en": "Germany"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "bh",
+    "options": [
+     {
+      "fr": "Bahreïn",
+      "en": "Bahrain"
+     },
+     {
+      "fr": "Ouganda",
+      "en": "Uganda"
+     },
+     {
+      "fr": "Belize",
+      "en": "Belize"
+     },
+     {
+      "fr": "Cap-Vert",
+      "en": "Cape Verde"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "sn",
+    "options": [
+     {
+      "fr": "Sénégal",
+      "en": "Senegal"
+     },
+     {
+      "fr": "Danemark",
+      "en": "Denmark"
+     },
+     {
+      "fr": "Grèce",
+      "en": "Greece"
+     },
+     {
+      "fr": "Burkina Faso",
+      "en": "Burkina Faso"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "sk",
+    "options": [
+     {
+      "fr": "Slovaquie",
+      "en": "Slovakia"
+     },
+     {
+      "fr": "Croatie",
+      "en": "Croatia"
+     },
+     {
+      "fr": "République démocratique du Congo",
+      "en": "DR Congo"
+     },
+     {
+      "fr": "Malte",
+      "en": "Malta"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "lk",
+    "options": [
+     {
+      "fr": "Sri Lanka",
+      "en": "Sri Lanka"
+     },
+     {
+      "fr": "Indonésie",
+      "en": "Indonesia"
+     },
+     {
+      "fr": "Laos",
+      "en": "Laos"
+     },
+     {
+      "fr": "Turquie",
+      "en": "Turkey"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "sd",
+    "options": [
+     {
+      "fr": "Soudan",
+      "en": "Sudan"
+     },
+     {
+      "fr": "Albanie",
+      "en": "Albania"
+     },
+     {
+      "fr": "Ghana",
+      "en": "Ghana"
+     },
+     {
+      "fr": "Azerbaïdjan",
+      "en": "Azerbaijan"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "rs",
+    "options": [
+     {
+      "fr": "Serbie",
+      "en": "Serbia"
+     },
+     {
+      "fr": "Nigeria",
+      "en": "Nigeria"
+     },
+     {
+      "fr": "Soudan du Sud",
+      "en": "South Sudan"
+     },
+     {
+      "fr": "Guinée",
+      "en": "Guinea"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "me",
+    "options": [
+     {
+      "fr": "Monténégro",
+      "en": "Montenegro"
+     },
+     {
+      "fr": "Maurice",
+      "en": "Mauritius"
+     },
+     {
+      "fr": "Émirats arabes unis",
+      "en": "United Arab Emirates"
+     },
+     {
+      "fr": "Trinité-et-Tobago",
+      "en": "Trinidad and Tobago"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "hard": [
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "er",
+    "options": [
+     {
+      "fr": "Érythrée",
+      "en": "Eritrea"
+     },
+     {
+      "fr": "Afghanistan",
+      "en": "Afghanistan"
+     },
+     {
+      "fr": "Vietnam",
+      "en": "Vietnam"
+     },
+     {
+      "fr": "Canada",
+      "en": "Canada"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "tj",
+    "options": [
+     {
+      "fr": "Tadjikistan",
+      "en": "Tajikistan"
+     },
+     {
+      "fr": "Émirats arabes unis",
+      "en": "United Arab Emirates"
+     },
+     {
+      "fr": "Éthiopie",
+      "en": "Ethiopia"
+     },
+     {
+      "fr": "Canada",
+      "en": "Canada"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "cd",
+    "options": [
+     {
+      "fr": "République démocratique du Congo",
+      "en": "DR Congo"
+     },
+     {
+      "fr": "Malaisie",
+      "en": "Malaysia"
+     },
+     {
+      "fr": "Serbie",
+      "en": "Serbia"
+     },
+     {
+      "fr": "Nauru",
+      "en": "Nauru"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "mn",
+    "options": [
+     {
+      "fr": "Mongolie",
+      "en": "Mongolia"
+     },
+     {
+      "fr": "Macédoine du Nord",
+      "en": "North Macedonia"
+     },
+     {
+      "fr": "Samoa",
+      "en": "Samoa"
+     },
+     {
+      "fr": "Finlande",
+      "en": "Finland"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "cf",
+    "options": [
+     {
+      "fr": "République centrafricaine",
+      "en": "Central African Republic"
+     },
+     {
+      "fr": "Laos",
+      "en": "Laos"
+     },
+     {
+      "fr": "Guinée-Bissau",
+      "en": "Guinea-Bissau"
+     },
+     {
+      "fr": "Kirghizstan",
+      "en": "Kyrgyzstan"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ne",
+    "options": [
+     {
+      "fr": "Niger",
+      "en": "Niger"
+     },
+     {
+      "fr": "Barbade",
+      "en": "Barbados"
+     },
+     {
+      "fr": "Antigua-et-Barbuda",
+      "en": "Antigua and Barbuda"
+     },
+     {
+      "fr": "Israël",
+      "en": "Israel"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "so",
+    "options": [
+     {
+      "fr": "Somalie",
+      "en": "Somalia"
+     },
+     {
+      "fr": "Biélorussie",
+      "en": "Belarus"
+     },
+     {
+      "fr": "Kenya",
+      "en": "Kenya"
+     },
+     {
+      "fr": "Venezuela",
+      "en": "Venezuela"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ml",
+    "options": [
+     {
+      "fr": "Mali",
+      "en": "Mali"
+     },
+     {
+      "fr": "Mongolie",
+      "en": "Mongolia"
+     },
+     {
+      "fr": "Japon",
+      "en": "Japan"
+     },
+     {
+      "fr": "Venezuela",
+      "en": "Venezuela"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "bf",
+    "options": [
+     {
+      "fr": "Burkina Faso",
+      "en": "Burkina Faso"
+     },
+     {
+      "fr": "Sainte-Lucie",
+      "en": "Saint Lucia"
+     },
+     {
+      "fr": "Bangladesh",
+      "en": "Bangladesh"
+     },
+     {
+      "fr": "Mongolie",
+      "en": "Mongolia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "gw",
+    "options": [
+     {
+      "fr": "Guinée-Bissau",
+      "en": "Guinea-Bissau"
+     },
+     {
+      "fr": "Tonga",
+      "en": "Tonga"
+     },
+     {
+      "fr": "Sainte-Lucie",
+      "en": "Saint Lucia"
+     },
+     {
+      "fr": "Macédoine du Nord",
+      "en": "North Macedonia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "mr",
+    "options": [
+     {
+      "fr": "Mauritanie",
+      "en": "Mauritania"
+     },
+     {
+      "fr": "Malte",
+      "en": "Malta"
+     },
+     {
+      "fr": "Nigeria",
+      "en": "Nigeria"
+     },
+     {
+      "fr": "Seychelles",
+      "en": "Seychelles"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ps",
+    "options": [
+     {
+      "fr": "Palestine",
+      "en": "Palestine"
+     },
+     {
+      "fr": "Irlande",
+      "en": "Ireland"
+     },
+     {
+      "fr": "Cameroun",
+      "en": "Cameroon"
+     },
+     {
+      "fr": "Russie",
+      "en": "Russia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "zw",
+    "options": [
+     {
+      "fr": "Zimbabwe",
+      "en": "Zimbabwe"
+     },
+     {
+      "fr": "Malawi",
+      "en": "Malawi"
+     },
+     {
+      "fr": "Slovénie",
+      "en": "Slovenia"
+     },
+     {
+      "fr": "Bulgarie",
+      "en": "Bulgaria"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "na",
+    "options": [
+     {
+      "fr": "Namibie",
+      "en": "Namibia"
+     },
+     {
+      "fr": "Burundi",
+      "en": "Burundi"
+     },
+     {
+      "fr": "Cambodge",
+      "en": "Cambodia"
+     },
+     {
+      "fr": "Émirats arabes unis",
+      "en": "United Arab Emirates"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "bw",
+    "options": [
+     {
+      "fr": "Botswana",
+      "en": "Botswana"
+     },
+     {
+      "fr": "Lettonie",
+      "en": "Latvia"
+     },
+     {
+      "fr": "Lituanie",
+      "en": "Lithuania"
+     },
+     {
+      "fr": "Japon",
+      "en": "Japan"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "kg",
+    "options": [
+     {
+      "fr": "Kirghizstan",
+      "en": "Kyrgyzstan"
+     },
+     {
+      "fr": "Îles Salomon",
+      "en": "Solomon Islands"
+     },
+     {
+      "fr": "Hongrie",
+      "en": "Hungary"
+     },
+     {
+      "fr": "Turkménistan",
+      "en": "Turkmenistan"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "af",
+    "options": [
+     {
+      "fr": "Afghanistan",
+      "en": "Afghanistan"
+     },
+     {
+      "fr": "Pakistan",
+      "en": "Pakistan"
+     },
+     {
+      "fr": "Arménie",
+      "en": "Armenia"
+     },
+     {
+      "fr": "Turquie",
+      "en": "Turkey"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "bj",
+    "options": [
+     {
+      "fr": "Bénin",
+      "en": "Benin"
+     },
+     {
+      "fr": "Taïwan",
+      "en": "Taiwan"
+     },
+     {
+      "fr": "Arménie",
+      "en": "Armenia"
+     },
+     {
+      "fr": "Cambodge",
+      "en": "Cambodia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "mz",
+    "options": [
+     {
+      "fr": "Mozambique",
+      "en": "Mozambique"
+     },
+     {
+      "fr": "Costa Rica",
+      "en": "Costa Rica"
+     },
+     {
+      "fr": "République du Congo",
+      "en": "Republic of Congo"
+     },
+     {
+      "fr": "Turkménistan",
+      "en": "Turkmenistan"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "mg",
+    "options": [
+     {
+      "fr": "Madagascar",
+      "en": "Madagascar"
+     },
+     {
+      "fr": "Tuvalu",
+      "en": "Tuvalu"
+     },
+     {
+      "fr": "Burkina Faso",
+      "en": "Burkina Faso"
+     },
+     {
+      "fr": "Pakistan",
+      "en": "Pakistan"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "cg",
+    "options": [
+     {
+      "fr": "République du Congo",
+      "en": "Republic of Congo"
+     },
+     {
+      "fr": "Chine",
+      "en": "China"
+     },
+     {
+      "fr": "Autriche",
+      "en": "Austria"
+     },
+     {
+      "fr": "Islande",
+      "en": "Iceland"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ao",
+    "options": [
+     {
+      "fr": "Angola",
+      "en": "Angola"
+     },
+     {
+      "fr": "Venezuela",
+      "en": "Venezuela"
+     },
+     {
+      "fr": "Paraguay",
+      "en": "Paraguay"
+     },
+     {
+      "fr": "Luxembourg",
+      "en": "Luxembourg"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "tm",
+    "options": [
+     {
+      "fr": "Turkménistan",
+      "en": "Turkmenistan"
+     },
+     {
+      "fr": "Russie",
+      "en": "Russia"
+     },
+     {
+      "fr": "Irlande",
+      "en": "Ireland"
+     },
+     {
+      "fr": "Suriname",
+      "en": "Suriname"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "kz",
+    "options": [
+     {
+      "fr": "Kazakhstan",
+      "en": "Kazakhstan"
+     },
+     {
+      "fr": "Érythrée",
+      "en": "Eritrea"
+     },
+     {
+      "fr": "Birmanie",
+      "en": "Myanmar"
+     },
+     {
+      "fr": "Liechtenstein",
+      "en": "Liechtenstein"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ls",
+    "options": [
+     {
+      "fr": "Lesotho",
+      "en": "Lesotho"
+     },
+     {
+      "fr": "Koweït",
+      "en": "Kuwait"
+     },
+     {
+      "fr": "Palestine",
+      "en": "Palestine"
+     },
+     {
+      "fr": "Jamaïque",
+      "en": "Jamaica"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "dj",
+    "options": [
+     {
+      "fr": "Djibouti",
+      "en": "Djibouti"
+     },
+     {
+      "fr": "République du Congo",
+      "en": "Republic of Congo"
+     },
+     {
+      "fr": "Autriche",
+      "en": "Austria"
+     },
+     {
+      "fr": "Libye",
+      "en": "Libya"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "gn",
+    "options": [
+     {
+      "fr": "Guinée",
+      "en": "Guinea"
+     },
+     {
+      "fr": "Uruguay",
+      "en": "Uruguay"
+     },
+     {
+      "fr": "République tchèque",
+      "en": "Czech Republic"
+     },
+     {
+      "fr": "Monténégro",
+      "en": "Montenegro"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "py",
+    "options": [
+     {
+      "fr": "Paraguay",
+      "en": "Paraguay"
+     },
+     {
+      "fr": "Australie",
+      "en": "Australia"
+     },
+     {
+      "fr": "Sao Tomé-et-Principe",
+      "en": "Sao Tome and Principe"
+     },
+     {
+      "fr": "Palestine",
+      "en": "Palestine"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "sz",
+    "options": [
+     {
+      "fr": "Eswatini",
+      "en": "Eswatini"
+     },
+     {
+      "fr": "France",
+      "en": "France"
+     },
+     {
+      "fr": "République centrafricaine",
+      "en": "Central African Republic"
+     },
+     {
+      "fr": "Burkina Faso",
+      "en": "Burkina Faso"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "mw",
+    "options": [
+     {
+      "fr": "Malawi",
+      "en": "Malawi"
+     },
+     {
+      "fr": "Palaos",
+      "en": "Palau"
+     },
+     {
+      "fr": "Saint-Marin",
+      "en": "San Marino"
+     },
+     {
+      "fr": "Saint-Vincent-et-les-Grenadines",
+      "en": "Saint Vincent and the Grenadines"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ga",
+    "options": [
+     {
+      "fr": "Gabon",
+      "en": "Gabon"
+     },
+     {
+      "fr": "Sainte-Lucie",
+      "en": "Saint Lucia"
+     },
+     {
+      "fr": "Tonga",
+      "en": "Tonga"
+     },
+     {
+      "fr": "Roumanie",
+      "en": "Romania"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "uy",
+    "options": [
+     {
+      "fr": "Uruguay",
+      "en": "Uruguay"
+     },
+     {
+      "fr": "Éthiopie",
+      "en": "Ethiopia"
+     },
+     {
+      "fr": "Afghanistan",
+      "en": "Afghanistan"
+     },
+     {
+      "fr": "Turquie",
+      "en": "Turkey"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "zm",
+    "options": [
+     {
+      "fr": "Zambie",
+      "en": "Zambia"
+     },
+     {
+      "fr": "Samoa",
+      "en": "Samoa"
+     },
+     {
+      "fr": "Pakistan",
+      "en": "Pakistan"
+     },
+     {
+      "fr": "Belize",
+      "en": "Belize"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ss",
+    "options": [
+     {
+      "fr": "Soudan du Sud",
+      "en": "South Sudan"
+     },
+     {
+      "fr": "Koweït",
+      "en": "Kuwait"
+     },
+     {
+      "fr": "Vanuatu",
+      "en": "Vanuatu"
+     },
+     {
+      "fr": "Thaïlande",
+      "en": "Thailand"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ug",
+    "options": [
+     {
+      "fr": "Ouganda",
+      "en": "Uganda"
+     },
+     {
+      "fr": "Saint-Marin",
+      "en": "San Marino"
+     },
+     {
+      "fr": "Jordanie",
+      "en": "Jordan"
+     },
+     {
+      "fr": "République démocratique du Congo",
+      "en": "DR Congo"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "bi",
+    "options": [
+     {
+      "fr": "Burundi",
+      "en": "Burundi"
+     },
+     {
+      "fr": "Qatar",
+      "en": "Qatar"
+     },
+     {
+      "fr": "Samoa",
+      "en": "Samoa"
+     },
+     {
+      "fr": "Kirghizstan",
+      "en": "Kyrgyzstan"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "tl",
+    "options": [
+     {
+      "fr": "Timor oriental",
+      "en": "East Timor"
+     },
+     {
+      "fr": "Yémen",
+      "en": "Yemen"
+     },
+     {
+      "fr": "Tadjikistan",
+      "en": "Tajikistan"
+     },
+     {
+      "fr": "Comores",
+      "en": "Comoros"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "cv",
+    "options": [
+     {
+      "fr": "Cap-Vert",
+      "en": "Cape Verde"
+     },
+     {
+      "fr": "Syrie",
+      "en": "Syria"
+     },
+     {
+      "fr": "Libéria",
+      "en": "Liberia"
+     },
+     {
+      "fr": "Vietnam",
+      "en": "Vietnam"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "gm",
+    "options": [
+     {
+      "fr": "Gambie",
+      "en": "Gambia"
+     },
+     {
+      "fr": "Hongrie",
+      "en": "Hungary"
+     },
+     {
+      "fr": "Maldives",
+      "en": "Maldives"
+     },
+     {
+      "fr": "Samoa",
+      "en": "Samoa"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "mv",
+    "options": [
+     {
+      "fr": "Maldives",
+      "en": "Maldives"
+     },
+     {
+      "fr": "Cameroun",
+      "en": "Cameroon"
+     },
+     {
+      "fr": "Tuvalu",
+      "en": "Tuvalu"
+     },
+     {
+      "fr": "Antigua-et-Barbuda",
+      "en": "Antigua and Barbuda"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "rw",
+    "options": [
+     {
+      "fr": "Rwanda",
+      "en": "Rwanda"
+     },
+     {
+      "fr": "Pérou",
+      "en": "Peru"
+     },
+     {
+      "fr": "Bahamas",
+      "en": "Bahamas"
+     },
+     {
+      "fr": "Togo",
+      "en": "Togo"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "bn",
+    "options": [
+     {
+      "fr": "Brunei",
+      "en": "Brunei"
+     },
+     {
+      "fr": "Liban",
+      "en": "Lebanon"
+     },
+     {
+      "fr": "Tadjikistan",
+      "en": "Tajikistan"
+     },
+     {
+      "fr": "Libéria",
+      "en": "Liberia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "bt",
+    "options": [
+     {
+      "fr": "Bhoutan",
+      "en": "Bhutan"
+     },
+     {
+      "fr": "France",
+      "en": "France"
+     },
+     {
+      "fr": "Liban",
+      "en": "Lebanon"
+     },
+     {
+      "fr": "Iran",
+      "en": "Iran"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "tg",
+    "options": [
+     {
+      "fr": "Togo",
+      "en": "Togo"
+     },
+     {
+      "fr": "Serbie",
+      "en": "Serbia"
+     },
+     {
+      "fr": "Afghanistan",
+      "en": "Afghanistan"
+     },
+     {
+      "fr": "Paraguay",
+      "en": "Paraguay"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "tz",
+    "options": [
+     {
+      "fr": "Tanzanie",
+      "en": "Tanzania"
+     },
+     {
+      "fr": "Jamaïque",
+      "en": "Jamaica"
+     },
+     {
+      "fr": "Papouasie-Nouvelle-Guinée",
+      "en": "Papua New Guinea"
+     },
+     {
+      "fr": "Oman",
+      "en": "Oman"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "td",
+    "options": [
+     {
+      "fr": "Tchad",
+      "en": "Chad"
+     },
+     {
+      "fr": "Tanzanie",
+      "en": "Tanzania"
+     },
+     {
+      "fr": "Soudan du Sud",
+      "en": "South Sudan"
+     },
+     {
+      "fr": "Kiribati",
+      "en": "Kiribati"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "sl",
+    "options": [
+     {
+      "fr": "Sierra Leone",
+      "en": "Sierra Leone"
+     },
+     {
+      "fr": "Croatie",
+      "en": "Croatia"
+     },
+     {
+      "fr": "République démocratique du Congo",
+      "en": "DR Congo"
+     },
+     {
+      "fr": "Zambie",
+      "en": "Zambia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "uz",
+    "options": [
+     {
+      "fr": "Ouzbékistan",
+      "en": "Uzbekistan"
+     },
+     {
+      "fr": "Sainte-Lucie",
+      "en": "Saint Lucia"
+     },
+     {
+      "fr": "Colombie",
+      "en": "Colombia"
+     },
+     {
+      "fr": "Îles Salomon",
+      "en": "Solomon Islands"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "gq",
+    "options": [
+     {
+      "fr": "Guinée équatoriale",
+      "en": "Equatorial Guinea"
+     },
+     {
+      "fr": "Belgique",
+      "en": "Belgium"
+     },
+     {
+      "fr": "Azerbaïdjan",
+      "en": "Azerbaijan"
+     },
+     {
+      "fr": "République du Congo",
+      "en": "Republic of Congo"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "lr",
+    "options": [
+     {
+      "fr": "Libéria",
+      "en": "Liberia"
+     },
+     {
+      "fr": "Vanuatu",
+      "en": "Vanuatu"
+     },
+     {
+      "fr": "Salvador",
+      "en": "El Salvador"
+     },
+     {
+      "fr": "Barbade",
+      "en": "Barbados"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "expert": [
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "sm",
+    "options": [
+     {
+      "fr": "Saint-Marin",
+      "en": "San Marino"
+     },
+     {
+      "fr": "Nigeria",
+      "en": "Nigeria"
+     },
+     {
+      "fr": "Grenade",
+      "en": "Grenada"
+     },
+     {
+      "fr": "Zambie",
+      "en": "Zambia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "fj",
+    "options": [
+     {
+      "fr": "Fidji",
+      "en": "Fiji"
+     },
+     {
+      "fr": "Djibouti",
+      "en": "Djibouti"
+     },
+     {
+      "fr": "Islande",
+      "en": "Iceland"
+     },
+     {
+      "fr": "Saint-Christophe-et-Niévès",
+      "en": "Saint Kitts and Nevis"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "fm",
+    "options": [
+     {
+      "fr": "Micronésie",
+      "en": "Micronesia"
+     },
+     {
+      "fr": "Macédoine du Nord",
+      "en": "North Macedonia"
+     },
+     {
+      "fr": "Salvador",
+      "en": "El Salvador"
+     },
+     {
+      "fr": "Géorgie",
+      "en": "Georgia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "gt",
+    "options": [
+     {
+      "fr": "Guatemala",
+      "en": "Guatemala"
+     },
+     {
+      "fr": "Hong Kong",
+      "en": "Hong Kong"
+     },
+     {
+      "fr": "Guinée équatoriale",
+      "en": "Equatorial Guinea"
+     },
+     {
+      "fr": "Madagascar",
+      "en": "Madagascar"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "va",
+    "options": [
+     {
+      "fr": "Vatican",
+      "en": "Vatican City"
+     },
+     {
+      "fr": "Belize",
+      "en": "Belize"
+     },
+     {
+      "fr": "Moldavie",
+      "en": "Moldova"
+     },
+     {
+      "fr": "Géorgie",
+      "en": "Georgia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "lc",
+    "options": [
+     {
+      "fr": "Sainte-Lucie",
+      "en": "Saint Lucia"
+     },
+     {
+      "fr": "Érythrée",
+      "en": "Eritrea"
+     },
+     {
+      "fr": "Portugal",
+      "en": "Portugal"
+     },
+     {
+      "fr": "Sao Tomé-et-Principe",
+      "en": "Sao Tome and Principe"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "jm",
+    "options": [
+     {
+      "fr": "Jamaïque",
+      "en": "Jamaica"
+     },
+     {
+      "fr": "Iran",
+      "en": "Iran"
+     },
+     {
+      "fr": "Biélorussie",
+      "en": "Belarus"
+     },
+     {
+      "fr": "Chypre",
+      "en": "Cyprus"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "mh",
+    "options": [
+     {
+      "fr": "Îles Marshall",
+      "en": "Marshall Islands"
+     },
+     {
+      "fr": "Bangladesh",
+      "en": "Bangladesh"
+     },
+     {
+      "fr": "Bahreïn",
+      "en": "Bahrain"
+     },
+     {
+      "fr": "Burkina Faso",
+      "en": "Burkina Faso"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ag",
+    "options": [
+     {
+      "fr": "Antigua-et-Barbuda",
+      "en": "Antigua and Barbuda"
+     },
+     {
+      "fr": "Pays-Bas",
+      "en": "Netherlands"
+     },
+     {
+      "fr": "Maroc",
+      "en": "Morocco"
+     },
+     {
+      "fr": "Arabie Saoudite",
+      "en": "Saudi Arabia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "bs",
+    "options": [
+     {
+      "fr": "Bahamas",
+      "en": "Bahamas"
+     },
+     {
+      "fr": "Estonie",
+      "en": "Estonia"
+     },
+     {
+      "fr": "Libye",
+      "en": "Libya"
+     },
+     {
+      "fr": "Îles Marshall",
+      "en": "Marshall Islands"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "bz",
+    "options": [
+     {
+      "fr": "Belize",
+      "en": "Belize"
+     },
+     {
+      "fr": "Israël",
+      "en": "Israel"
+     },
+     {
+      "fr": "Maurice",
+      "en": "Mauritius"
+     },
+     {
+      "fr": "Croatie",
+      "en": "Croatia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "pg",
+    "options": [
+     {
+      "fr": "Papouasie-Nouvelle-Guinée",
+      "en": "Papua New Guinea"
+     },
+     {
+      "fr": "Égypte",
+      "en": "Egypt"
+     },
+     {
+      "fr": "Bhoutan",
+      "en": "Bhutan"
+     },
+     {
+      "fr": "Kirghizstan",
+      "en": "Kyrgyzstan"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "mc",
+    "options": [
+     {
+      "fr": "Monaco",
+      "en": "Monaco"
+     },
+     {
+      "fr": "Pakistan",
+      "en": "Pakistan"
+     },
+     {
+      "fr": "Burkina Faso",
+      "en": "Burkina Faso"
+     },
+     {
+      "fr": "Tanzanie",
+      "en": "Tanzania"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "vc",
+    "options": [
+     {
+      "fr": "Saint-Vincent-et-les-Grenadines",
+      "en": "Saint Vincent and the Grenadines"
+     },
+     {
+      "fr": "Bhoutan",
+      "en": "Bhutan"
+     },
+     {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+     },
+     {
+      "fr": "Ukraine",
+      "en": "Ukraine"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "mn",
+    "options": [
+     {
+      "fr": "Mongolie",
+      "en": "Mongolia"
+     },
+     {
+      "fr": "Brunei",
+      "en": "Brunei"
+     },
+     {
+      "fr": "Soudan",
+      "en": "Sudan"
+     },
+     {
+      "fr": "Bolivie",
+      "en": "Bolivia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ki",
+    "options": [
+     {
+      "fr": "Kiribati",
+      "en": "Kiribati"
+     },
+     {
+      "fr": "Comores",
+      "en": "Comoros"
+     },
+     {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom"
+     },
+     {
+      "fr": "Sint-Maarten",
+      "en": "Sint Maarten"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ws",
+    "options": [
+     {
+      "fr": "Samoa",
+      "en": "Samoa"
+     },
+     {
+      "fr": "Bénin",
+      "en": "Benin"
+     },
+     {
+      "fr": "Cameroun",
+      "en": "Cameroon"
+     },
+     {
+      "fr": "Zimbabwe",
+      "en": "Zimbabwe"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "gd",
+    "options": [
+     {
+      "fr": "Grenade",
+      "en": "Grenada"
+     },
+     {
+      "fr": "États-Unis",
+      "en": "United States"
+     },
+     {
+      "fr": "Laos",
+      "en": "Laos"
+     },
+     {
+      "fr": "Jordanie",
+      "en": "Jordan"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "dm",
+    "options": [
+     {
+      "fr": "Dominique",
+      "en": "Dominica"
+     },
+     {
+      "fr": "Antigua-et-Barbuda",
+      "en": "Antigua and Barbuda"
+     },
+     {
+      "fr": "Soudan",
+      "en": "Sudan"
+     },
+     {
+      "fr": "Maldives",
+      "en": "Maldives"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "pa",
+    "options": [
+     {
+      "fr": "Panama",
+      "en": "Panama"
+     },
+     {
+      "fr": "Mali",
+      "en": "Mali"
+     },
+     {
+      "fr": "Antigua-et-Barbuda",
+      "en": "Antigua and Barbuda"
+     },
+     {
+      "fr": "Sainte-Lucie",
+      "en": "Saint Lucia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "bd",
+    "options": [
+     {
+      "fr": "Bangladesh",
+      "en": "Bangladesh"
+     },
+     {
+      "fr": "Guinée",
+      "en": "Guinea"
+     },
+     {
+      "fr": "Haïti",
+      "en": "Haiti"
+     },
+     {
+      "fr": "Slovénie",
+      "en": "Slovenia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "xk",
+    "options": [
+     {
+      "fr": "Kosovo",
+      "en": "Kosovo"
+     },
+     {
+      "fr": "Madagascar",
+      "en": "Madagascar"
+     },
+     {
+      "fr": "Slovénie",
+      "en": "Slovenia"
+     },
+     {
+      "fr": "Chypre",
+      "en": "Cyprus"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "sv",
+    "options": [
+     {
+      "fr": "Salvador",
+      "en": "El Salvador"
+     },
+     {
+      "fr": "Palestine",
+      "en": "Palestine"
+     },
+     {
+      "fr": "Madagascar",
+      "en": "Madagascar"
+     },
+     {
+      "fr": "Chine",
+      "en": "China"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "sr",
+    "options": [
+     {
+      "fr": "Suriname",
+      "en": "Suriname"
+     },
+     {
+      "fr": "Soudan",
+      "en": "Sudan"
+     },
+     {
+      "fr": "Sri Lanka",
+      "en": "Sri Lanka"
+     },
+     {
+      "fr": "Tonga",
+      "en": "Tonga"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "st",
+    "options": [
+     {
+      "fr": "Sao Tomé-et-Principe",
+      "en": "Sao Tome and Principe"
+     },
+     {
+      "fr": "Kiribati",
+      "en": "Kiribati"
+     },
+     {
+      "fr": "Tadjikistan",
+      "en": "Tajikistan"
+     },
+     {
+      "fr": "Vatican",
+      "en": "Vatican City"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ad",
+    "options": [
+     {
+      "fr": "Andorre",
+      "en": "Andorra"
+     },
+     {
+      "fr": "Chili",
+      "en": "Chile"
+     },
+     {
+      "fr": "Tanzanie",
+      "en": "Tanzania"
+     },
+     {
+      "fr": "Vietnam",
+      "en": "Vietnam"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "bo",
+    "options": [
+     {
+      "fr": "Bolivie",
+      "en": "Bolivia"
+     },
+     {
+      "fr": "Belize",
+      "en": "Belize"
+     },
+     {
+      "fr": "Niger",
+      "en": "Niger"
+     },
+     {
+      "fr": "Japon",
+      "en": "Japan"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "to",
+    "options": [
+     {
+      "fr": "Tonga",
+      "en": "Tonga"
+     },
+     {
+      "fr": "Ouzbékistan",
+      "en": "Uzbekistan"
+     },
+     {
+      "fr": "Équateur",
+      "en": "Ecuador"
+     },
+     {
+      "fr": "Guinée-Bissau",
+      "en": "Guinea-Bissau"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "vu",
+    "options": [
+     {
+      "fr": "Vanuatu",
+      "en": "Vanuatu"
+     },
+     {
+      "fr": "Îles Salomon",
+      "en": "Solomon Islands"
+     },
+     {
+      "fr": "Japon",
+      "en": "Japan"
+     },
+     {
+      "fr": "Belgique",
+      "en": "Belgium"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "li",
+    "options": [
+     {
+      "fr": "Liechtenstein",
+      "en": "Liechtenstein"
+     },
+     {
+      "fr": "Nicaragua",
+      "en": "Nicaragua"
+     },
+     {
+      "fr": "Timor oriental",
+      "en": "East Timor"
+     },
+     {
+      "fr": "Philippines",
+      "en": "Philippines"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "tt",
+    "options": [
+     {
+      "fr": "Trinité-et-Tobago",
+      "en": "Trinidad and Tobago"
+     },
+     {
+      "fr": "Ouganda",
+      "en": "Uganda"
+     },
+     {
+      "fr": "Cuba",
+      "en": "Cuba"
+     },
+     {
+      "fr": "Mexique",
+      "en": "Mexico"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "nr",
+    "options": [
+     {
+      "fr": "Nauru",
+      "en": "Nauru"
+     },
+     {
+      "fr": "Islande",
+      "en": "Iceland"
+     },
+     {
+      "fr": "Cameroun",
+      "en": "Cameroon"
+     },
+     {
+      "fr": "Yémen",
+      "en": "Yemen"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "mu",
+    "options": [
+     {
+      "fr": "Maurice",
+      "en": "Mauritius"
+     },
+     {
+      "fr": "Croatie",
+      "en": "Croatia"
+     },
+     {
+      "fr": "Rwanda",
+      "en": "Rwanda"
+     },
+     {
+      "fr": "Yémen",
+      "en": "Yemen"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "tv",
+    "options": [
+     {
+      "fr": "Tuvalu",
+      "en": "Tuvalu"
+     },
+     {
+      "fr": "Sri Lanka",
+      "en": "Sri Lanka"
+     },
+     {
+      "fr": "Mongolie",
+      "en": "Mongolia"
+     },
+     {
+      "fr": "Cameroun",
+      "en": "Cameroon"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "sx",
+    "options": [
+     {
+      "fr": "Sint-Maarten",
+      "en": "Sint Maarten"
+     },
+     {
+      "fr": "Arménie",
+      "en": "Armenia"
+     },
+     {
+      "fr": "Antigua-et-Barbuda",
+      "en": "Antigua and Barbuda"
+     },
+     {
+      "fr": "Maldives",
+      "en": "Maldives"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "pw",
+    "options": [
+     {
+      "fr": "Palaos",
+      "en": "Palau"
+     },
+     {
+      "fr": "Bosnie-Herzégovine",
+      "en": "Bosnia and Herzegovina"
+     },
+     {
+      "fr": "Pays-Bas",
+      "en": "Netherlands"
+     },
+     {
+      "fr": "Malawi",
+      "en": "Malawi"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "km",
+    "options": [
+     {
+      "fr": "Comores",
+      "en": "Comoros"
+     },
+     {
+      "fr": "Espagne",
+      "en": "Spain"
+     },
+     {
+      "fr": "Antigua-et-Barbuda",
+      "en": "Antigua and Barbuda"
+     },
+     {
+      "fr": "Burkina Faso",
+      "en": "Burkina Faso"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "do",
+    "options": [
+     {
+      "fr": "République dominicaine",
+      "en": "Dominican Republic"
+     },
+     {
+      "fr": "Argentine",
+      "en": "Argentina"
+     },
+     {
+      "fr": "Cambodge",
+      "en": "Cambodia"
+     },
+     {
+      "fr": "Lituanie",
+      "en": "Lithuania"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "sc",
+    "options": [
+     {
+      "fr": "Seychelles",
+      "en": "Seychelles"
+     },
+     {
+      "fr": "Panama",
+      "en": "Panama"
+     },
+     {
+      "fr": "Turquie",
+      "en": "Turkey"
+     },
+     {
+      "fr": "Canada",
+      "en": "Canada"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "hk",
+    "options": [
+     {
+      "fr": "Hong Kong",
+      "en": "Hong Kong"
+     },
+     {
+      "fr": "Saint-Christophe-et-Niévès",
+      "en": "Saint Kitts and Nevis"
+     },
+     {
+      "fr": "Chine",
+      "en": "China"
+     },
+     {
+      "fr": "Macédoine du Nord",
+      "en": "North Macedonia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "gy",
+    "options": [
+     {
+      "fr": "Guyana",
+      "en": "Guyana"
+     },
+     {
+      "fr": "Bulgarie",
+      "en": "Bulgaria"
+     },
+     {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom"
+     },
+     {
+      "fr": "Belize",
+      "en": "Belize"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ec",
+    "options": [
+     {
+      "fr": "Équateur",
+      "en": "Ecuador"
+     },
+     {
+      "fr": "Israël",
+      "en": "Israel"
+     },
+     {
+      "fr": "Moldavie",
+      "en": "Moldova"
+     },
+     {
+      "fr": "Vietnam",
+      "en": "Vietnam"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "bb",
+    "options": [
+     {
+      "fr": "Barbade",
+      "en": "Barbados"
+     },
+     {
+      "fr": "Zambie",
+      "en": "Zambia"
+     },
+     {
+      "fr": "Tonga",
+      "en": "Tonga"
+     },
+     {
+      "fr": "Autriche",
+      "en": "Austria"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "hn",
+    "options": [
+     {
+      "fr": "Honduras",
+      "en": "Honduras"
+     },
+     {
+      "fr": "Guinée-Bissau",
+      "en": "Guinea-Bissau"
+     },
+     {
+      "fr": "Slovaquie",
+      "en": "Slovakia"
+     },
+     {
+      "fr": "Tanzanie",
+      "en": "Tanzania"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ni",
+    "options": [
+     {
+      "fr": "Nicaragua",
+      "en": "Nicaragua"
+     },
+     {
+      "fr": "Seychelles",
+      "en": "Seychelles"
+     },
+     {
+      "fr": "Monténégro",
+      "en": "Montenegro"
+     },
+     {
+      "fr": "Hong Kong",
+      "en": "Hong Kong"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "sb",
+    "options": [
+     {
+      "fr": "Îles Salomon",
+      "en": "Solomon Islands"
+     },
+     {
+      "fr": "Ghana",
+      "en": "Ghana"
+     },
+     {
+      "fr": "Chili",
+      "en": "Chile"
+     },
+     {
+      "fr": "Haïti",
+      "en": "Haiti"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "kn",
+    "options": [
+     {
+      "fr": "Saint-Christophe-et-Niévès",
+      "en": "Saint Kitts and Nevis"
+     },
+     {
+      "fr": "Haïti",
+      "en": "Haiti"
+     },
+     {
+      "fr": "Grenade",
+      "en": "Grenada"
+     },
+     {
+      "fr": "Andorre",
+      "en": "Andorra"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "cr",
+    "options": [
+     {
+      "fr": "Costa Rica",
+      "en": "Costa Rica"
+     },
+     {
+      "fr": "Autriche",
+      "en": "Austria"
+     },
+     {
+      "fr": "Kenya",
+      "en": "Kenya"
+     },
+     {
+      "fr": "Qatar",
+      "en": "Qatar"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "tw",
+    "options": [
+     {
+      "fr": "Taïwan",
+      "en": "Taiwan"
+     },
+     {
+      "fr": "Irlande",
+      "en": "Ireland"
+     },
+     {
+      "fr": "Uruguay",
+      "en": "Uruguay"
+     },
+     {
+      "fr": "Japon",
+      "en": "Japan"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a ce drapeau ?",
+     "en": "Which country owns this flag?"
+    },
+    "image": "ht",
+    "options": [
+     {
+      "fr": "Haïti",
+      "en": "Haiti"
+     },
+     {
+      "fr": "Qatar",
+      "en": "Qatar"
+     },
+     {
+      "fr": "Bénin",
+      "en": "Benin"
+     },
+     {
+      "fr": "Tuvalu",
+      "en": "Tuvalu"
+     }
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "guessImage": [
+  {
+   "image": "ci",
+   "answer": {
+    "fr": "Côte d'Ivoire",
+    "en": "Ivory Coast"
+   }
+  },
+  {
+   "image": "kz",
+   "answer": {
+    "fr": "Kazakhstan",
+    "en": "Kazakhstan"
+   }
+  },
+  {
+   "image": "ad",
+   "answer": {
+    "fr": "Andorre",
+    "en": "Andorra"
+   }
+  },
+  {
+   "image": "ro",
+   "answer": {
+    "fr": "Roumanie",
+    "en": "Romania"
+   }
+  },
+  {
+   "image": "pt",
+   "answer": {
+    "fr": "Portugal",
+    "en": "Portugal"
+   }
+  },
+  {
+   "image": "ec",
+   "answer": {
+    "fr": "Équateur",
+    "en": "Ecuador"
+   }
+  },
+  {
+   "image": "pw",
+   "answer": {
+    "fr": "Palaos",
+    "en": "Palau"
+   }
+  },
+  {
+   "image": "bz",
+   "answer": {
+    "fr": "Belize",
+    "en": "Belize"
+   }
+  },
+  {
+   "image": "al",
+   "answer": {
+    "fr": "Albanie",
+    "en": "Albania"
+   }
+  },
+  {
+   "image": "fi",
+   "answer": {
+    "fr": "Finlande",
+    "en": "Finland"
+   }
+  },
+  {
+   "image": "mh",
+   "answer": {
+    "fr": "Îles Marshall",
+    "en": "Marshall Islands"
+   }
+  },
+  {
+   "image": "lb",
+   "answer": {
+    "fr": "Liban",
+    "en": "Lebanon"
+   }
+  },
+  {
+   "image": "nr",
+   "answer": {
+    "fr": "Nauru",
+    "en": "Nauru"
+   }
+  },
+  {
+   "image": "sr",
+   "answer": {
+    "fr": "Suriname",
+    "en": "Suriname"
+   }
+  },
+  {
+   "image": "kr",
+   "answer": {
+    "fr": "Corée du Sud",
+    "en": "South Korea"
+   }
+  },
+  {
+   "image": "gw",
+   "answer": {
+    "fr": "Guinée-Bissau",
+    "en": "Guinea-Bissau"
+   }
+  },
+  {
+   "image": "ca",
+   "answer": {
+    "fr": "Canada",
+    "en": "Canada"
+   }
+  },
+  {
+   "image": "mm",
+   "answer": {
+    "fr": "Birmanie",
+    "en": "Myanmar"
+   }
+  },
+  {
+   "image": "ne",
+   "answer": {
+    "fr": "Niger",
+    "en": "Niger"
+   }
+  },
+  {
+   "image": "tl",
+   "answer": {
+    "fr": "Timor oriental",
+    "en": "East Timor"
+   }
+  },
+  {
+   "image": "sb",
+   "answer": {
+    "fr": "Îles Salomon",
+    "en": "Solomon Islands"
+   }
+  },
+  {
+   "image": "gh",
+   "answer": {
+    "fr": "Ghana",
+    "en": "Ghana"
+   }
+  },
+  {
+   "image": "tr",
+   "answer": {
+    "fr": "Turquie",
+    "en": "Turkey"
+   }
+  },
+  {
+   "image": "ao",
+   "answer": {
+    "fr": "Angola",
+    "en": "Angola"
+   }
+  },
+  {
+   "image": "cr",
+   "answer": {
+    "fr": "Costa Rica",
+    "en": "Costa Rica"
+   }
+  },
+  {
+   "image": "np",
+   "answer": {
+    "fr": "Népal",
+    "en": "Nepal"
+   }
+  },
+  {
+   "image": "it",
+   "answer": {
+    "fr": "Italie",
+    "en": "Italy"
+   }
+  },
+  {
+   "image": "mv",
+   "answer": {
+    "fr": "Maldives",
+    "en": "Maldives"
+   }
+  },
+  {
+   "image": "na",
+   "answer": {
+    "fr": "Namibie",
+    "en": "Namibia"
+   }
+  },
+  {
+   "image": "ie",
+   "answer": {
+    "fr": "Irlande",
+    "en": "Ireland"
+   }
+  },
+  {
+   "image": "af",
+   "answer": {
+    "fr": "Afghanistan",
+    "en": "Afghanistan"
+   }
+  },
+  {
+   "image": "sg",
+   "answer": {
+    "fr": "Singapour",
+    "en": "Singapore"
+   }
+  },
+  {
+   "image": "hn",
+   "answer": {
+    "fr": "Honduras",
+    "en": "Honduras"
+   }
+  },
+  {
+   "image": "bi",
+   "answer": {
+    "fr": "Burundi",
+    "en": "Burundi"
+   }
+  },
+  {
+   "image": "il",
+   "answer": {
+    "fr": "Israël",
+    "en": "Israel"
+   }
+  },
+  {
+   "image": "ps",
+   "answer": {
+    "fr": "Palestine",
+    "en": "Palestine"
+   }
+  },
+  {
+   "image": "ve",
+   "answer": {
+    "fr": "Venezuela",
+    "en": "Venezuela"
+   }
+  },
+  {
+   "image": "gq",
+   "answer": {
+    "fr": "Guinée équatoriale",
+    "en": "Equatorial Guinea"
+   }
+  },
+  {
+   "image": "cy",
+   "answer": {
+    "fr": "Chypre",
+    "en": "Cyprus"
+   }
+  },
+  {
+   "image": "tt",
+   "answer": {
+    "fr": "Trinité-et-Tobago",
+    "en": "Trinidad and Tobago"
+   }
+  },
+  {
+   "image": "ml",
+   "answer": {
+    "fr": "Mali",
+    "en": "Mali"
+   }
+  },
+  {
+   "image": "mz",
+   "answer": {
+    "fr": "Mozambique",
+    "en": "Mozambique"
+   }
+  },
+  {
+   "image": "tz",
+   "answer": {
+    "fr": "Tanzanie",
+    "en": "Tanzania"
+   }
+  },
+  {
+   "image": "sv",
+   "answer": {
+    "fr": "Salvador",
+    "en": "El Salvador"
+   }
+  },
+  {
+   "image": "kn",
+   "answer": {
+    "fr": "Saint-Christophe-et-Niévès",
+    "en": "Saint Kitts and Nevis"
+   }
+  },
+  {
+   "image": "mt",
+   "answer": {
+    "fr": "Malte",
+    "en": "Malta"
+   }
+  },
+  {
+   "image": "om",
+   "answer": {
+    "fr": "Oman",
+    "en": "Oman"
+   }
+  },
+  {
+   "image": "vc",
+   "answer": {
+    "fr": "Saint-Vincent-et-les-Grenadines",
+    "en": "Saint Vincent and the Grenadines"
+   }
+  },
+  {
+   "image": "ch",
+   "answer": {
+    "fr": "Suisse",
+    "en": "Switzerland"
+   }
+  },
+  {
+   "image": "am",
+   "answer": {
+    "fr": "Arménie",
+    "en": "Armenia"
+   }
+  },
+  {
+   "image": "dj",
+   "answer": {
+    "fr": "Djibouti",
+    "en": "Djibouti"
+   }
+  },
+  {
+   "image": "do",
+   "answer": {
+    "fr": "République dominicaine",
+    "en": "Dominican Republic"
+   }
+  },
+  {
+   "image": "ug",
+   "answer": {
+    "fr": "Ouganda",
+    "en": "Uganda"
+   }
+  },
+  {
+   "image": "cv",
+   "answer": {
+    "fr": "Cap-Vert",
+    "en": "Cape Verde"
+   }
+  },
+  {
+   "image": "cm",
+   "answer": {
+    "fr": "Cameroun",
+    "en": "Cameroon"
+   }
+  },
+  {
+   "image": "lk",
+   "answer": {
+    "fr": "Sri Lanka",
+    "en": "Sri Lanka"
+   }
+  },
+  {
+   "image": "cn",
+   "answer": {
+    "fr": "Chine",
+    "en": "China"
+   }
+  },
+  {
+   "image": "bw",
+   "answer": {
+    "fr": "Botswana",
+    "en": "Botswana"
+   }
+  },
+  {
+   "image": "ye",
+   "answer": {
+    "fr": "Yémen",
+    "en": "Yemen"
+   }
+  },
+  {
+   "image": "cu",
+   "answer": {
+    "fr": "Cuba",
+    "en": "Cuba"
+   }
+  },
+  {
+   "image": "mg",
+   "answer": {
+    "fr": "Madagascar",
+    "en": "Madagascar"
+   }
+  },
+  {
+   "image": "hr",
+   "answer": {
+    "fr": "Croatie",
+    "en": "Croatia"
+   }
+  },
+  {
+   "image": "la",
+   "answer": {
+    "fr": "Laos",
+    "en": "Laos"
+   }
+  },
+  {
+   "image": "is",
+   "answer": {
+    "fr": "Islande",
+    "en": "Iceland"
+   }
+  },
+  {
+   "image": "ki",
+   "answer": {
+    "fr": "Kiribati",
+    "en": "Kiribati"
+   }
+  },
+  {
+   "image": "py",
+   "answer": {
+    "fr": "Paraguay",
+    "en": "Paraguay"
+   }
+  },
+  {
+   "image": "ge",
+   "answer": {
+    "fr": "Géorgie",
+    "en": "Georgia"
+   }
+  },
+  {
+   "image": "de",
+   "answer": {
+    "fr": "Allemagne",
+    "en": "Germany"
+   }
+  },
+  {
+   "image": "cz",
+   "answer": {
+    "fr": "République tchèque",
+    "en": "Czech Republic"
+   }
+  },
+  {
+   "image": "be",
+   "answer": {
+    "fr": "Belgique",
+    "en": "Belgium"
+   }
+  },
+  {
+   "image": "md",
+   "answer": {
+    "fr": "Moldavie",
+    "en": "Moldova"
+   }
+  },
+  {
+   "image": "kg",
+   "answer": {
+    "fr": "Kirghizstan",
+    "en": "Kyrgyzstan"
+   }
+  },
+  {
+   "image": "bj",
+   "answer": {
+    "fr": "Bénin",
+    "en": "Benin"
+   }
+  },
+  {
+   "image": "gt",
+   "answer": {
+    "fr": "Guatemala",
+    "en": "Guatemala"
+   }
+  },
+  {
+   "image": "sx",
+   "answer": {
+    "fr": "Sint-Maarten",
+    "en": "Sint Maarten"
+   }
+  },
+  {
+   "image": "mc",
+   "answer": {
+    "fr": "Monaco",
+    "en": "Monaco"
+   }
+  },
+  {
+   "image": "mu",
+   "answer": {
+    "fr": "Maurice",
+    "en": "Mauritius"
+   }
+  },
+  {
+   "image": "by",
+   "answer": {
+    "fr": "Biélorussie",
+    "en": "Belarus"
+   }
+  },
+  {
+   "image": "gy",
+   "answer": {
+    "fr": "Guyana",
+    "en": "Guyana"
+   }
+  },
+  {
+   "image": "my",
+   "answer": {
+    "fr": "Malaisie",
+    "en": "Malaysia"
+   }
+  }
+ ],
+ "memory": {
+  "pairs": [
+   {
+    "a": {
+     "fr": "France",
+     "en": "France"
+    },
+    "b": {
+     "fr": "Paris",
+     "en": "Paris"
+    }
+   },
+   {
+    "a": {
+     "fr": "États-Unis",
+     "en": "United States"
+    },
+    "b": {
+     "fr": "Washington",
+     "en": "Washington D.C."
+    }
+   },
+   {
+    "a": {
+     "fr": "Allemagne",
+     "en": "Germany"
+    },
+    "b": {
+     "fr": "Berlin",
+     "en": "Berlin"
+    }
+   },
+   {
+    "a": {
+     "fr": "Italie",
+     "en": "Italy"
+    },
+    "b": {
+     "fr": "Rome",
+     "en": "Rome"
+    }
+   },
+   {
+    "a": {
+     "fr": "Espagne",
+     "en": "Spain"
+    },
+    "b": {
+     "fr": "Madrid",
+     "en": "Madrid"
+    }
+   },
+   {
+    "a": {
+     "fr": "Royaume-Uni",
+     "en": "United Kingdom"
+    },
+    "b": {
+     "fr": "Londres",
+     "en": "London"
+    }
+   },
+   {
+    "a": {
+     "fr": "Japon",
+     "en": "Japan"
+    },
+    "b": {
+     "fr": "Tokyo",
+     "en": "Tokyo"
+    }
+   },
+   {
+    "a": {
+     "fr": "Chine",
+     "en": "China"
+    },
+    "b": {
+     "fr": "Pékin",
+     "en": "Beijing"
+    }
+   },
+   {
+    "a": {
+     "fr": "Brésil",
+     "en": "Brazil"
+    },
+    "b": {
+     "fr": "Brasilia",
+     "en": "Brasília"
+    }
+   },
+   {
+    "a": {
+     "fr": "Russie",
+     "en": "Russia"
+    },
+    "b": {
+     "fr": "Moscou",
+     "en": "Moscow"
+    }
+   },
+   {
+    "a": {
+     "fr": "Canada",
+     "en": "Canada"
+    },
+    "b": {
+     "fr": "Ottawa",
+     "en": "Ottawa"
+    }
+   },
+   {
+    "a": {
+     "fr": "Australie",
+     "en": "Australia"
+    },
+    "b": {
+     "fr": "Canberra",
+     "en": "Canberra"
+    }
+   },
+   {
+    "a": {
+     "fr": "Mexique",
+     "en": "Mexico"
+    },
+    "b": {
+     "fr": "Mexico",
+     "en": "Mexico City"
+    }
+   },
+   {
+    "a": {
+     "fr": "Argentine",
+     "en": "Argentina"
+    },
+    "b": {
+     "fr": "Buenos Aires",
+     "en": "Buenos Aires"
+    }
+   },
+   {
+    "a": {
+     "fr": "Inde",
+     "en": "India"
+    },
+    "b": {
+     "fr": "New Delhi",
+     "en": "New Delhi"
+    }
+   },
+   {
+    "a": {
+     "fr": "Afrique du Sud",
+     "en": "South Africa"
+    },
+    "b": {
+     "fr": "Pretoria",
+     "en": "Pretoria"
+    }
+   },
+   {
+    "a": {
+     "fr": "Égypte",
+     "en": "Egypt"
+    },
+    "b": {
+     "fr": "Le Caire",
+     "en": "Cairo"
+    }
+   },
+   {
+    "a": {
+     "fr": "Turquie",
+     "en": "Turkey"
+    },
+    "b": {
+     "fr": "Ankara",
+     "en": "Ankara"
+    }
+   },
+   {
+    "a": {
+     "fr": "Grèce",
+     "en": "Greece"
+    },
+    "b": {
+     "fr": "Athènes",
+     "en": "Athens"
+    }
+   },
+   {
+    "a": {
+     "fr": "Portugal",
+     "en": "Portugal"
+    },
+    "b": {
+     "fr": "Lisbonne",
+     "en": "Lisbon"
+    }
+   },
+   {
+    "a": {
+     "fr": "Pays-Bas",
+     "en": "Netherlands"
+    },
+    "b": {
+     "fr": "Amsterdam",
+     "en": "Amsterdam"
+    }
+   },
+   {
+    "a": {
+     "fr": "Belgique",
+     "en": "Belgium"
+    },
+    "b": {
+     "fr": "Bruxelles",
+     "en": "Brussels"
+    }
+   },
+   {
+    "a": {
+     "fr": "Suisse",
+     "en": "Switzerland"
+    },
+    "b": {
+     "fr": "Berne",
+     "en": "Bern"
+    }
+   },
+   {
+    "a": {
+     "fr": "Suède",
+     "en": "Sweden"
+    },
+    "b": {
+     "fr": "Stockholm",
+     "en": "Stockholm"
+    }
+   },
+   {
+    "a": {
+     "fr": "Norvège",
+     "en": "Norway"
+    },
+    "b": {
+     "fr": "Oslo",
+     "en": "Oslo"
+    }
+   },
+   {
+    "a": {
+     "fr": "Danemark",
+     "en": "Denmark"
+    },
+    "b": {
+     "fr": "Copenhague",
+     "en": "Copenhagen"
+    }
+   },
+   {
+    "a": {
+     "fr": "Finlande",
+     "en": "Finland"
+    },
+    "b": {
+     "fr": "Helsinki",
+     "en": "Helsinki"
+    }
+   },
+   {
+    "a": {
+     "fr": "Irlande",
+     "en": "Ireland"
+    },
+    "b": {
+     "fr": "Dublin",
+     "en": "Dublin"
+    }
+   },
+   {
+    "a": {
+     "fr": "Pologne",
+     "en": "Poland"
+    },
+    "b": {
+     "fr": "Varsovie",
+     "en": "Warsaw"
+    }
+   },
+   {
+    "a": {
+     "fr": "Autriche",
+     "en": "Austria"
+    },
+    "b": {
+     "fr": "Vienne",
+     "en": "Vienna"
+    }
+   }
+  ]
+ },
+ "trueFalse": [
+  {
+   "stmt": {
+    "fr": "Le drapeau du Japon est entièrement blanc.",
+    "en": "Japan's flag is entirely white."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau de la France a trois bandes verticales.",
+    "en": "France's flag has three vertical stripes."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau du Canada comporte une feuille d'érable.",
+    "en": "Canada's flag features a maple leaf."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau du Brésil est rouge et jaune.",
+    "en": "Brazil's flag is red and yellow."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau de la Suisse est carré.",
+    "en": "Switzerland's flag is square."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau de l'Italie a les mêmes couleurs que celui du Mexique.",
+    "en": "Italy's flag has the same colors as Mexico's."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau du Royaume-Uni s'appelle l'Union Jack.",
+    "en": "The UK's flag is called the Union Jack."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau de la Chine est jaune et bleu.",
+    "en": "China's flag is yellow and blue."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau du Népal n'est pas rectangulaire.",
+    "en": "Nepal's flag is not rectangular."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau de la Libye n'a qu'une seule couleur (le vert) pendant l'ère Kadhafi.",
+    "en": "Libya's flag was a single green color under Gaddafi."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau des États-Unis a 50 étoiles.",
+    "en": "The US flag has 50 stars."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau des États-Unis a 13 bandes.",
+    "en": "The US flag has 13 stripes."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau de l'Allemagne est noir, rouge et bleu.",
+    "en": "Germany's flag is black, red, and blue."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau du Portugal contient une sphère armillaire.",
+    "en": "Portugal's flag contains an armillary sphere."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau de l'Inde a quatre couleurs.",
+    "en": "India's flag has four colors."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau de l'Arabie saoudite porte la chahada.",
+    "en": "Saudi Arabia's flag bears the shahada."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau du Maroc est vert avec une étoile rouge.",
+    "en": "Morocco's flag is green with a red star."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau de la Turquie comporte un croissant.",
+    "en": "Turkey's flag features a crescent."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau de la Corée du Sud comporte un yin-yang.",
+    "en": "South Korea's flag features a yin-yang."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau du Liban a un cèdre.",
+    "en": "Lebanon's flag has a cedar tree."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau de l'Albanie a un aigle à deux têtes.",
+    "en": "Albania's flag has a double-headed eagle."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau de la Russie est bleu, blanc, rouge (horizontal).",
+    "en": "Russia's flag is blue, white, red (horizontal)."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau du Mexique a un aigle au centre.",
+    "en": "Mexico's flag has an eagle at the center."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau de l'Argentine comporte un soleil.",
+    "en": "Argentina's flag features a sun."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le drapeau australien comporte l'Union Jack.",
+    "en": "The Australian flag includes the Union Jack."
+   },
+   "answer": true
+  }
+ ]
+}

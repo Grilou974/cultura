@@ -1,0 +1,613 @@
+{
+ "quiz": {
+  "easy": [
+   {
+    "q": {
+     "fr": "Combien de joueurs y a-t-il dans une équipe de football sur le terrain ?",
+     "en": "How many players are on the pitch in football?"
+    },
+    "options": [
+     {
+      "fr": "11",
+      "en": "11"
+     },
+     {
+      "fr": "10",
+      "en": "10"
+     },
+     {
+      "fr": "9",
+      "en": "9"
+     },
+     {
+      "fr": "12",
+      "en": "12"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel sport pratique Roger Federer ?",
+     "en": "Which sport does Roger Federer play?"
+    },
+    "options": [
+     {
+      "fr": "Tennis",
+      "en": "Tennis"
+     },
+     {
+      "fr": "Squash",
+      "en": "Squash"
+     },
+     {
+      "fr": "Badminton",
+      "en": "Badminton"
+     },
+     {
+      "fr": "Padel",
+      "en": "Padel"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le 'Tour de France' est une course de :",
+     "en": "The 'Tour de France' is a race of:"
+    },
+    "options": [
+     {
+      "fr": "Cyclisme",
+      "en": "Cyclisme"
+     },
+     {
+      "fr": "Course à pied",
+      "en": "Course à pied"
+     },
+     {
+      "fr": "Voile",
+      "en": "Voile"
+     },
+     {
+      "fr": "Moto",
+      "en": "Moto"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le Mondial de football a lieu tous les :",
+     "en": "The football World Cup is held every:"
+    },
+    "options": [
+     {
+      "fr": "4 ans",
+      "en": "4 ans"
+     },
+     {
+      "fr": "2 ans",
+      "en": "2 ans"
+     },
+     {
+      "fr": "5 ans",
+      "en": "5 ans"
+     },
+     {
+      "fr": "3 ans",
+      "en": "3 ans"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Combien de joueurs sur un terrain de basket-ball (par équipe) ?",
+     "en": "How many basketball players per team on court?"
+    },
+    "options": [
+     {
+      "fr": "5",
+      "en": "5"
+     },
+     {
+      "fr": "6",
+      "en": "6"
+     },
+     {
+      "fr": "7",
+      "en": "7"
+     },
+     {
+      "fr": "4",
+      "en": "4"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "medium": [
+   {
+    "q": {
+     "fr": "Quel pays a remporté la Coupe du monde de football 2018 ?",
+     "en": "Who won the 2018 FIFA World Cup?"
+    },
+    "options": [
+     {
+      "fr": "France",
+      "en": "France"
+     },
+     {
+      "fr": "Croatie",
+      "en": "Croatie"
+     },
+     {
+      "fr": "Allemagne",
+      "en": "Allemagne"
+     },
+     {
+      "fr": "Brésil",
+      "en": "Brésil"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle est la durée d'un match de rugby à XV ?",
+     "en": "How long is a rugby (XV) match?"
+    },
+    "options": [
+     {
+      "fr": "80 minutes",
+      "en": "80 minutes"
+     },
+     {
+      "fr": "90 minutes",
+      "en": "90 minutes"
+     },
+     {
+      "fr": "60 minutes",
+      "en": "60 minutes"
+     },
+     {
+      "fr": "100 minutes",
+      "en": "100 minutes"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a inventé le judo ?",
+     "en": "Which country invented judo?"
+    },
+    "options": [
+     {
+      "fr": "Japon / Japan",
+      "en": "Japon / Japan"
+     },
+     {
+      "fr": "Chine / China",
+      "en": "Chine / China"
+     },
+     {
+      "fr": "Corée / Korea",
+      "en": "Corée / Korea"
+     },
+     {
+      "fr": "Mongolie / Mongolia",
+      "en": "Mongolie / Mongolia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel sportif a remporté le plus de Tours de France (7) ?",
+     "en": "Who has won the Tour de France the most (7)?"
+    },
+    "options": [
+     {
+      "fr": "Lance Armstrong (déchu) / vacated",
+      "en": "Lance Armstrong (déchu) / vacated"
+     },
+     {
+      "fr": "Eddy Merckx",
+      "en": "Eddy Merckx"
+     },
+     {
+      "fr": "Bernard Hinault",
+      "en": "Bernard Hinault"
+     },
+     {
+      "fr": "Miguel Indurain",
+      "en": "Miguel Indurain"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Combien de set faut-il gagner à Wimbledon (hommes) ?",
+     "en": "How many sets to win at Wimbledon (men)?"
+    },
+    "options": [
+     {
+      "fr": "3 sur 5",
+      "en": "3 sur 5"
+     },
+     {
+      "fr": "2 sur 3",
+      "en": "2 sur 3"
+     },
+     {
+      "fr": "4 sur 7",
+      "en": "4 sur 7"
+     },
+     {
+      "fr": "1 sur 1",
+      "en": "1 sur 1"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "hard": [
+   {
+    "q": {
+     "fr": "Qui détient le record du monde du 100 m messieurs ?",
+     "en": "Who holds the men's 100 m world record?"
+    },
+    "options": [
+     {
+      "fr": "Usain Bolt (9.58)",
+      "en": "Usain Bolt (9.58)"
+     },
+     {
+      "fr": "Tyson Gay",
+      "en": "Tyson Gay"
+     },
+     {
+      "fr": "Yohan Blake",
+      "en": "Yohan Blake"
+     },
+     {
+      "fr": "Asafa Powell",
+      "en": "Asafa Powell"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle équipe NBA a gagné le titre 2022 ?",
+     "en": "Which NBA team won the 2022 title?"
+    },
+    "options": [
+     {
+      "fr": "Golden State Warriors",
+      "en": "Golden State Warriors"
+     },
+     {
+      "fr": "Boston Celtics",
+      "en": "Boston Celtics"
+     },
+     {
+      "fr": "Milwaukee Bucks",
+      "en": "Milwaukee Bucks"
+     },
+     {
+      "fr": "LA Lakers",
+      "en": "LA Lakers"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Combien de victoires en Grand Chelem Rafael Nadal détenait-il fin 2022 ?",
+     "en": "How many Grand Slams did Nadal have by end of 2022?"
+    },
+    "options": [
+     {
+      "fr": "22",
+      "en": "22"
+     },
+     {
+      "fr": "20",
+      "en": "20"
+     },
+     {
+      "fr": "21",
+      "en": "21"
+     },
+     {
+      "fr": "23",
+      "en": "23"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel sport contient les termes 'birdie', 'eagle', 'bogey' ?",
+     "en": "Which sport uses 'birdie', 'eagle', 'bogey'?"
+    },
+    "options": [
+     {
+      "fr": "Golf",
+      "en": "Golf"
+     },
+     {
+      "fr": "Bowling",
+      "en": "Bowling"
+     },
+     {
+      "fr": "Cricket",
+      "en": "Cricket"
+     },
+     {
+      "fr": "Tennis",
+      "en": "Tennis"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a remporté l'Eurobasket 2022 ?",
+     "en": "Which country won EuroBasket 2022?"
+    },
+    "options": [
+     {
+      "fr": "Espagne",
+      "en": "Espagne"
+     },
+     {
+      "fr": "France",
+      "en": "France"
+     },
+     {
+      "fr": "Allemagne",
+      "en": "Allemagne"
+     },
+     {
+      "fr": "Slovénie",
+      "en": "Slovénie"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "expert": [
+   {
+    "q": {
+     "fr": "Combien de titres olympiques individuels Michael Phelps détient-il ?",
+     "en": "How many individual Olympic titles for Michael Phelps?"
+    },
+    "options": [
+     {
+      "fr": "13",
+      "en": "13"
+     },
+     {
+      "fr": "11",
+      "en": "11"
+     },
+     {
+      "fr": "10",
+      "en": "10"
+     },
+     {
+      "fr": "15",
+      "en": "15"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 1ère Coupe du monde de foot a eu lieu en :",
+     "en": "First FIFA World Cup was held in:"
+    },
+    "options": [
+     {
+      "fr": "Uruguay 1930",
+      "en": "Uruguay 1930"
+     },
+     {
+      "fr": "Italie 1934",
+      "en": "Italie 1934"
+     },
+     {
+      "fr": "France 1938",
+      "en": "France 1938"
+     },
+     {
+      "fr": "Brésil 1950",
+      "en": "Brésil 1950"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel coureur a battu le record de l'heure sur piste en 2022 ?",
+     "en": "Who broke the Hour Record on track in 2022?"
+    },
+    "options": [
+     {
+      "fr": "Filippo Ganna",
+      "en": "Filippo Ganna"
+     },
+     {
+      "fr": "Wout van Aert",
+      "en": "Wout van Aert"
+     },
+     {
+      "fr": "Tadej Pogačar",
+      "en": "Tadej Pogačar"
+     },
+     {
+      "fr": "Remco Evenepoel",
+      "en": "Remco Evenepoel"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle équipe NFL a remporté le Super Bowl LVIII (2024) ?",
+     "en": "Which NFL team won Super Bowl LVIII (2024)?"
+    },
+    "options": [
+     {
+      "fr": "Kansas City Chiefs",
+      "en": "Kansas City Chiefs"
+     },
+     {
+      "fr": "San Francisco 49ers",
+      "en": "San Francisco 49ers"
+     },
+     {
+      "fr": "Philadelphia Eagles",
+      "en": "Philadelphia Eagles"
+     },
+     {
+      "fr": "Cincinnati Bengals",
+      "en": "Cincinnati Bengals"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a marqué le but de la 'Main de Dieu' en 1986 ?",
+     "en": "Who scored the 'Hand of God' goal in 1986?"
+    },
+    "options": [
+     {
+      "fr": "Diego Maradona",
+      "en": "Diego Maradona"
+     },
+     {
+      "fr": "Pelé",
+      "en": "Pelé"
+     },
+     {
+      "fr": "Michel Platini",
+      "en": "Michel Platini"
+     },
+     {
+      "fr": "Zico",
+      "en": "Zico"
+     }
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "trueFalse": [
+  {
+   "stmt": {
+    "fr": "Le marathon mesure 42,195 km.",
+    "en": "A marathon is 42.195 km."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Le rugby à XIII compte 15 joueurs par équipe.",
+    "en": "Rugby league has 15 players per team."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "Roland-Garros est joué sur surface en terre battue.",
+    "en": "Roland-Garros is played on clay courts."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Lionel Messi a gagné la Coupe du monde 2022.",
+    "en": "Lionel Messi won the 2022 World Cup."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Les JO d'été ont lieu tous les 2 ans.",
+    "en": "The Summer Olympics are held every 2 years."
+   },
+   "answer": false
+  }
+ ],
+ "memory": {
+  "pairs": [
+   {
+    "a": {
+     "fr": "NBA",
+     "en": "NBA"
+    },
+    "b": {
+     "fr": "Basketball",
+     "en": "Basketball"
+    }
+   },
+   {
+    "a": {
+     "fr": "NHL",
+     "en": "NHL"
+    },
+    "b": {
+     "fr": "Hockey sur glace",
+     "en": "Ice hockey"
+    }
+   },
+   {
+    "a": {
+     "fr": "NFL",
+     "en": "NFL"
+    },
+    "b": {
+     "fr": "Football américain",
+     "en": "American football"
+    }
+   },
+   {
+    "a": {
+     "fr": "MLB",
+     "en": "MLB"
+    },
+    "b": {
+     "fr": "Baseball",
+     "en": "Baseball"
+    }
+   },
+   {
+    "a": {
+     "fr": "Tour de France",
+     "en": "Tour de France"
+    },
+    "b": {
+     "fr": "Cyclisme",
+     "en": "Cycling"
+    }
+   },
+   {
+    "a": {
+     "fr": "Roland-Garros",
+     "en": "Roland-Garros"
+    },
+    "b": {
+     "fr": "Tennis (terre battue)",
+     "en": "Tennis (clay)"
+    }
+   }
+  ]
+ }
+}

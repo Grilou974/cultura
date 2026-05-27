@@ -1,0 +1,613 @@
+{
+ "quiz": {
+  "easy": [
+   {
+    "q": {
+     "fr": "Qui a écrit 'Les Misérables' ?",
+     "en": "Who wrote 'Les Misérables'?"
+    },
+    "options": [
+     {
+      "fr": "Victor Hugo",
+      "en": "Victor Hugo"
+     },
+     {
+      "fr": "Émile Zola",
+      "en": "Émile Zola"
+     },
+     {
+      "fr": "Honoré de Balzac",
+      "en": "Honoré de Balzac"
+     },
+     {
+      "fr": "Alexandre Dumas",
+      "en": "Alexandre Dumas"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Hamlet' ?",
+     "en": "Who wrote 'Hamlet'?"
+    },
+    "options": [
+     {
+      "fr": "William Shakespeare",
+      "en": "William Shakespeare"
+     },
+     {
+      "fr": "Christopher Marlowe",
+      "en": "Christopher Marlowe"
+     },
+     {
+      "fr": "Ben Jonson",
+      "en": "Ben Jonson"
+     },
+     {
+      "fr": "John Webster",
+      "en": "John Webster"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Le Petit Prince' ?",
+     "en": "Who wrote 'The Little Prince'?"
+    },
+    "options": [
+     {
+      "fr": "Antoine de Saint-Exupéry",
+      "en": "Antoine de Saint-Exupéry"
+     },
+     {
+      "fr": "Jean Giono",
+      "en": "Jean Giono"
+     },
+     {
+      "fr": "Marcel Pagnol",
+      "en": "Marcel Pagnol"
+     },
+     {
+      "fr": "Albert Camus",
+      "en": "Albert Camus"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Don Quichotte' ?",
+     "en": "Who wrote 'Don Quixote'?"
+    },
+    "options": [
+     {
+      "fr": "Miguel de Cervantes",
+      "en": "Miguel de Cervantes"
+     },
+     {
+      "fr": "Lope de Vega",
+      "en": "Lope de Vega"
+     },
+     {
+      "fr": "Quevedo",
+      "en": "Quevedo"
+     },
+     {
+      "fr": "Calderón",
+      "en": "Calderón"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit '1984' ?",
+     "en": "Who wrote '1984'?"
+    },
+    "options": [
+     {
+      "fr": "George Orwell",
+      "en": "George Orwell"
+     },
+     {
+      "fr": "Aldous Huxley",
+      "en": "Aldous Huxley"
+     },
+     {
+      "fr": "Ray Bradbury",
+      "en": "Ray Bradbury"
+     },
+     {
+      "fr": "Margaret Atwood",
+      "en": "Margaret Atwood"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "medium": [
+   {
+    "q": {
+     "fr": "Qui a écrit 'Madame Bovary' ?",
+     "en": "Who wrote 'Madame Bovary'?"
+    },
+    "options": [
+     {
+      "fr": "Gustave Flaubert",
+      "en": "Gustave Flaubert"
+     },
+     {
+      "fr": "Émile Zola",
+      "en": "Émile Zola"
+     },
+     {
+      "fr": "Stendhal",
+      "en": "Stendhal"
+     },
+     {
+      "fr": "Maupassant",
+      "en": "Maupassant"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Crime et châtiment' ?",
+     "en": "Who wrote 'Crime and Punishment'?"
+    },
+    "options": [
+     {
+      "fr": "Fiodor Dostoïevski",
+      "en": "Fiodor Dostoïevski"
+     },
+     {
+      "fr": "Léon Tolstoï",
+      "en": "Léon Tolstoï"
+     },
+     {
+      "fr": "Anton Tchekhov",
+      "en": "Anton Tchekhov"
+     },
+     {
+      "fr": "Nicolas Gogol",
+      "en": "Nicolas Gogol"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "'À la recherche du temps perdu' est de :",
+     "en": "'In Search of Lost Time' is by:"
+    },
+    "options": [
+     {
+      "fr": "Marcel Proust",
+      "en": "Marcel Proust"
+     },
+     {
+      "fr": "André Gide",
+      "en": "André Gide"
+     },
+     {
+      "fr": "Albert Camus",
+      "en": "Albert Camus"
+     },
+     {
+      "fr": "Louis-Ferdinand Céline",
+      "en": "Louis-Ferdinand Céline"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Cent ans de solitude' ?",
+     "en": "Who wrote 'One Hundred Years of Solitude'?"
+    },
+    "options": [
+     {
+      "fr": "Gabriel García Márquez",
+      "en": "Gabriel García Márquez"
+     },
+     {
+      "fr": "Mario Vargas Llosa",
+      "en": "Mario Vargas Llosa"
+     },
+     {
+      "fr": "Jorge Luis Borges",
+      "en": "Jorge Luis Borges"
+     },
+     {
+      "fr": "Pablo Neruda",
+      "en": "Pablo Neruda"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Ulysses' (1922) ?",
+     "en": "Who wrote 'Ulysses' (1922)?"
+    },
+    "options": [
+     {
+      "fr": "James Joyce",
+      "en": "James Joyce"
+     },
+     {
+      "fr": "Virginia Woolf",
+      "en": "Virginia Woolf"
+     },
+     {
+      "fr": "T.S. Eliot",
+      "en": "T.S. Eliot"
+     },
+     {
+      "fr": "Samuel Beckett",
+      "en": "Samuel Beckett"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "hard": [
+   {
+    "q": {
+     "fr": "Qui a écrit 'L'Homme sans qualités' ?",
+     "en": "Who wrote 'The Man Without Qualities'?"
+    },
+    "options": [
+     {
+      "fr": "Robert Musil",
+      "en": "Robert Musil"
+     },
+     {
+      "fr": "Thomas Mann",
+      "en": "Thomas Mann"
+     },
+     {
+      "fr": "Hermann Hesse",
+      "en": "Hermann Hesse"
+     },
+     {
+      "fr": "Franz Kafka",
+      "en": "Franz Kafka"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'La Conscience de Zeno' ?",
+     "en": "Who wrote 'Zeno's Conscience'?"
+    },
+    "options": [
+     {
+      "fr": "Italo Svevo",
+      "en": "Italo Svevo"
+     },
+     {
+      "fr": "Italo Calvino",
+      "en": "Italo Calvino"
+     },
+     {
+      "fr": "Cesare Pavese",
+      "en": "Cesare Pavese"
+     },
+     {
+      "fr": "Luigi Pirandello",
+      "en": "Luigi Pirandello"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Bartleby le scribe' ?",
+     "en": "Who wrote 'Bartleby the Scrivener'?"
+    },
+    "options": [
+     {
+      "fr": "Herman Melville",
+      "en": "Herman Melville"
+     },
+     {
+      "fr": "Nathaniel Hawthorne",
+      "en": "Nathaniel Hawthorne"
+     },
+     {
+      "fr": "Edgar Allan Poe",
+      "en": "Edgar Allan Poe"
+     },
+     {
+      "fr": "Henry James",
+      "en": "Henry James"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Voyage au bout de la nuit' ?",
+     "en": "Who wrote 'Journey to the End of the Night'?"
+    },
+    "options": [
+     {
+      "fr": "Louis-Ferdinand Céline",
+      "en": "Louis-Ferdinand Céline"
+     },
+     {
+      "fr": "Albert Camus",
+      "en": "Albert Camus"
+     },
+     {
+      "fr": "Jean-Paul Sartre",
+      "en": "Jean-Paul Sartre"
+     },
+     {
+      "fr": "Henry Miller",
+      "en": "Henry Miller"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Les Frères Karamazov' ?",
+     "en": "Who wrote 'The Brothers Karamazov'?"
+    },
+    "options": [
+     {
+      "fr": "Dostoïevski",
+      "en": "Dostoïevski"
+     },
+     {
+      "fr": "Tolstoï",
+      "en": "Tolstoï"
+     },
+     {
+      "fr": "Tourgueniev",
+      "en": "Tourgueniev"
+     },
+     {
+      "fr": "Pouchkine",
+      "en": "Pouchkine"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "expert": [
+   {
+    "q": {
+     "fr": "Qui a écrit 'Le Tambour' (1959) ?",
+     "en": "Who wrote 'The Tin Drum' (1959)?"
+    },
+    "options": [
+     {
+      "fr": "Günter Grass",
+      "en": "Günter Grass"
+     },
+     {
+      "fr": "Heinrich Böll",
+      "en": "Heinrich Böll"
+     },
+     {
+      "fr": "Thomas Bernhard",
+      "en": "Thomas Bernhard"
+     },
+     {
+      "fr": "W.G. Sebald",
+      "en": "W.G. Sebald"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Le Maître et Marguerite' ?",
+     "en": "Who wrote 'The Master and Margarita'?"
+    },
+    "options": [
+     {
+      "fr": "Mikhail Boulgakov",
+      "en": "Mikhail Boulgakov"
+     },
+     {
+      "fr": "Anton Tchekhov",
+      "en": "Anton Tchekhov"
+     },
+     {
+      "fr": "Vladimir Nabokov",
+      "en": "Vladimir Nabokov"
+     },
+     {
+      "fr": "Alexandre Soljénitsyne",
+      "en": "Alexandre Soljénitsyne"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'L'Œuvre au noir' (1968) ?",
+     "en": "Who wrote 'The Abyss' (1968)?"
+    },
+    "options": [
+     {
+      "fr": "Marguerite Yourcenar",
+      "en": "Marguerite Yourcenar"
+     },
+     {
+      "fr": "Marguerite Duras",
+      "en": "Marguerite Duras"
+     },
+     {
+      "fr": "Simone de Beauvoir",
+      "en": "Simone de Beauvoir"
+     },
+     {
+      "fr": "Nathalie Sarraute",
+      "en": "Nathalie Sarraute"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Pedro Páramo' (1955) ?",
+     "en": "Who wrote 'Pedro Páramo' (1955)?"
+    },
+    "options": [
+     {
+      "fr": "Juan Rulfo",
+      "en": "Juan Rulfo"
+     },
+     {
+      "fr": "Carlos Fuentes",
+      "en": "Carlos Fuentes"
+     },
+     {
+      "fr": "Octavio Paz",
+      "en": "Octavio Paz"
+     },
+     {
+      "fr": "Jorge Luis Borges",
+      "en": "Jorge Luis Borges"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'La Vie mode d'emploi' (1978) ?",
+     "en": "Who wrote 'Life: A User's Manual' (1978)?"
+    },
+    "options": [
+     {
+      "fr": "Georges Perec",
+      "en": "Georges Perec"
+     },
+     {
+      "fr": "Raymond Queneau",
+      "en": "Raymond Queneau"
+     },
+     {
+      "fr": "Italo Calvino",
+      "en": "Italo Calvino"
+     },
+     {
+      "fr": "Michel Butor",
+      "en": "Michel Butor"
+     }
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "trueFalse": [
+  {
+   "stmt": {
+    "fr": "Albert Camus a obtenu le prix Nobel de littérature.",
+    "en": "Albert Camus won the Nobel Prize in Literature."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Victor Hugo a écrit 'Germinal'.",
+    "en": "Victor Hugo wrote 'Germinal'."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "'Don Quichotte' est considéré comme le 1er roman moderne.",
+    "en": "'Don Quixote' is considered the first modern novel."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Hemingway a écrit 'Le Vieil Homme et la Mer'.",
+    "en": "Hemingway wrote 'The Old Man and the Sea'."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "'Le Rouge et le Noir' a été écrit par Balzac.",
+    "en": "'The Red and the Black' was written by Balzac."
+   },
+   "answer": false
+  }
+ ],
+ "memory": {
+  "pairs": [
+   {
+    "a": {
+     "fr": "Victor Hugo",
+     "en": "Victor Hugo"
+    },
+    "b": {
+     "fr": "Les Misérables",
+     "en": "Les Misérables"
+    }
+   },
+   {
+    "a": {
+     "fr": "Albert Camus",
+     "en": "Albert Camus"
+    },
+    "b": {
+     "fr": "L'Étranger",
+     "en": "The Stranger"
+    }
+   },
+   {
+    "a": {
+     "fr": "Gustave Flaubert",
+     "en": "Gustave Flaubert"
+    },
+    "b": {
+     "fr": "Madame Bovary",
+     "en": "Madame Bovary"
+    }
+   },
+   {
+    "a": {
+     "fr": "Dostoïevski",
+     "en": "Dostoevsky"
+    },
+    "b": {
+     "fr": "Crime et châtiment",
+     "en": "Crime and Punishment"
+    }
+   },
+   {
+    "a": {
+     "fr": "Cervantès",
+     "en": "Cervantes"
+    },
+    "b": {
+     "fr": "Don Quichotte",
+     "en": "Don Quixote"
+    }
+   },
+   {
+    "a": {
+     "fr": "Marcel Proust",
+     "en": "Marcel Proust"
+    },
+    "b": {
+     "fr": "À la recherche du temps perdu",
+     "en": "In Search of Lost Time"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,613 @@
+{
+ "quiz": {
+  "easy": [
+   {
+    "q": {
+     "fr": "Quelle marque a pour logo un cheval cabré ?",
+     "en": "Which brand has a prancing horse logo?"
+    },
+    "options": [
+     {
+      "fr": "Ferrari",
+      "en": "Ferrari"
+     },
+     {
+      "fr": "Porsche",
+      "en": "Porsche"
+     },
+     {
+      "fr": "Mustang",
+      "en": "Mustang"
+     },
+     {
+      "fr": "Lamborghini",
+      "en": "Lamborghini"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle marque automobile est française ?",
+     "en": "Which is a French car brand?"
+    },
+    "options": [
+     {
+      "fr": "Renault",
+      "en": "Renault"
+     },
+     {
+      "fr": "Volkswagen",
+      "en": "Volkswagen"
+     },
+     {
+      "fr": "Toyota",
+      "en": "Toyota"
+     },
+     {
+      "fr": "Fiat",
+      "en": "Fiat"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel est le pays d'origine de Toyota ?",
+     "en": "Country of origin of Toyota?"
+    },
+    "options": [
+     {
+      "fr": "Japon / Japan",
+      "en": "Japon / Japan"
+     },
+     {
+      "fr": "Corée / Korea",
+      "en": "Corée / Korea"
+     },
+     {
+      "fr": "Chine / China",
+      "en": "Chine / China"
+     },
+     {
+      "fr": "USA",
+      "en": "USA"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle marque produit la 'Mustang' ?",
+     "en": "Which brand produces the 'Mustang'?"
+    },
+    "options": [
+     {
+      "fr": "Ford",
+      "en": "Ford"
+     },
+     {
+      "fr": "Chevrolet",
+      "en": "Chevrolet"
+     },
+     {
+      "fr": "Dodge",
+      "en": "Dodge"
+     },
+     {
+      "fr": "Chrysler",
+      "en": "Chrysler"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel modèle Volkswagen est appelé 'Coccinelle' ?",
+     "en": "Which VW is called 'the Beetle'?"
+    },
+    "options": [
+     {
+      "fr": "Beetle",
+      "en": "Beetle"
+     },
+     {
+      "fr": "Golf",
+      "en": "Golf"
+     },
+     {
+      "fr": "Polo",
+      "en": "Polo"
+     },
+     {
+      "fr": "Passat",
+      "en": "Passat"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "medium": [
+   {
+    "q": {
+     "fr": "Quel est le constructeur de la voiture 'Veyron' ?",
+     "en": "Which maker built the 'Veyron'?"
+    },
+    "options": [
+     {
+      "fr": "Bugatti",
+      "en": "Bugatti"
+     },
+     {
+      "fr": "Ferrari",
+      "en": "Ferrari"
+     },
+     {
+      "fr": "Pagani",
+      "en": "Pagani"
+     },
+     {
+      "fr": "Koenigsegg",
+      "en": "Koenigsegg"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le logo aux quatre anneaux est celui de :",
+     "en": "The four-rings logo belongs to:"
+    },
+    "options": [
+     {
+      "fr": "Audi",
+      "en": "Audi"
+     },
+     {
+      "fr": "Mercedes",
+      "en": "Mercedes"
+     },
+     {
+      "fr": "BMW",
+      "en": "BMW"
+     },
+     {
+      "fr": "Opel",
+      "en": "Opel"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle marque produit la 911 ?",
+     "en": "Which brand makes the 911?"
+    },
+    "options": [
+     {
+      "fr": "Porsche",
+      "en": "Porsche"
+     },
+     {
+      "fr": "Audi",
+      "en": "Audi"
+     },
+     {
+      "fr": "Mercedes",
+      "en": "Mercedes"
+     },
+     {
+      "fr": "BMW",
+      "en": "BMW"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le constructeur tchèque qui appartient à Volkswagen :",
+     "en": "The Czech automaker owned by VW:"
+    },
+    "options": [
+     {
+      "fr": "Škoda",
+      "en": "Škoda"
+     },
+     {
+      "fr": "Tatra",
+      "en": "Tatra"
+     },
+     {
+      "fr": "Praga",
+      "en": "Praga"
+     },
+     {
+      "fr": "Avia",
+      "en": "Avia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays est célèbre pour ses 'supercars' Lamborghini, Ferrari, Pagani ?",
+     "en": "Which country is famous for Lamborghini, Ferrari, Pagani?"
+    },
+    "options": [
+     {
+      "fr": "Italie / Italy",
+      "en": "Italie / Italy"
+     },
+     {
+      "fr": "Allemagne / Germany",
+      "en": "Allemagne / Germany"
+     },
+     {
+      "fr": "France",
+      "en": "France"
+     },
+     {
+      "fr": "Royaume-Uni / UK",
+      "en": "Royaume-Uni / UK"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "hard": [
+   {
+    "q": {
+     "fr": "Quel ingénieur a fondé Ferrari ?",
+     "en": "Who founded Ferrari?"
+    },
+    "options": [
+     {
+      "fr": "Enzo Ferrari",
+      "en": "Enzo Ferrari"
+     },
+     {
+      "fr": "Ferruccio Lamborghini",
+      "en": "Ferruccio Lamborghini"
+     },
+     {
+      "fr": "Battista Pininfarina",
+      "en": "Battista Pininfarina"
+     },
+     {
+      "fr": "Carlo Abarth",
+      "en": "Carlo Abarth"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle est la cylindrée d'une F1 actuelle (2024) ?",
+     "en": "Engine capacity of current F1 cars (2024)?"
+    },
+    "options": [
+     {
+      "fr": "1,6 L",
+      "en": "1,6 L"
+     },
+     {
+      "fr": "2,4 L",
+      "en": "2,4 L"
+     },
+     {
+      "fr": "3,0 L",
+      "en": "3,0 L"
+     },
+     {
+      "fr": "3,5 L",
+      "en": "3,5 L"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle marque produit le modèle 'Quattroporte' ?",
+     "en": "Which brand makes the 'Quattroporte'?"
+    },
+    "options": [
+     {
+      "fr": "Maserati",
+      "en": "Maserati"
+     },
+     {
+      "fr": "Lancia",
+      "en": "Lancia"
+     },
+     {
+      "fr": "Alfa Romeo",
+      "en": "Alfa Romeo"
+     },
+     {
+      "fr": "Pagani",
+      "en": "Pagani"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 'Citroën DS' est sortie en :",
+     "en": "The 'Citroën DS' was released in:"
+    },
+    "options": [
+     {
+      "fr": "1955",
+      "en": "1955"
+     },
+     {
+      "fr": "1948",
+      "en": "1948"
+     },
+     {
+      "fr": "1962",
+      "en": "1962"
+     },
+     {
+      "fr": "1971",
+      "en": "1971"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La marque Bentley appartient à :",
+     "en": "Bentley is owned by:"
+    },
+    "options": [
+     {
+      "fr": "Volkswagen",
+      "en": "Volkswagen"
+     },
+     {
+      "fr": "BMW",
+      "en": "BMW"
+     },
+     {
+      "fr": "Daimler",
+      "en": "Daimler"
+     },
+     {
+      "fr": "Stellantis",
+      "en": "Stellantis"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "expert": [
+   {
+    "q": {
+     "fr": "Quel constructeur a sorti la Type 35 victorieuse en compétition dans les années 1920 ?",
+     "en": "Which marque produced the Type 35, victorious in 1920s racing?"
+    },
+    "options": [
+     {
+      "fr": "Bugatti",
+      "en": "Bugatti"
+     },
+     {
+      "fr": "Alfa Romeo",
+      "en": "Alfa Romeo"
+     },
+     {
+      "fr": "Mercedes",
+      "en": "Mercedes"
+     },
+     {
+      "fr": "Bentley",
+      "en": "Bentley"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Combien Carroll Shelby a-t-il produit de Cobra 427 environ ?",
+     "en": "About how many Shelby Cobra 427s were built?"
+    },
+    "options": [
+     {
+      "fr": "~ 343",
+      "en": "~ 343"
+     },
+     {
+      "fr": "~ 1000",
+      "en": "~ 1000"
+     },
+     {
+      "fr": "~ 50",
+      "en": "~ 50"
+     },
+     {
+      "fr": "~ 5000",
+      "en": "~ 5000"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le moteur 'Wankel' équipe principalement les :",
+     "en": "The 'Wankel' rotary engine mostly powered:"
+    },
+    "options": [
+     {
+      "fr": "Mazda",
+      "en": "Mazda"
+     },
+     {
+      "fr": "Honda",
+      "en": "Honda"
+     },
+     {
+      "fr": "Subaru",
+      "en": "Subaru"
+     },
+     {
+      "fr": "Mitsubishi",
+      "en": "Mitsubishi"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel est le record actuel de vitesse au Nürburgring (voiture de série) en 2024 ?",
+     "en": "Current Nürburgring lap record for production cars (2024)?"
+    },
+    "options": [
+     {
+      "fr": "Mercedes-AMG ONE",
+      "en": "Mercedes-AMG ONE"
+     },
+     {
+      "fr": "Porsche 911 GT2 RS",
+      "en": "Porsche 911 GT2 RS"
+     },
+     {
+      "fr": "Lamborghini Aventador SVJ",
+      "en": "Lamborghini Aventador SVJ"
+     },
+     {
+      "fr": "Pagani Huayra R",
+      "en": "Pagani Huayra R"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel constructeur a inventé l'airbag commercialisé en série en 1981 ?",
+     "en": "Which maker commercialized the production airbag in 1981?"
+    },
+    "options": [
+     {
+      "fr": "Mercedes-Benz",
+      "en": "Mercedes-Benz"
+     },
+     {
+      "fr": "Volvo",
+      "en": "Volvo"
+     },
+     {
+      "fr": "BMW",
+      "en": "BMW"
+     },
+     {
+      "fr": "Audi",
+      "en": "Audi"
+     }
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "trueFalse": [
+  {
+   "stmt": {
+    "fr": "Tesla a été fondée par Elon Musk.",
+    "en": "Tesla was founded by Elon Musk."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "La 2CV est un modèle Citroën.",
+    "en": "The 2CV is a Citroën model."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "La Bugatti Chiron dépasse 400 km/h.",
+    "en": "The Bugatti Chiron exceeds 400 km/h."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Lamborghini fabriquait des tracteurs avant les voitures.",
+    "en": "Lamborghini made tractors before cars."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "BMW est une marque italienne.",
+    "en": "BMW is an Italian brand."
+   },
+   "answer": false
+  }
+ ],
+ "memory": {
+  "pairs": [
+   {
+    "a": {
+     "fr": "Ferrari",
+     "en": "Ferrari"
+    },
+    "b": {
+     "fr": "Italie",
+     "en": "Italy"
+    }
+   },
+   {
+    "a": {
+     "fr": "BMW",
+     "en": "BMW"
+    },
+    "b": {
+     "fr": "Allemagne",
+     "en": "Germany"
+    }
+   },
+   {
+    "a": {
+     "fr": "Renault",
+     "en": "Renault"
+    },
+    "b": {
+     "fr": "France",
+     "en": "France"
+    }
+   },
+   {
+    "a": {
+     "fr": "Toyota",
+     "en": "Toyota"
+    },
+    "b": {
+     "fr": "Japon",
+     "en": "Japan"
+    }
+   },
+   {
+    "a": {
+     "fr": "Volvo",
+     "en": "Volvo"
+    },
+    "b": {
+     "fr": "Suède",
+     "en": "Sweden"
+    }
+   },
+   {
+    "a": {
+     "fr": "Hyundai",
+     "en": "Hyundai"
+    },
+    "b": {
+     "fr": "Corée du Sud",
+     "en": "South Korea"
+    }
+   }
+  ]
+ }
+}

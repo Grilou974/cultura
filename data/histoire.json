@@ -1,0 +1,613 @@
+{
+ "quiz": {
+  "easy": [
+   {
+    "q": {
+     "fr": "En quelle année a eu lieu la prise de la Bastille ?",
+     "en": "When was the storming of the Bastille?"
+    },
+    "options": [
+     {
+      "fr": "1789",
+      "en": "1789"
+     },
+     {
+      "fr": "1799",
+      "en": "1799"
+     },
+     {
+      "fr": "1804",
+      "en": "1804"
+     },
+     {
+      "fr": "1815",
+      "en": "1815"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui était empereur des Français après la Révolution ?",
+     "en": "Who became Emperor of the French after the Revolution?"
+    },
+    "options": [
+     {
+      "fr": "Napoléon Bonaparte",
+      "en": "Napoléon Bonaparte"
+     },
+     {
+      "fr": "Louis XVI",
+      "en": "Louis XVI"
+     },
+     {
+      "fr": "Louis XVIII",
+      "en": "Louis XVIII"
+     },
+     {
+      "fr": "Charles X",
+      "en": "Charles X"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 2nde Guerre mondiale s'est terminée en :",
+     "en": "WWII ended in:"
+    },
+    "options": [
+     {
+      "fr": "1945",
+      "en": "1945"
+     },
+     {
+      "fr": "1944",
+      "en": "1944"
+     },
+     {
+      "fr": "1946",
+      "en": "1946"
+     },
+     {
+      "fr": "1939",
+      "en": "1939"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pharaon est associé à un masque funéraire en or ?",
+     "en": "Which pharaoh is famous for a golden funeral mask?"
+    },
+    "options": [
+     {
+      "fr": "Toutânkhamon",
+      "en": "Toutânkhamon"
+     },
+     {
+      "fr": "Ramsès II",
+      "en": "Ramsès II"
+     },
+     {
+      "fr": "Khéops",
+      "en": "Khéops"
+     },
+     {
+      "fr": "Akhenaton",
+      "en": "Akhenaton"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a découvert l'Amérique en 1492 ?",
+     "en": "Who reached the Americas in 1492?"
+    },
+    "options": [
+     {
+      "fr": "Christophe Colomb",
+      "en": "Christophe Colomb"
+     },
+     {
+      "fr": "Vasco de Gama",
+      "en": "Vasco de Gama"
+     },
+     {
+      "fr": "Magellan",
+      "en": "Magellan"
+     },
+     {
+      "fr": "Amerigo Vespucci",
+      "en": "Amerigo Vespucci"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "medium": [
+   {
+    "q": {
+     "fr": "Quel mur est tombé en 1989 ?",
+     "en": "Which wall fell in 1989?"
+    },
+    "options": [
+     {
+      "fr": "Mur de Berlin",
+      "en": "Mur de Berlin"
+     },
+     {
+      "fr": "Mur d'Hadrien",
+      "en": "Mur d'Hadrien"
+     },
+     {
+      "fr": "Grande Muraille",
+      "en": "Grande Muraille"
+     },
+     {
+      "fr": "Mur des Lamentations",
+      "en": "Mur des Lamentations"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a conquis l'Empire perse au IVe siècle av. J.-C. ?",
+     "en": "Who conquered the Persian Empire in the 4th c. BCE?"
+    },
+    "options": [
+     {
+      "fr": "Alexandre le Grand",
+      "en": "Alexandre le Grand"
+     },
+     {
+      "fr": "Jules César",
+      "en": "Jules César"
+     },
+     {
+      "fr": "Cyrus le Grand",
+      "en": "Cyrus le Grand"
+     },
+     {
+      "fr": "Hannibal",
+      "en": "Hannibal"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La Renaissance européenne débute en quel pays ?",
+     "en": "Where did the European Renaissance begin?"
+    },
+    "options": [
+     {
+      "fr": "Italie / Italy",
+      "en": "Italie / Italy"
+     },
+     {
+      "fr": "France",
+      "en": "France"
+     },
+     {
+      "fr": "Espagne / Spain",
+      "en": "Espagne / Spain"
+     },
+     {
+      "fr": "Allemagne / Germany",
+      "en": "Allemagne / Germany"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel traité met fin à la 1ère Guerre mondiale ?",
+     "en": "Which treaty ended WWI?"
+    },
+    "options": [
+     {
+      "fr": "Traité de Versailles",
+      "en": "Traité de Versailles"
+     },
+     {
+      "fr": "Traité de Trianon",
+      "en": "Traité de Trianon"
+     },
+     {
+      "fr": "Traité de Sèvres",
+      "en": "Traité de Sèvres"
+     },
+     {
+      "fr": "Traité d'Aix-la-Chapelle",
+      "en": "Traité d'Aix-la-Chapelle"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Le Prince' (1532) ?",
+     "en": "Who wrote 'The Prince' (1532)?"
+    },
+    "options": [
+     {
+      "fr": "Machiavel",
+      "en": "Machiavel"
+     },
+     {
+      "fr": "Érasme",
+      "en": "Érasme"
+     },
+     {
+      "fr": "Thomas More",
+      "en": "Thomas More"
+     },
+     {
+      "fr": "Montaigne",
+      "en": "Montaigne"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "hard": [
+   {
+    "q": {
+     "fr": "Quelle bataille (1815) signe la défaite finale de Napoléon ?",
+     "en": "Which 1815 battle marked Napoléon's final defeat?"
+    },
+    "options": [
+     {
+      "fr": "Waterloo",
+      "en": "Waterloo"
+     },
+     {
+      "fr": "Austerlitz",
+      "en": "Austerlitz"
+     },
+     {
+      "fr": "Iéna",
+      "en": "Iéna"
+     },
+     {
+      "fr": "Leipzig",
+      "en": "Leipzig"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le 'Code Justinien' est rédigé sous quel empereur ?",
+     "en": "Under which emperor was the 'Justinian Code' written?"
+    },
+    "options": [
+     {
+      "fr": "Justinien Ier",
+      "en": "Justinien Ier"
+     },
+     {
+      "fr": "Constantin",
+      "en": "Constantin"
+     },
+     {
+      "fr": "Hadrien",
+      "en": "Hadrien"
+     },
+     {
+      "fr": "Théodose",
+      "en": "Théodose"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 'Glorieuse Révolution' a lieu en :",
+     "en": "The 'Glorious Revolution' took place in:"
+    },
+    "options": [
+     {
+      "fr": "1688 (Angleterre)",
+      "en": "1688 (Angleterre)"
+     },
+     {
+      "fr": "1789 (France)",
+      "en": "1789 (France)"
+     },
+     {
+      "fr": "1776 (USA)",
+      "en": "1776 (USA)"
+     },
+     {
+      "fr": "1848 (Europe)",
+      "en": "1848 (Europe)"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a unifié la Chine en -221 ?",
+     "en": "Who unified China in 221 BCE?"
+    },
+    "options": [
+     {
+      "fr": "Qin Shi Huang",
+      "en": "Qin Shi Huang"
+     },
+     {
+      "fr": "Han Wudi",
+      "en": "Han Wudi"
+     },
+     {
+      "fr": "Kangxi",
+      "en": "Kangxi"
+     },
+     {
+      "fr": "Sun Yat-sen",
+      "en": "Sun Yat-sen"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "L'Empire byzantin tombe en :",
+     "en": "The Byzantine Empire fell in:"
+    },
+    "options": [
+     {
+      "fr": "1453",
+      "en": "1453"
+     },
+     {
+      "fr": "1492",
+      "en": "1492"
+     },
+     {
+      "fr": "1517",
+      "en": "1517"
+     },
+     {
+      "fr": "1648",
+      "en": "1648"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "expert": [
+   {
+    "q": {
+     "fr": "Qui a écrit 'La Guerre du Péloponnèse' ?",
+     "en": "Who wrote 'The Peloponnesian War'?"
+    },
+    "options": [
+     {
+      "fr": "Thucydide",
+      "en": "Thucydide"
+     },
+     {
+      "fr": "Hérodote",
+      "en": "Hérodote"
+     },
+     {
+      "fr": "Xénophon",
+      "en": "Xénophon"
+     },
+     {
+      "fr": "Plutarque",
+      "en": "Plutarque"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel traité (1648) met fin à la guerre de Trente Ans ?",
+     "en": "Which 1648 treaty ended the Thirty Years' War?"
+    },
+    "options": [
+     {
+      "fr": "Westphalie",
+      "en": "Westphalie"
+     },
+     {
+      "fr": "Utrecht",
+      "en": "Utrecht"
+     },
+     {
+      "fr": "Vienne",
+      "en": "Vienne"
+     },
+     {
+      "fr": "Aix-la-Chapelle",
+      "en": "Aix-la-Chapelle"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La défenestration de Prague (1618) déclenche :",
+     "en": "The Defenestration of Prague (1618) triggered:"
+    },
+    "options": [
+     {
+      "fr": "La guerre de Trente Ans",
+      "en": "La guerre de Trente Ans"
+     },
+     {
+      "fr": "La guerre de Cent Ans",
+      "en": "La guerre de Cent Ans"
+     },
+     {
+      "fr": "La guerre de Succession d'Autriche",
+      "en": "La guerre de Succession d'Autriche"
+     },
+     {
+      "fr": "La guerre de Sept Ans",
+      "en": "La guerre de Sept Ans"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui fonde la dynastie Yuan en Chine ?",
+     "en": "Who founded the Yuan dynasty in China?"
+    },
+    "options": [
+     {
+      "fr": "Kubilai Khan",
+      "en": "Kubilai Khan"
+     },
+     {
+      "fr": "Gengis Khan",
+      "en": "Gengis Khan"
+     },
+     {
+      "fr": "Tamerlan",
+      "en": "Tamerlan"
+     },
+     {
+      "fr": "Hongwu",
+      "en": "Hongwu"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 'paix d'Augsbourg' (1555) consacre le principe :",
+     "en": "The 'Peace of Augsburg' (1555) established the principle:"
+    },
+    "options": [
+     {
+      "fr": "Cujus regio, ejus religio",
+      "en": "Cujus regio, ejus religio"
+     },
+     {
+      "fr": "Habeas corpus",
+      "en": "Habeas corpus"
+     },
+     {
+      "fr": "Pacta sunt servanda",
+      "en": "Pacta sunt servanda"
+     },
+     {
+      "fr": "Stare decisis",
+      "en": "Stare decisis"
+     }
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "trueFalse": [
+  {
+   "stmt": {
+    "fr": "La Première Guerre mondiale a éclaté en 1914.",
+    "en": "WWI broke out in 1914."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Jeanne d'Arc a été brûlée à Reims.",
+    "en": "Joan of Arc was burned in Reims."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "Le Saint-Empire romain germanique a duré jusqu'en 1806.",
+    "en": "The Holy Roman Empire lasted until 1806."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Les pyramides de Gizeh sont en Égypte.",
+    "en": "The Giza pyramids are in Egypt."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "L'URSS a été dissoute en 1989.",
+    "en": "The USSR was dissolved in 1989."
+   },
+   "answer": false
+  }
+ ],
+ "memory": {
+  "pairs": [
+   {
+    "a": {
+     "fr": "Jules César",
+     "en": "Julius Caesar"
+    },
+    "b": {
+     "fr": "Rome antique",
+     "en": "Ancient Rome"
+    }
+   },
+   {
+    "a": {
+     "fr": "Napoléon",
+     "en": "Napoléon"
+    },
+    "b": {
+     "fr": "France (Empire)",
+     "en": "France (Empire)"
+    }
+   },
+   {
+    "a": {
+     "fr": "Charlemagne",
+     "en": "Charlemagne"
+    },
+    "b": {
+     "fr": "Empire carolingien",
+     "en": "Carolingian Empire"
+    }
+   },
+   {
+    "a": {
+     "fr": "Cléopâtre",
+     "en": "Cleopatra"
+    },
+    "b": {
+     "fr": "Égypte antique",
+     "en": "Ancient Egypt"
+    }
+   },
+   {
+    "a": {
+     "fr": "Gengis Khan",
+     "en": "Genghis Khan"
+    },
+    "b": {
+     "fr": "Empire mongol",
+     "en": "Mongol Empire"
+    }
+   },
+   {
+    "a": {
+     "fr": "Pierre le Grand",
+     "en": "Peter the Great"
+    },
+    "b": {
+     "fr": "Russie",
+     "en": "Russia"
+    }
+   }
+  ]
+ }
+}

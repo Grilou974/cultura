@@ -1,0 +1,620 @@
+{
+ "quiz": {
+  "easy": [
+   {
+    "q": {
+     "fr": "Quel article de la DDHC proclame : « Les hommes naissent et demeurent libres et égaux en droits » ?",
+     "en": "Which DDHC article states 'Men are born and remain free and equal in rights'?"
+    },
+    "options": [
+     {
+      "fr": "Article 1",
+      "en": "Article 1"
+     },
+     {
+      "fr": "Article 5",
+      "en": "Article 5"
+     },
+     {
+      "fr": "Article 17",
+      "en": "Article 17"
+     },
+     {
+      "fr": "Article 12",
+      "en": "Article 12"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel est l'âge de la majorité légale en France ?",
+     "en": "What is the legal age of majority in France?"
+    },
+    "options": [
+     {
+      "fr": "18 ans / 18",
+      "en": "18 ans / 18"
+     },
+     {
+      "fr": "16 ans / 16",
+      "en": "16 ans / 16"
+     },
+     {
+      "fr": "21 ans / 21",
+      "en": "21 ans / 21"
+     },
+     {
+      "fr": "20 ans / 20",
+      "en": "20 ans / 20"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Que signifie l'acronyme CSG en France ?",
+     "en": "What does CSG mean in France?"
+    },
+    "options": [
+     {
+      "fr": "Contribution sociale généralisée",
+      "en": "Contribution sociale généralisée"
+     },
+     {
+      "fr": "Conseil supérieur de la gestion",
+      "en": "Conseil supérieur de la gestion"
+     },
+     {
+      "fr": "Caisse syndicale générale",
+      "en": "Caisse syndicale générale"
+     },
+     {
+      "fr": "Centre social général",
+      "en": "Centre social général"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle juridiction française juge en dernier ressort les affaires civiles ?",
+     "en": "Which French court rules in last resort for civil cases?"
+    },
+    "options": [
+     {
+      "fr": "Cour de cassation",
+      "en": "Cour de cassation"
+     },
+     {
+      "fr": "Conseil constitutionnel",
+      "en": "Conseil constitutionnel"
+     },
+     {
+      "fr": "Conseil d'État",
+      "en": "Conseil d'État"
+     },
+     {
+      "fr": "Cour d'appel",
+      "en": "Cour d'appel"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel principe interdit de juger deux fois pour les mêmes faits ?",
+     "en": "Which principle forbids being judged twice for the same act?"
+    },
+    "options": [
+     {
+      "fr": "Non bis in idem",
+      "en": "Non bis in idem"
+     },
+     {
+      "fr": "Nulla poena sine lege",
+      "en": "Nulla poena sine lege"
+     },
+     {
+      "fr": "In dubio pro reo",
+      "en": "In dubio pro reo"
+     },
+     {
+      "fr": "Res judicata",
+      "en": "Res judicata"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "medium": [
+   {
+    "q": {
+     "fr": "Quelle est la juridiction suprême administrative en France ?",
+     "en": "What is the supreme administrative court in France?"
+    },
+    "options": [
+     {
+      "fr": "Conseil d'État",
+      "en": "Conseil d'État"
+     },
+     {
+      "fr": "Cour de cassation",
+      "en": "Cour de cassation"
+     },
+     {
+      "fr": "Conseil constitutionnel",
+      "en": "Conseil constitutionnel"
+     },
+     {
+      "fr": "Tribunal des conflits",
+      "en": "Tribunal des conflits"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "L'habeas corpus protège contre :",
+     "en": "Habeas corpus protects against:"
+    },
+    "options": [
+     {
+      "fr": "La détention arbitraire",
+      "en": "La détention arbitraire"
+     },
+     {
+      "fr": "La torture",
+      "en": "La torture"
+     },
+     {
+      "fr": "La discrimination",
+      "en": "La discrimination"
+     },
+     {
+      "fr": "L'expropriation",
+      "en": "L'expropriation"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La Constitution française actuelle date de :",
+     "en": "The current French Constitution dates from:"
+    },
+    "options": [
+     {
+      "fr": "1958",
+      "en": "1958"
+     },
+     {
+      "fr": "1946",
+      "en": "1946"
+     },
+     {
+      "fr": "1875",
+      "en": "1875"
+     },
+     {
+      "fr": "1791",
+      "en": "1791"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Que désigne le terme 'jurisprudence' ?",
+     "en": "What does 'jurisprudence' refer to?"
+    },
+    "options": [
+     {
+      "fr": "L'ensemble des décisions de justice",
+      "en": "L'ensemble des décisions de justice"
+     },
+     {
+      "fr": "La doctrine juridique",
+      "en": "La doctrine juridique"
+     },
+     {
+      "fr": "Les lois votées",
+      "en": "Les lois votées"
+     },
+     {
+      "fr": "Les coutumes",
+      "en": "Les coutumes"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le délai de prescription pénale d'un crime en France est de :",
+     "en": "The criminal prescription delay for a 'crime' in France is:"
+    },
+    "options": [
+     {
+      "fr": "20 ans",
+      "en": "20 ans"
+     },
+     {
+      "fr": "10 ans",
+      "en": "10 ans"
+     },
+     {
+      "fr": "30 ans",
+      "en": "30 ans"
+     },
+     {
+      "fr": "5 ans",
+      "en": "5 ans"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "hard": [
+   {
+    "q": {
+     "fr": "Le principe de 'légalité des délits et des peines' est aussi appelé :",
+     "en": "The 'legality of offenses and penalties' is also called:"
+    },
+    "options": [
+     {
+      "fr": "Nullum crimen sine lege",
+      "en": "Nullum crimen sine lege"
+     },
+     {
+      "fr": "Non bis in idem",
+      "en": "Non bis in idem"
+     },
+     {
+      "fr": "In dubio pro reo",
+      "en": "In dubio pro reo"
+     },
+     {
+      "fr": "Lex specialis",
+      "en": "Lex specialis"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La règle 'pacta sunt servanda' signifie :",
+     "en": "The rule 'pacta sunt servanda' means:"
+    },
+    "options": [
+     {
+      "fr": "Les conventions doivent être respectées",
+      "en": "Les conventions doivent être respectées"
+     },
+     {
+      "fr": "Le silence vaut acceptation",
+      "en": "Le silence vaut acceptation"
+     },
+     {
+      "fr": "Nul n'est censé ignorer la loi",
+      "en": "Nul n'est censé ignorer la loi"
+     },
+     {
+      "fr": "L'écrit prime",
+      "en": "L'écrit prime"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le contrôle de constitutionnalité a priori en France est exercé par :",
+     "en": "A priori constitutional review in France is exercised by:"
+    },
+    "options": [
+     {
+      "fr": "Le Conseil constitutionnel",
+      "en": "Le Conseil constitutionnel"
+     },
+     {
+      "fr": "La Cour de cassation",
+      "en": "La Cour de cassation"
+     },
+     {
+      "fr": "Le Conseil d'État",
+      "en": "Le Conseil d'État"
+     },
+     {
+      "fr": "Le Parlement",
+      "en": "Le Parlement"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le 'forum shopping' désigne :",
+     "en": "'Forum shopping' refers to:"
+    },
+    "options": [
+     {
+      "fr": "Le choix opportuniste d'une juridiction",
+      "en": "Le choix opportuniste d'une juridiction"
+     },
+     {
+      "fr": "Le marché aux puces",
+      "en": "Le marché aux puces"
+     },
+     {
+      "fr": "Une procédure d'urgence",
+      "en": "Une procédure d'urgence"
+     },
+     {
+      "fr": "Un mode d'achat public",
+      "en": "Un mode d'achat public"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Un 'amicus curiae' est :",
+     "en": "An 'amicus curiae' is:"
+    },
+    "options": [
+     {
+      "fr": "Un tiers conseillant le tribunal",
+      "en": "Un tiers conseillant le tribunal"
+     },
+     {
+      "fr": "Un juge suppléant",
+      "en": "Un juge suppléant"
+     },
+     {
+      "fr": "Un avocat de la défense",
+      "en": "Un avocat de la défense"
+     },
+     {
+      "fr": "Un greffier",
+      "en": "Un greffier"
+     }
+    ],
+    "answer": 0
+   }
+  ],
+  "expert": [
+   {
+    "q": {
+     "fr": "La théorie 'de l'imprévision' en droit administratif date de l'arrêt :",
+     "en": "The 'imprévision' theory in administrative law stems from the ruling:"
+    },
+    "options": [
+     {
+      "fr": "Gaz de Bordeaux (1916)",
+      "en": "Gaz de Bordeaux (1916)"
+     },
+     {
+      "fr": "Blanco (1873)",
+      "en": "Blanco (1873)"
+     },
+     {
+      "fr": "Cadot (1889)",
+      "en": "Cadot (1889)"
+     },
+     {
+      "fr": "Nicolo (1989)",
+      "en": "Nicolo (1989)"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "L'arrêt 'Marbury v. Madison' (1803) consacre :",
+     "en": "Marbury v. Madison (1803) establishes:"
+    },
+    "options": [
+     {
+      "fr": "Le contrôle de constitutionnalité aux USA",
+      "en": "Le contrôle de constitutionnalité aux USA"
+     },
+     {
+      "fr": "Le droit de vote des femmes",
+      "en": "Le droit de vote des femmes"
+     },
+     {
+      "fr": "L'abolition de l'esclavage",
+      "en": "L'abolition de l'esclavage"
+     },
+     {
+      "fr": "L'habeas corpus",
+      "en": "L'habeas corpus"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le principe 'de la séparation des autorités' a été énoncé par :",
+     "en": "The 'separation of authorities' principle was articulated by:"
+    },
+    "options": [
+     {
+      "fr": "Montesquieu",
+      "en": "Montesquieu"
+     },
+     {
+      "fr": "Rousseau",
+      "en": "Rousseau"
+     },
+     {
+      "fr": "Hobbes",
+      "en": "Hobbes"
+     },
+     {
+      "fr": "Tocqueville",
+      "en": "Tocqueville"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "'Stare decisis' est typique du système :",
+     "en": "'Stare decisis' is typical of which system?"
+    },
+    "options": [
+     {
+      "fr": "Common Law",
+      "en": "Common Law"
+     },
+     {
+      "fr": "Romano-germanique",
+      "en": "Romano-germanique"
+     },
+     {
+      "fr": "Islamique",
+      "en": "Islamique"
+     },
+     {
+      "fr": "Coutumier africain",
+      "en": "Coutumier africain"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 'CEDH' siège à :",
+     "en": "The 'ECHR' sits in:"
+    },
+    "options": [
+     {
+      "fr": "Strasbourg",
+      "en": "Strasbourg"
+     },
+     {
+      "fr": "Luxembourg",
+      "en": "Luxembourg"
+     },
+     {
+      "fr": "La Haye",
+      "en": "La Haye"
+     },
+     {
+      "fr": "Bruxelles",
+      "en": "Bruxelles"
+     }
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "trueFalse": [
+  {
+   "stmt": {
+    "fr": "Nul n'est censé ignorer la loi.",
+    "en": "No one is supposed to ignore the law."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Une loi peut être rétroactive en matière pénale, sauf si plus douce.",
+    "en": "A criminal law can be retroactive, except if more lenient."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "Le Conseil constitutionnel siège à Paris.",
+    "en": "The French Constitutional Council sits in Paris."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "Un mineur peut signer un contrat de travail dès 14 ans en France.",
+    "en": "A minor can sign a job contract from age 14 in France."
+   },
+   "answer": false
+  },
+  {
+   "stmt": {
+    "fr": "Le silence de l'administration vaut désormais accord par principe.",
+    "en": "Administrative silence now generally implies consent in France."
+   },
+   "answer": true
+  },
+  {
+   "stmt": {
+    "fr": "La peine de mort est abolie en France depuis 1981.",
+    "en": "Capital punishment was abolished in France in 1981."
+   },
+   "answer": true
+  }
+ ],
+ "memory": {
+  "pairs": [
+   {
+    "a": {
+     "fr": "Cour de cassation",
+     "en": "Cour de cassation"
+    },
+    "b": {
+     "fr": "Juridiction judiciaire suprême",
+     "en": "Supreme judicial court"
+    }
+   },
+   {
+    "a": {
+     "fr": "Conseil d'État",
+     "en": "Conseil d'État"
+    },
+    "b": {
+     "fr": "Juridiction administrative",
+     "en": "Administrative court"
+    }
+   },
+   {
+    "a": {
+     "fr": "Conseil constitutionnel",
+     "en": "Constitutional Council"
+    },
+    "b": {
+     "fr": "Contrôle de constitutionnalité",
+     "en": "Constitutional review"
+    }
+   },
+   {
+    "a": {
+     "fr": "CEDH",
+     "en": "ECHR"
+    },
+    "b": {
+     "fr": "Strasbourg",
+     "en": "Strasbourg"
+    }
+   },
+   {
+    "a": {
+     "fr": "CIJ",
+     "en": "ICJ"
+    },
+    "b": {
+     "fr": "La Haye",
+     "en": "The Hague"
+    }
+   },
+   {
+    "a": {
+     "fr": "CPI",
+     "en": "ICC"
+    },
+    "b": {
+     "fr": "La Haye (Crimes internationaux)",
+     "en": "The Hague (international crimes)"
+    }
+   }
+  ]
+ }
+}
