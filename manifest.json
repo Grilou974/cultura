@@ -1,0 +1,17 @@
+{
+  "name": "Cultura — Mini-jeux culture générale",
+  "short_name": "Cultura",
+  "description": "Quiz et mini-jeux de culture générale : drapeaux, cinéma, sport, histoire…",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1226",
+  "theme_color": "#0f1226",
+  "lang": "fr",
+  "categories": ["games", "education", "entertainment"],
+  "icons": [
+    { "src": "icons/icon.svg", "type": "image/svg+xml", "sizes": "any", "purpose": "any" },
+    { "src": "icons/icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "any maskable" }
+  ]
+}
