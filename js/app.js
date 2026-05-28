@@ -9,6 +9,9 @@
   // Inject icons into static chrome buttons
   backBtn.innerHTML = Icons.chevronLeft;
   langBtn.innerHTML = `<span class="lang-glyph">${Icons.globe}</span><span class="lang-text">${Lang.current.toUpperCase()}</span>`;
+  // Logo in topbar: clickable to return home
+  const topLogo = document.getElementById('topLogo');
+  if (topLogo) topLogo.addEventListener('click', () => goHome());
 
   // ---------- State stack for navigation ----------
   const stack = [];
@@ -31,9 +34,11 @@
     stack.length = 0;
   }
   function updateChrome() {
-    backBtn.classList.toggle('hidden', stack.length <= 1);
+    const isHome = stack.length <= 1;
+    backBtn.classList.toggle('hidden', isHome);
     const top = stack[stack.length - 1];
-    topTitle.textContent = top?.title || Lang.t('appTitle');
+    // On home, show only the logo (no text title). On subpages, show the section title next to logo.
+    topTitle.textContent = isHome ? '' : (top?.title || '');
     bottomBar.classList.add('hidden');
   }
 
