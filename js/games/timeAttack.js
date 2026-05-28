@@ -54,12 +54,14 @@ const TimeAttack = (function () {
         if (i === correctIdx) b.classList.add('correct');
         if (i === picked && picked !== correctIdx) b.classList.add('wrong');
       });
-      if (picked === correctIdx) score++; else wrong++;
+      const isCorrect = picked === correctIdx;
+      if (isCorrect) score++; else wrong++;
+      Feedback.show(isCorrect);
       updateBar();
       setTimeout(() => {
         idx++;
         renderQ();
-      }, 450);
+      }, 650);
     }
 
     function updateBar() {

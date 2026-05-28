@@ -54,8 +54,10 @@ const GuessImage = (function () {
         if (i === correctIdx) b.classList.add('correct');
         if (i === picked && picked !== correctIdx) b.classList.add('wrong');
       });
-      if (picked === correctIdx) score++;
-      setTimeout(() => { idx++; renderQ(); }, 900);
+      const isCorrect = picked === correctIdx;
+      if (isCorrect) score++;
+      Feedback.show(isCorrect);
+      setTimeout(() => { idx++; renderQ(); }, 1100);
     }
 
     function finish() {

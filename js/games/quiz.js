@@ -1,6 +1,6 @@
 /* ----------  Cultura — Classic Quiz  ---------- */
 const Quiz = (function () {
-  const SIZE = 10; // 10 questions par session
+  const SIZE = 20; // 10 questions par session
 
   function start(theme, data, level, hooks) {
     const pool = (data.quiz && data.quiz[level]) || [];
@@ -52,11 +52,13 @@ const Quiz = (function () {
         if (i === correctIdx) b.classList.add('correct');
         if (i === picked && picked !== correctIdx) b.classList.add('wrong');
       });
-      if (picked === correctIdx) score++;
+      const isCorrect = picked === correctIdx;
+      if (isCorrect) score++;
+      Feedback.show(isCorrect);
       setTimeout(() => {
         idx++;
         renderQ();
-      }, 900);
+      }, 1100);
     }
 
     function finish() {

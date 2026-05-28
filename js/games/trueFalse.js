@@ -35,7 +35,8 @@ const TrueFalse = (function () {
       if (correct) score++; else wrong++;
       const btnPicked = document.getElementById(picked ? 'tf-true' : 'tf-false');
       btnPicked.style.outline = correct ? '3px solid var(--good)' : '3px solid var(--bad)';
-      setTimeout(() => { idx++; renderQ(); }, 600);
+      Feedback.show(correct);
+      setTimeout(() => { idx++; renderQ(); }, 800);
     }
 
     function finish() {
