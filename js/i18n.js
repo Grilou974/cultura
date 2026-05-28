@@ -1,7 +1,7 @@
-/* ----------  Cultura — i18n  ---------- */
+/* ----------  Cultoko — i18n  ---------- */
 const I18N = {
   fr: {
-    appTitle: 'Cultura',
+    appTitle: 'Cultoko',
     tagline: 'Mini-jeux de culture générale',
     chooseTheme: 'Choisis un thème',
     chooseMode: 'Choisis un mode de jeu',
@@ -47,12 +47,12 @@ const I18N = {
     comingSoon: 'Bientôt disponible',
     starter: 'Contenu starter',
     starterDesc: 'Ce thème a peu de questions pour l\'instant. Ajoute-en facilement dans data/' ,
-    install: 'Installer Cultura sur ton appareil',
+    install: 'Installer Cultoko sur ton appareil',
     installBtn: 'Installer',
     moreCountries: 'Note : pour voir les drapeaux, une connexion internet est nécessaire au 1er affichage.'
   },
   en: {
-    appTitle: 'Cultura',
+    appTitle: 'Cultoko',
     tagline: 'General-knowledge mini-games',
     chooseTheme: 'Choose a theme',
     chooseMode: 'Choose a game mode',
@@ -98,7 +98,7 @@ const I18N = {
     comingSoon: 'Coming soon',
     starter: 'Starter content',
     starterDesc: 'This theme has few questions for now. Add more in data/',
-    install: 'Install Cultura on your device',
+    install: 'Install Cultoko on your device',
     installBtn: 'Install',
     moreCountries: 'Note: an internet connection is needed the first time to load flag images.'
   }

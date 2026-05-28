@@ -68,10 +68,8 @@
     const themes = await Data.loadThemes();
     let html = `
       <div class="hero">
-        <div class="hero-eyebrow">${Lang.t('eyebrow') || 'Mini-jeux culturels'}</div>
-        <h2>${Lang.t('appTitle')}</h2>
-        <div class="hero-rule"></div>
-        <p>${Lang.t('tagline')}</p>
+        <img class="hero-logo" src="icons/logo-full.svg?v=6" alt="Cultoko" />
+        <p class="hero-tag">${Lang.t('tagline')}</p>
       </div>`;
 
     if (deferredInstall) {
