@@ -1,6 +1,6 @@
 {
-  "name": "Cultura — Mini-jeux culture générale",
-  "short_name": "Cultura",
+  "name": "Cultoko — Mini-jeux culture générale",
+  "short_name": "Cultoko",
   "description": "Quiz et mini-jeux de culture générale : drapeaux, cinéma, sport, histoire…",
   "start_url": "./index.html",
   "display": "standalone",

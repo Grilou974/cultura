@@ -1,5 +1,5 @@
 // Service worker pour Cultura — cache offline simple
-const CACHE = 'cultura-v5';
+const CACHE = 'cultoko-v6';
 const PRECACHE = [
   './',
   './index.html',
@@ -23,7 +23,8 @@ const PRECACHE = [
   './data/voitures.json',
   './data/sport.json',
   './data/histoire.json',
-  './icons/icon.svg'
+  './icons/icon.svg',
+  './icons/logo-full.svg'
 ];
 
 self.addEventListener('install', (event) => {
