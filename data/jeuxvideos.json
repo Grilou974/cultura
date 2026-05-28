@@ -1609,5 +1609,112 @@
     }
    }
   ]
- }
+ },
+ "guessImage": [
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png",
+   "answer": {
+    "fr": "Super Mario Bros.",
+    "en": "Super Mario Bros."
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+   "answer": {
+    "fr": "Zelda: Breath of the Wild",
+    "en": "Zelda: Breath of the Wild"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
+   "answer": {
+    "fr": "GTA V",
+    "en": "GTA V"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg",
+   "answer": {
+    "fr": "The Witcher 3",
+    "en": "The Witcher 3"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg",
+   "answer": {
+    "fr": "Red Dead Redemption 2",
+    "en": "Red Dead Redemption 2"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tetris_logo_2019.svg/330px-Tetris_logo_2019.svg.png",
+   "answer": {
+    "fr": "Tetris",
+    "en": "Tetris"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/1/16/Pac_flyer.png",
+   "answer": {
+    "fr": "Pac-Man",
+    "en": "Pac-Man"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sonic_The_Hedgehog.svg/330px-Sonic_The_Hedgehog.svg.png",
+   "answer": {
+    "fr": "Sonic",
+    "en": "Sonic"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Street_Fighter_Logo.png",
+   "answer": {
+    "fr": "Street Fighter",
+    "en": "Street Fighter"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Mortal_Kombat_Logo.svg/330px-Mortal_Kombat_Logo.svg.png",
+   "answer": {
+    "fr": "Mortal Kombat",
+    "en": "Mortal Kombat"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Tomb_Raider_Logo_2022.png/330px-Tomb_Raider_Logo_2022.png",
+   "answer": {
+    "fr": "Tomb Raider",
+    "en": "Tomb Raider"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Assassin%27s_Creed_Logo.svg/330px-Assassin%27s_Creed_Logo.svg.png",
+   "answer": {
+    "fr": "Assassin's Creed",
+    "en": "Assassin's Creed"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/68/Bloodborne_Cover_Wallpaper.jpg",
+   "answer": {
+    "fr": "Bloodborne",
+    "en": "Bloodborne"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg",
+   "answer": {
+    "fr": "Elden Ring",
+    "en": "Elden Ring"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/League_of_Legends_2019_vector.svg/330px-League_of_Legends_2019_vector.svg.png",
+   "answer": {
+    "fr": "League of Legends",
+    "en": "League of Legends"
+   }
+  }
+ ]
 }

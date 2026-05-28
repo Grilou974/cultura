@@ -1609,5 +1609,84 @@
     }
    }
   ]
- }
+ },
+ "guessImage": [
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg/330px-Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg",
+   "answer": {
+    "fr": "Victor Hugo",
+    "en": "Victor Hugo"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Otto_Wegener_Proust_vers_1895_bis.jpg/330px-Otto_Wegener_Proust_vers_1895_bis.jpg",
+   "answer": {
+    "fr": "Marcel Proust",
+    "en": "Marcel Proust"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg/330px-Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg",
+   "answer": {
+    "fr": "Albert Camus",
+    "en": "Albert Camus"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_%28cropped%29.jpg/330px-Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Voltaire",
+    "en": "Voltaire"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Identite-Duras-1960-Sacem.png/330px-Identite-Duras-1960-Sacem.png",
+   "answer": {
+    "fr": "Marguerite Duras",
+    "en": "Marguerite Duras"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ErnestHemingway.jpg/330px-ErnestHemingway.jpg",
+   "answer": {
+    "fr": "Hemingway",
+    "en": "Hemingway"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Franz_Kafka%2C_1923.jpg/330px-Franz_Kafka%2C_1923.jpg",
+   "answer": {
+    "fr": "Kafka",
+    "en": "Kafka"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Anton_Chekhov_1889.jpg/330px-Anton_Chekhov_1889.jpg",
+   "answer": {
+    "fr": "Tchekhov",
+    "en": "Tchekhov"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dickens_Gurney_head.jpg/330px-Dickens_Gurney_head.jpg",
+   "answer": {
+    "fr": "Dickens",
+    "en": "Dickens"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jorge_Luis_Borges_1951%2C_by_Grete_Stern_%28full%29.jpg/330px-Jorge_Luis_Borges_1951%2C_by_Grete_Stern_%28full%29.jpg",
+   "answer": {
+    "fr": "Borges",
+    "en": "Borges"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Toni_Morrison.jpg/330px-Toni_Morrison.jpg",
+   "answer": {
+    "fr": "Toni Morrison",
+    "en": "Toni Morrison"
+   }
+  }
+ ]
 }

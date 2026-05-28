@@ -1609,5 +1609,168 @@
     }
    }
   ]
- }
+ },
+ "guessImage": [
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg/330px-Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg",
+   "answer": {
+    "fr": "Lionel Messi",
+    "en": "Lionel Messi"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Michael_Jordan_in_2014.jpg/330px-Michael_Jordan_in_2014.jpg",
+   "answer": {
+    "fr": "Michael Jordan",
+    "en": "Michael Jordan"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LeBron_James_%2851959977144%29_%28cropped2%29.jpg/330px-LeBron_James_%2851959977144%29_%28cropped2%29.jpg",
+   "answer": {
+    "fr": "LeBron James",
+    "en": "LeBron James"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kobe_Bryant_Dec_2014.jpg/330px-Kobe_Bryant_Dec_2014.jpg",
+   "answer": {
+    "fr": "Kobe Bryant",
+    "en": "Kobe Bryant"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rafael_Nadal_en_2024_%28cropped%29.jpg/330px-Rafael_Nadal_en_2024_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Rafael Nadal",
+    "en": "Rafael Nadal"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Guests_at_the_2026_Met_Gala_209_%28cropped%29.jpg/330px-Guests_at_the_2026_Met_Gala_209_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Serena Williams",
+    "en": "Serena Williams"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Usain_Bolt_smiling_Berlin_2009.JPG/330px-Usain_Bolt_smiling_Berlin_2009.JPG",
+   "answer": {
+    "fr": "Usain Bolt",
+    "en": "Usain Bolt"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Michael_Phelps_Rio_Olympics_2016.jpg/330px-Michael_Phelps_Rio_Olympics_2016.jpg",
+   "answer": {
+    "fr": "Michael Phelps",
+    "en": "Michael Phelps"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/President_Donald_Trump_hosts_a_reception_honoring_Black_History_Month_%2854341713089%29_%28cropped%29.jpg/330px-President_Donald_Trump_hosts_a_reception_honoring_Black_History_Month_%2854341713089%29_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Tiger Woods",
+    "en": "Tiger Woods"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/330px-Muhammad_Ali_NYWTS.jpg",
+   "answer": {
+    "fr": "Muhammad Ali",
+    "en": "Muhammad Ali"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mike_Tyson_Photo_Op_GalaxyCon_Austin_2023.jpg/330px-Mike_Tyson_Photo_Op_GalaxyCon_Austin_2023.jpg",
+   "answer": {
+    "fr": "Mike Tyson",
+    "en": "Mike Tyson"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Floyd_Mayweather_Jr_2011.jpg/330px-Floyd_Mayweather_Jr_2011.jpg",
+   "answer": {
+    "fr": "Floyd Mayweather",
+    "en": "Floyd Mayweather"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg/330px-Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Lewis Hamilton",
+    "en": "Lewis Hamilton"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/A%C3%A9cio_Neves%2C_Michael_Schumacher_e_Didi_%28Cropped%29.jpg/330px-A%C3%A9cio_Neves%2C_Michael_Schumacher_e_Didi_%28Cropped%29.jpg",
+   "answer": {
+    "fr": "Michael Schumacher",
+    "en": "Michael Schumacher"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ayrton_Senna_9_%28cropped%29.jpg/330px-Ayrton_Senna_9_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Ayrton Senna",
+    "en": "Ayrton Senna"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sebastian_Vettel_-_2022236172324_2022-08-24_Champions_for_Charity_-_Sven_-_1D_X_MK_II_-_0418_-_B70I2428_%28cropped%29.jpg/330px-Sebastian_Vettel_-_2022236172324_2022-08-24_Champions_for_Charity_-_Sven_-_1D_X_MK_II_-_0418_-_B70I2428_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Sebastian Vettel",
+    "en": "Sebastian Vettel"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Valentino_Rossi_2024_WEC_Fuji_6.jpg/330px-Valentino_Rossi_2024_WEC_Fuji_6.jpg",
+   "answer": {
+    "fr": "Valentino Rossi",
+    "en": "Valentino Rossi"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Flamme_olympique_Reims_1525799.jpg/330px-Flamme_olympique_Reims_1525799.jpg",
+   "answer": {
+    "fr": "Tony Parker",
+    "en": "Tony Parker"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/FRA-ARG_%2810%29_%28cropped%29.jpg/330px-FRA-ARG_%2810%29_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Antoine Griezmann",
+    "en": "Antoine Griezmann"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Karim_Benzema_Pick.jpg/330px-Karim_Benzema_Pick.jpg",
+   "answer": {
+    "fr": "Karim Benzema",
+    "en": "Karim Benzema"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Thierry_Henry_%2851649035951%29_%28cropped%29.jpg/330px-Thierry_Henry_%2851649035951%29_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Thierry Henry",
+    "en": "Thierry Henry"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Eliud_Kipchoge_in_Berlin_-_2015_%28cropped%29.jpg/330px-Eliud_Kipchoge_in_Berlin_-_2015_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Eliud Kipchoge",
+    "en": "Eliud Kipchoge"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Simone_Biles_National_Team_2024.jpg/330px-Simone_Biles_National_Team_2024.jpg",
+   "answer": {
+    "fr": "Simone Biles",
+    "en": "Simone Biles"
+   }
+  }
+ ]
 }

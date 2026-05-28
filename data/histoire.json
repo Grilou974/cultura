@@ -1609,5 +1609,112 @@
     }
    }
   ]
- }
+ },
+ "guessImage": [
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg/330px-Kleopatra-VII.-Altes-Museum-Berlin1.jpg",
+   "answer": {
+    "fr": "Cléopâtre",
+    "en": "Cléopâtre"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/330px-Joan_of_Arc_miniature_graded.jpg",
+   "answer": {
+    "fr": "Jeanne d'Arc",
+    "en": "Jeanne d'Arc"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/De_Gaulle-OWI.jpg/330px-De_Gaulle-OWI.jpg",
+   "answer": {
+    "fr": "Charles de Gaulle",
+    "en": "Charles de Gaulle"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/330px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+   "answer": {
+    "fr": "George Washington",
+    "en": "George Washington"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nelson_Mandela_1994.jpg/330px-Nelson_Mandela_1994.jpg",
+   "answer": {
+    "fr": "Nelson Mandela",
+    "en": "Nelson Mandela"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/330px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
+   "answer": {
+    "fr": "Christophe Colomb",
+    "en": "Christophe Colomb"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/YuanEmperorAlbumGenghisPortrait.jpg/330px-YuanEmperorAlbumGenghisPortrait.jpg",
+   "answer": {
+    "fr": "Gengis Khan",
+    "en": "Gengis Khan"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg/330px-Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg",
+   "answer": {
+    "fr": "Marie-Antoinette",
+    "en": "Marie-Antoinette"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Catherine_II_after_Roslin%2C_Rokotov_%281780s%2C_Kunsthistorisches_Museum%29.jpg/330px-Catherine_II_after_Roslin%2C_Rokotov_%281780s%2C_Kunsthistorisches_Museum%29.jpg",
+   "answer": {
+    "fr": "Catherine II",
+    "en": "Catherine II"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/330px-Queen_Victoria_by_Bassano.jpg",
+   "answer": {
+    "fr": "Victoria du Royaume-Uni",
+    "en": "Victoria du Royaume-Uni"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_%28cropped%29.jpg/330px-Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Voltaire",
+    "en": "Voltaire"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg/330px-Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg",
+   "answer": {
+    "fr": "Jean-Jacques Rousseau",
+    "en": "Jean-Jacques Rousseau"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/330px-Albert_Einstein_Head_cleaned.jpg",
+   "answer": {
+    "fr": "Albert Einstein",
+    "en": "Albert Einstein"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/330px-Marie_Curie_c._1920s.jpg",
+   "answer": {
+    "fr": "Marie Curie",
+    "en": "Marie Curie"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/330px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg",
+   "answer": {
+    "fr": "Michel-Ange",
+    "en": "Michel-Ange"
+   }
+  }
+ ]
 }
