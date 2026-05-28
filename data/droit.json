@@ -125,6 +125,256 @@
      }
     ],
     "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 'présomption d'innocence' signifie qu'on est :",
+     "en": "'Presumption of innocence' means a person is:"
+    },
+    "options": [
+     {
+      "fr": "Innocent jusqu'à preuve du contraire",
+      "en": "Innocent jusqu'à preuve du contraire"
+     },
+     {
+      "fr": "Coupable jusqu'à preuve du contraire",
+      "en": "Coupable jusqu'à preuve du contraire"
+     },
+     {
+      "fr": "Toujours innocent",
+      "en": "Toujours innocent"
+     },
+     {
+      "fr": "Toujours coupable",
+      "en": "Toujours coupable"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui rédige la loi en France ?",
+     "en": "Who writes the law in France?"
+    },
+    "options": [
+     {
+      "fr": "Le Parlement",
+      "en": "Le Parlement"
+     },
+     {
+      "fr": "Le Président",
+      "en": "Le Président"
+     },
+     {
+      "fr": "Le Gouvernement",
+      "en": "Le Gouvernement"
+     },
+     {
+      "fr": "Les juges",
+      "en": "Les juges"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 'cour d'assises' juge :",
+     "en": "The 'cour d'assises' tries:"
+    },
+    "options": [
+     {
+      "fr": "Les crimes",
+      "en": "Les crimes"
+     },
+     {
+      "fr": "Les contraventions",
+      "en": "Les contraventions"
+     },
+     {
+      "fr": "Les délits mineurs",
+      "en": "Les délits mineurs"
+     },
+     {
+      "fr": "Les litiges civils",
+      "en": "Les litiges civils"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le 'casier judiciaire' enregistre :",
+     "en": "A 'casier judiciaire' records:"
+    },
+    "options": [
+     {
+      "fr": "Les condamnations pénales",
+      "en": "Les condamnations pénales"
+     },
+     {
+      "fr": "Les amendes de stationnement",
+      "en": "Les amendes de stationnement"
+     },
+     {
+      "fr": "Les opinions politiques",
+      "en": "Les opinions politiques"
+     },
+     {
+      "fr": "Les diplômes",
+      "en": "Les diplômes"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "L'âge minimal pour voter en France est :",
+     "en": "Minimum voting age in France is:"
+    },
+    "options": [
+     {
+      "fr": "18 ans",
+      "en": "18 ans"
+     },
+     {
+      "fr": "16 ans",
+      "en": "16 ans"
+     },
+     {
+      "fr": "21 ans",
+      "en": "21 ans"
+     },
+     {
+      "fr": "15 ans",
+      "en": "15 ans"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Que désigne 'CDI' en droit du travail ?",
+     "en": "What does 'CDI' mean in French labor law?"
+    },
+    "options": [
+     {
+      "fr": "Contrat à durée indéterminée",
+      "en": "Contrat à durée indéterminée"
+     },
+     {
+      "fr": "Contrat de droit international",
+      "en": "Contrat de droit international"
+     },
+     {
+      "fr": "Contrat d'indemnité",
+      "en": "Contrat d'indemnité"
+     },
+     {
+      "fr": "Contrat de dévolution",
+      "en": "Contrat de dévolution"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel document atteste qu'on est propriétaire d'un bien immobilier ?",
+     "en": "Which document proves real-estate ownership?"
+    },
+    "options": [
+     {
+      "fr": "L'acte notarié",
+      "en": "L'acte notarié"
+     },
+     {
+      "fr": "Le titre de transport",
+      "en": "Le titre de transport"
+     },
+     {
+      "fr": "Le passeport",
+      "en": "Le passeport"
+     },
+     {
+      "fr": "Le bail",
+      "en": "Le bail"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "'SMIC' signifie :",
+     "en": "'SMIC' means:"
+    },
+    "options": [
+     {
+      "fr": "Salaire minimum interprofessionnel de croissance",
+      "en": "Salaire minimum interprofessionnel de croissance"
+     },
+     {
+      "fr": "Société mutuelle d'intérêt commun",
+      "en": "Société mutuelle d'intérêt commun"
+     },
+     {
+      "fr": "Système monétaire international corrigé",
+      "en": "Système monétaire international corrigé"
+     },
+     {
+      "fr": "Service militaire intercommunal civil",
+      "en": "Service militaire intercommunal civil"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le mariage civil est célébré :",
+     "en": "Civil marriage is celebrated:"
+    },
+    "options": [
+     {
+      "fr": "À la mairie",
+      "en": "À la mairie"
+     },
+     {
+      "fr": "À l'église",
+      "en": "À l'église"
+     },
+     {
+      "fr": "Au tribunal",
+      "en": "Au tribunal"
+     },
+     {
+      "fr": "À la préfecture",
+      "en": "À la préfecture"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui dirige une enquête pénale en France ?",
+     "en": "Who leads a criminal investigation in France?"
+    },
+    "options": [
+     {
+      "fr": "Le procureur de la République ou le juge d'instruction",
+      "en": "Le procureur de la République ou le juge d'instruction"
+     },
+     {
+      "fr": "Le maire",
+      "en": "Le maire"
+     },
+     {
+      "fr": "Le préfet",
+      "en": "Le préfet"
+     },
+     {
+      "fr": "Le greffier",
+      "en": "Le greffier"
+     }
+    ],
+    "answer": 0
    }
   ],
   "medium": [
@@ -249,6 +499,256 @@
      {
       "fr": "5 ans",
       "en": "5 ans"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 'garde à vue' peut durer initialement :",
+     "en": "Initial 'garde à vue' (police custody) duration is:"
+    },
+    "options": [
+     {
+      "fr": "24 heures",
+      "en": "24 heures"
+     },
+     {
+      "fr": "48 heures",
+      "en": "48 heures"
+     },
+     {
+      "fr": "72 heures",
+      "en": "72 heures"
+     },
+     {
+      "fr": "6 heures",
+      "en": "6 heures"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le 'recours pour excès de pouvoir' relève :",
+     "en": "An 'excès de pouvoir' appeal belongs to:"
+    },
+    "options": [
+     {
+      "fr": "Du droit administratif",
+      "en": "Du droit administratif"
+     },
+     {
+      "fr": "Du droit pénal",
+      "en": "Du droit pénal"
+     },
+     {
+      "fr": "Du droit commercial",
+      "en": "Du droit commercial"
+     },
+     {
+      "fr": "Du droit international",
+      "en": "Du droit international"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le 'préjudice moral' désigne :",
+     "en": "'Préjudice moral' refers to:"
+    },
+    "options": [
+     {
+      "fr": "Une atteinte non patrimoniale",
+      "en": "Une atteinte non patrimoniale"
+     },
+     {
+      "fr": "Un préjudice financier",
+      "en": "Un préjudice financier"
+     },
+     {
+      "fr": "Une atteinte religieuse",
+      "en": "Une atteinte religieuse"
+     },
+     {
+      "fr": "Une faute disciplinaire",
+      "en": "Une faute disciplinaire"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel est le rôle d'un avocat 'commis d'office' ?",
+     "en": "What is a court-appointed lawyer's role?"
+    },
+    "options": [
+     {
+      "fr": "Assister un justiciable sans avocat choisi",
+      "en": "Assister un justiciable sans avocat choisi"
+     },
+     {
+      "fr": "Représenter l'État",
+      "en": "Représenter l'État"
+     },
+     {
+      "fr": "Plaider gratuitement pour tous",
+      "en": "Plaider gratuitement pour tous"
+     },
+     {
+      "fr": "Juger l'affaire",
+      "en": "Juger l'affaire"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 'légitime défense' suppose :",
+     "en": "Self-defense requires:"
+    },
+    "options": [
+     {
+      "fr": "Une riposte proportionnée à une agression",
+      "en": "Une riposte proportionnée à une agression"
+     },
+     {
+      "fr": "Une attaque préventive",
+      "en": "Une attaque préventive"
+     },
+     {
+      "fr": "Une vengeance différée",
+      "en": "Une vengeance différée"
+     },
+     {
+      "fr": "Une dénonciation",
+      "en": "Une dénonciation"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "L'arrêt 'Roe v. Wade' (1973) concernait :",
+     "en": "Roe v. Wade (1973) was about:"
+    },
+    "options": [
+     {
+      "fr": "Le droit à l'avortement (USA)",
+      "en": "Le droit à l'avortement (USA)"
+     },
+     {
+      "fr": "La ségrégation raciale",
+      "en": "La ségrégation raciale"
+     },
+     {
+      "fr": "Le droit de vote",
+      "en": "Le droit de vote"
+     },
+     {
+      "fr": "Le mariage homosexuel",
+      "en": "Le mariage homosexuel"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le 'tribunal des prud'hommes' juge :",
+     "en": "The 'prud'hommes' court tries:"
+    },
+    "options": [
+     {
+      "fr": "Les conflits du travail",
+      "en": "Les conflits du travail"
+     },
+     {
+      "fr": "Les divorces",
+      "en": "Les divorces"
+     },
+     {
+      "fr": "Les héritages",
+      "en": "Les héritages"
+     },
+     {
+      "fr": "Les délits routiers",
+      "en": "Les délits routiers"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le 'huis clos' désigne :",
+     "en": "A 'huis clos' hearing is:"
+    },
+    "options": [
+     {
+      "fr": "Une audience à portes fermées",
+      "en": "Une audience à portes fermées"
+     },
+     {
+      "fr": "Une médiation publique",
+      "en": "Une médiation publique"
+     },
+     {
+      "fr": "Une procédure rapide",
+      "en": "Une procédure rapide"
+     },
+     {
+      "fr": "Un appel",
+      "en": "Un appel"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "'Erga omnes' signifie :",
+     "en": "'Erga omnes' means:"
+    },
+    "options": [
+     {
+      "fr": "Opposable à tous",
+      "en": "Opposable à tous"
+     },
+     {
+      "fr": "Entre les parties",
+      "en": "Entre les parties"
+     },
+     {
+      "fr": "Sans effet rétroactif",
+      "en": "Sans effet rétroactif"
+     },
+     {
+      "fr": "Avec réserve",
+      "en": "Avec réserve"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le 'principe du contradictoire' garantit :",
+     "en": "The adversarial principle guarantees:"
+    },
+    "options": [
+     {
+      "fr": "Le droit à discuter les preuves de la partie adverse",
+      "en": "Le droit à discuter les preuves de la partie adverse"
+     },
+     {
+      "fr": "Le droit de garder le silence",
+      "en": "Le droit de garder le silence"
+     },
+     {
+      "fr": "L'anonymat des témoins",
+      "en": "L'anonymat des témoins"
+     },
+     {
+      "fr": "L'impartialité du juge",
+      "en": "L'impartialité du juge"
      }
     ],
     "answer": 0
@@ -379,6 +879,256 @@
      }
     ],
     "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 'théorie de l'apparence' permet :",
+     "en": "The 'doctrine of apparent authority' permits:"
+    },
+    "options": [
+     {
+      "fr": "De considérer valable un acte fondé sur une apparence légitime",
+      "en": "De considérer valable un acte fondé sur une apparence légitime"
+     },
+     {
+      "fr": "De refuser tout contrat oral",
+      "en": "De refuser tout contrat oral"
+     },
+     {
+      "fr": "De casser tout arrêt",
+      "en": "De casser tout arrêt"
+     },
+     {
+      "fr": "De révoquer un mandat",
+      "en": "De révoquer un mandat"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le 'principe de précaution' est constitutionnel en France depuis :",
+     "en": "When did the precautionary principle become constitutional in France?"
+    },
+    "options": [
+     {
+      "fr": "2005",
+      "en": "2005"
+     },
+     {
+      "fr": "1789",
+      "en": "1789"
+     },
+     {
+      "fr": "1958",
+      "en": "1958"
+     },
+     {
+      "fr": "2015",
+      "en": "2015"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 'lex fori' désigne :",
+     "en": "'Lex fori' refers to:"
+    },
+    "options": [
+     {
+      "fr": "La loi du for (juridiction saisie)",
+      "en": "La loi du for (juridiction saisie)"
+     },
+     {
+      "fr": "La loi du contrat",
+      "en": "La loi du contrat"
+     },
+     {
+      "fr": "La loi étrangère",
+      "en": "La loi étrangère"
+     },
+     {
+      "fr": "La loi pénale",
+      "en": "La loi pénale"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Que désigne le 'forum non conveniens' ?",
+     "en": "What is 'forum non conveniens'?"
+    },
+    "options": [
+     {
+      "fr": "Une juridiction se déclarant inappropriée",
+      "en": "Une juridiction se déclarant inappropriée"
+     },
+     {
+      "fr": "Un forum public en ligne",
+      "en": "Un forum public en ligne"
+     },
+     {
+      "fr": "Un tribunal d'exception",
+      "en": "Un tribunal d'exception"
+     },
+     {
+      "fr": "Une assemblée parlementaire",
+      "en": "Une assemblée parlementaire"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "L'arrêt 'Costa contre ENEL' (1964) consacre :",
+     "en": "Costa v. ENEL (1964) established:"
+    },
+    "options": [
+     {
+      "fr": "La primauté du droit communautaire",
+      "en": "La primauté du droit communautaire"
+     },
+     {
+      "fr": "La séparation des pouvoirs",
+      "en": "La séparation des pouvoirs"
+     },
+     {
+      "fr": "La présomption d'innocence",
+      "en": "La présomption d'innocence"
+     },
+     {
+      "fr": "Le contrôle de constitutionnalité",
+      "en": "Le contrôle de constitutionnalité"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 'lex specialis derogat generali' signifie :",
+     "en": "'Lex specialis derogat generali' means:"
+    },
+    "options": [
+     {
+      "fr": "La loi spéciale prime sur la loi générale",
+      "en": "La loi spéciale prime sur la loi générale"
+     },
+     {
+      "fr": "La loi nouvelle prime sur l'ancienne",
+      "en": "La loi nouvelle prime sur l'ancienne"
+     },
+     {
+      "fr": "Le silence vaut acceptation",
+      "en": "Le silence vaut acceptation"
+     },
+     {
+      "fr": "La forme prime sur le fond",
+      "en": "La forme prime sur le fond"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le 'droit mou' (soft law) désigne :",
+     "en": "'Soft law' refers to:"
+    },
+    "options": [
+     {
+      "fr": "Des règles non contraignantes mais influentes",
+      "en": "Des règles non contraignantes mais influentes"
+     },
+     {
+      "fr": "Le droit pénal mineur",
+      "en": "Le droit pénal mineur"
+     },
+     {
+      "fr": "Le droit coutumier",
+      "en": "Le droit coutumier"
+     },
+     {
+      "fr": "Le droit privé",
+      "en": "Le droit privé"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La QPC (Question prioritaire de constitutionnalité) existe en France depuis :",
+     "en": "When was the QPC introduced in France?"
+    },
+    "options": [
+     {
+      "fr": "2010",
+      "en": "2010"
+     },
+     {
+      "fr": "1958",
+      "en": "1958"
+     },
+     {
+      "fr": "2000",
+      "en": "2000"
+     },
+     {
+      "fr": "2015",
+      "en": "2015"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le principe 'non rétroactivité' des lois pénales connaît une exception pour :",
+     "en": "Non-retroactivity of criminal law has an exception for:"
+    },
+    "options": [
+     {
+      "fr": "Les lois pénales plus douces",
+      "en": "Les lois pénales plus douces"
+     },
+     {
+      "fr": "Les lois fiscales",
+      "en": "Les lois fiscales"
+     },
+     {
+      "fr": "Les lois militaires",
+      "en": "Les lois militaires"
+     },
+     {
+      "fr": "Aucune exception",
+      "en": "Aucune exception"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 'subsidiarité' dans l'UE signifie :",
+     "en": "EU 'subsidiarity' means:"
+    },
+    "options": [
+     {
+      "fr": "Les décisions sont prises au niveau le plus pertinent",
+      "en": "Les décisions sont prises au niveau le plus pertinent"
+     },
+     {
+      "fr": "Les États priment toujours",
+      "en": "Les États priment toujours"
+     },
+     {
+      "fr": "L'UE prime toujours",
+      "en": "L'UE prime toujours"
+     },
+     {
+      "fr": "Les régions priment toujours",
+      "en": "Les régions priment toujours"
+     }
+    ],
+    "answer": 0
    }
   ],
   "expert": [
@@ -503,6 +1253,256 @@
      {
       "fr": "Bruxelles",
       "en": "Bruxelles"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "L'arrêt 'Brown v. Board of Education' (1954) consacre :",
+     "en": "Brown v. Board of Education (1954) established:"
+    },
+    "options": [
+     {
+      "fr": "La fin de la ségrégation scolaire aux USA",
+      "en": "La fin de la ségrégation scolaire aux USA"
+     },
+     {
+      "fr": "Le droit de vote des Noirs",
+      "en": "Le droit de vote des Noirs"
+     },
+     {
+      "fr": "L'abolition de la peine de mort",
+      "en": "L'abolition de la peine de mort"
+     },
+     {
+      "fr": "Le mariage interracial",
+      "en": "Le mariage interracial"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le 'jus cogens' désigne :",
+     "en": "'Jus cogens' refers to:"
+    },
+    "options": [
+     {
+      "fr": "Normes impératives du droit international",
+      "en": "Normes impératives du droit international"
+     },
+     {
+      "fr": "Le droit romain classique",
+      "en": "Le droit romain classique"
+     },
+     {
+      "fr": "Le droit canon",
+      "en": "Le droit canon"
+     },
+     {
+      "fr": "Le droit pénal militaire",
+      "en": "Le droit pénal militaire"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "L'arrêt 'Marbury v. Madison' (1803) instaure :",
+     "en": "Marbury v. Madison (1803) instituted:"
+    },
+    "options": [
+     {
+      "fr": "Le contrôle de constitutionnalité (USA)",
+      "en": "Le contrôle de constitutionnalité (USA)"
+     },
+     {
+      "fr": "Le mariage civil",
+      "en": "Le mariage civil"
+     },
+     {
+      "fr": "Le droit de grève",
+      "en": "Le droit de grève"
+     },
+     {
+      "fr": "L'habeas corpus",
+      "en": "L'habeas corpus"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le 'Statut de Rome' (1998) crée :",
+     "en": "The 1998 Rome Statute created:"
+    },
+    "options": [
+     {
+      "fr": "La Cour pénale internationale",
+      "en": "La Cour pénale internationale"
+     },
+     {
+      "fr": "L'ONU",
+      "en": "L'ONU"
+     },
+     {
+      "fr": "L'Union européenne",
+      "en": "L'Union européenne"
+     },
+     {
+      "fr": "L'OTAN",
+      "en": "L'OTAN"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 'Magna Carta' date de :",
+     "en": "When was the Magna Carta signed?"
+    },
+    "options": [
+     {
+      "fr": "1215",
+      "en": "1215"
+     },
+     {
+      "fr": "1066",
+      "en": "1066"
+     },
+     {
+      "fr": "1492",
+      "en": "1492"
+     },
+     {
+      "fr": "1789",
+      "en": "1789"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le 'Tribunal de Nuremberg' a jugé :",
+     "en": "The Nuremberg Tribunal tried:"
+    },
+    "options": [
+     {
+      "fr": "Les hauts responsables nazis",
+      "en": "Les hauts responsables nazis"
+     },
+     {
+      "fr": "Les ouvriers allemands",
+      "en": "Les ouvriers allemands"
+     },
+     {
+      "fr": "Les militaires soviétiques",
+      "en": "Les militaires soviétiques"
+     },
+     {
+      "fr": "Les diplomates américains",
+      "en": "Les diplomates américains"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 'doctrine de l'estoppel' relève :",
+     "en": "The estoppel doctrine belongs to:"
+    },
+    "options": [
+     {
+      "fr": "Common Law",
+      "en": "Common Law"
+     },
+     {
+      "fr": "Droit canonique",
+      "en": "Droit canonique"
+     },
+     {
+      "fr": "Droit romain",
+      "en": "Droit romain"
+     },
+     {
+      "fr": "Droit musulman",
+      "en": "Droit musulman"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le 'Code Napoléon' a été promulgué en :",
+     "en": "The Napoleonic Code was promulgated in:"
+    },
+    "options": [
+     {
+      "fr": "1804",
+      "en": "1804"
+     },
+     {
+      "fr": "1789",
+      "en": "1789"
+     },
+     {
+      "fr": "1815",
+      "en": "1815"
+     },
+     {
+      "fr": "1830",
+      "en": "1830"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le 'principe pollueur-payeur' est consacré :",
+     "en": "The polluter-pays principle:"
+    },
+    "options": [
+     {
+      "fr": "En droit de l'environnement",
+      "en": "En droit de l'environnement"
+     },
+     {
+      "fr": "En droit pénal",
+      "en": "En droit pénal"
+     },
+     {
+      "fr": "En droit fiscal",
+      "en": "En droit fiscal"
+     },
+     {
+      "fr": "En droit du travail",
+      "en": "En droit du travail"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "L'arrêt 'Cassis de Dijon' (1979) concerne :",
+     "en": "The 1979 Cassis de Dijon ruling concerns:"
+    },
+    "options": [
+     {
+      "fr": "La libre circulation des marchandises (UE)",
+      "en": "La libre circulation des marchandises (UE)"
+     },
+     {
+      "fr": "La libre circulation des personnes",
+      "en": "La libre circulation des personnes"
+     },
+     {
+      "fr": "Les aides d'État",
+      "en": "Les aides d'État"
+     },
+     {
+      "fr": "Le droit de la concurrence",
+      "en": "Le droit de la concurrence"
      }
     ],
     "answer": 0

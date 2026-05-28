@@ -1,10 +1,14 @@
 [
-  { "id": "flags",        "emoji": "🏳️", "name": { "fr": "Drapeaux du monde", "en": "World Flags" }, "starter": false },
-  { "id": "cinema",       "emoji": "🎬", "name": { "fr": "Cinéma",            "en": "Cinema"      }, "starter": false },
-  { "id": "droit",        "emoji": "⚖️", "name": { "fr": "Droit",             "en": "Law"         }, "starter": true  },
-  { "id": "jeuxvideos",   "emoji": "🎮", "name": { "fr": "Jeux vidéo",        "en": "Video Games" }, "starter": true  },
-  { "id": "litterature",  "emoji": "📚", "name": { "fr": "Littérature",       "en": "Literature"  }, "starter": true  },
-  { "id": "voitures",     "emoji": "🚗", "name": { "fr": "Voitures",          "en": "Cars"        }, "starter": true  },
-  { "id": "sport",        "emoji": "⚽", "name": { "fr": "Sport",             "en": "Sport"       }, "starter": true  },
-  { "id": "histoire",     "emoji": "🏛️", "name": { "fr": "Histoire",          "en": "History"     }, "starter": true  }
+  { "id": "flags",        "emoji": "🏳️", "name": { "fr": "Drapeaux du monde", "en": "World Flags" } },
+  { "id": "cinema",       "emoji": "🎬", "name": { "fr": "Cinéma",            "en": "Cinema"      },
+    "modeLabels": {
+      "guessImage": { "fr": "Devine l'acteur", "en": "Guess the actor" }
+    }
+  },
+  { "id": "droit",        "emoji": "⚖️", "name": { "fr": "Droit",             "en": "Law"         } },
+  { "id": "jeuxvideos",   "emoji": "🎮", "name": { "fr": "Jeux vidéo",        "en": "Video Games" } },
+  { "id": "litterature",  "emoji": "📚", "name": { "fr": "Littérature",       "en": "Literature"  } },
+  { "id": "voitures",     "emoji": "🚗", "name": { "fr": "Voitures",          "en": "Cars"        } },
+  { "id": "sport",        "emoji": "⚽", "name": { "fr": "Sport",             "en": "Sport"       } },
+  { "id": "histoire",     "emoji": "🏛️", "name": { "fr": "Histoire",          "en": "History"     } }
 ]

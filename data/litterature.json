@@ -125,6 +125,256 @@
      }
     ],
     "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Roméo et Juliette' ?",
+     "en": "Who wrote 'Romeo and Juliet'?"
+    },
+    "options": [
+     {
+      "fr": "William Shakespeare",
+      "en": "William Shakespeare"
+     },
+     {
+      "fr": "Christopher Marlowe",
+      "en": "Christopher Marlowe"
+     },
+     {
+      "fr": "John Donne",
+      "en": "John Donne"
+     },
+     {
+      "fr": "Edmund Spenser",
+      "en": "Edmund Spenser"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Les Trois Mousquetaires' ?",
+     "en": "Who wrote 'The Three Musketeers'?"
+    },
+    "options": [
+     {
+      "fr": "Alexandre Dumas",
+      "en": "Alexandre Dumas"
+     },
+     {
+      "fr": "Victor Hugo",
+      "en": "Victor Hugo"
+     },
+     {
+      "fr": "Émile Zola",
+      "en": "Émile Zola"
+     },
+     {
+      "fr": "Jules Verne",
+      "en": "Jules Verne"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Vingt mille lieues sous les mers' ?",
+     "en": "Who wrote '20,000 Leagues Under the Sea'?"
+    },
+    "options": [
+     {
+      "fr": "Jules Verne",
+      "en": "Jules Verne"
+     },
+     {
+      "fr": "H.G. Wells",
+      "en": "H.G. Wells"
+     },
+     {
+      "fr": "Arthur C. Clarke",
+      "en": "Arthur C. Clarke"
+     },
+     {
+      "fr": "Isaac Asimov",
+      "en": "Isaac Asimov"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'La Métamorphose' ?",
+     "en": "Who wrote 'The Metamorphosis'?"
+    },
+    "options": [
+     {
+      "fr": "Franz Kafka",
+      "en": "Franz Kafka"
+     },
+     {
+      "fr": "Thomas Mann",
+      "en": "Thomas Mann"
+     },
+     {
+      "fr": "Hermann Hesse",
+      "en": "Hermann Hesse"
+     },
+     {
+      "fr": "Stefan Zweig",
+      "en": "Stefan Zweig"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Le Seigneur des Anneaux' ?",
+     "en": "Who wrote 'The Lord of the Rings'?"
+    },
+    "options": [
+     {
+      "fr": "J.R.R. Tolkien",
+      "en": "J.R.R. Tolkien"
+     },
+     {
+      "fr": "C.S. Lewis",
+      "en": "C.S. Lewis"
+     },
+     {
+      "fr": "Terry Pratchett",
+      "en": "Terry Pratchett"
+     },
+     {
+      "fr": "George R.R. Martin",
+      "en": "George R.R. Martin"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Harry Potter' ?",
+     "en": "Who wrote 'Harry Potter'?"
+    },
+    "options": [
+     {
+      "fr": "J.K. Rowling",
+      "en": "J.K. Rowling"
+     },
+     {
+      "fr": "Suzanne Collins",
+      "en": "Suzanne Collins"
+     },
+     {
+      "fr": "Roald Dahl",
+      "en": "Roald Dahl"
+     },
+     {
+      "fr": "Philip Pullman",
+      "en": "Philip Pullman"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Orgueil et Préjugés' ?",
+     "en": "Who wrote 'Pride and Prejudice'?"
+    },
+    "options": [
+     {
+      "fr": "Jane Austen",
+      "en": "Jane Austen"
+     },
+     {
+      "fr": "Charlotte Brontë",
+      "en": "Charlotte Brontë"
+     },
+     {
+      "fr": "Emily Brontë",
+      "en": "Emily Brontë"
+     },
+     {
+      "fr": "George Eliot",
+      "en": "George Eliot"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'L'Étranger' ?",
+     "en": "Who wrote 'The Stranger'?"
+    },
+    "options": [
+     {
+      "fr": "Albert Camus",
+      "en": "Albert Camus"
+     },
+     {
+      "fr": "Jean-Paul Sartre",
+      "en": "Jean-Paul Sartre"
+     },
+     {
+      "fr": "André Malraux",
+      "en": "André Malraux"
+     },
+     {
+      "fr": "Boris Vian",
+      "en": "Boris Vian"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Notre-Dame de Paris' ?",
+     "en": "Who wrote 'Notre-Dame de Paris'?"
+    },
+    "options": [
+     {
+      "fr": "Victor Hugo",
+      "en": "Victor Hugo"
+     },
+     {
+      "fr": "Honoré de Balzac",
+      "en": "Honoré de Balzac"
+     },
+     {
+      "fr": "Émile Zola",
+      "en": "Émile Zola"
+     },
+     {
+      "fr": "Marcel Proust",
+      "en": "Marcel Proust"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Le Comte de Monte-Cristo' ?",
+     "en": "Who wrote 'The Count of Monte Cristo'?"
+    },
+    "options": [
+     {
+      "fr": "Alexandre Dumas",
+      "en": "Alexandre Dumas"
+     },
+     {
+      "fr": "Victor Hugo",
+      "en": "Victor Hugo"
+     },
+     {
+      "fr": "Théophile Gautier",
+      "en": "Théophile Gautier"
+     },
+     {
+      "fr": "George Sand",
+      "en": "George Sand"
+     }
+    ],
+    "answer": 0
    }
   ],
   "medium": [
@@ -249,6 +499,256 @@
      {
       "fr": "Samuel Beckett",
       "en": "Samuel Beckett"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'L'Iliade' et 'L'Odyssée' ?",
+     "en": "Who wrote 'The Iliad' and 'The Odyssey'?"
+    },
+    "options": [
+     {
+      "fr": "Homère",
+      "en": "Homère"
+     },
+     {
+      "fr": "Virgile",
+      "en": "Virgile"
+     },
+     {
+      "fr": "Hésiode",
+      "en": "Hésiode"
+     },
+     {
+      "fr": "Sophocle",
+      "en": "Sophocle"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Lolita' ?",
+     "en": "Who wrote 'Lolita'?"
+    },
+    "options": [
+     {
+      "fr": "Vladimir Nabokov",
+      "en": "Vladimir Nabokov"
+     },
+     {
+      "fr": "Henry Miller",
+      "en": "Henry Miller"
+     },
+     {
+      "fr": "Saul Bellow",
+      "en": "Saul Bellow"
+     },
+     {
+      "fr": "Philip Roth",
+      "en": "Philip Roth"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Belle du Seigneur' ?",
+     "en": "Who wrote 'Belle du Seigneur'?"
+    },
+    "options": [
+     {
+      "fr": "Albert Cohen",
+      "en": "Albert Cohen"
+     },
+     {
+      "fr": "Romain Gary",
+      "en": "Romain Gary"
+     },
+     {
+      "fr": "Marguerite Duras",
+      "en": "Marguerite Duras"
+     },
+     {
+      "fr": "André Malraux",
+      "en": "André Malraux"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'L'Insoutenable Légèreté de l'être' ?",
+     "en": "Who wrote 'The Unbearable Lightness of Being'?"
+    },
+    "options": [
+     {
+      "fr": "Milan Kundera",
+      "en": "Milan Kundera"
+     },
+     {
+      "fr": "Václav Havel",
+      "en": "Václav Havel"
+     },
+     {
+      "fr": "Bohumil Hrabal",
+      "en": "Bohumil Hrabal"
+     },
+     {
+      "fr": "Karel Čapek",
+      "en": "Karel Čapek"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Les Hauts de Hurlevent' ?",
+     "en": "Who wrote 'Wuthering Heights'?"
+    },
+    "options": [
+     {
+      "fr": "Emily Brontë",
+      "en": "Emily Brontë"
+     },
+     {
+      "fr": "Charlotte Brontë",
+      "en": "Charlotte Brontë"
+     },
+     {
+      "fr": "Anne Brontë",
+      "en": "Anne Brontë"
+     },
+     {
+      "fr": "Jane Austen",
+      "en": "Jane Austen"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Sa Majesté des mouches' ?",
+     "en": "Who wrote 'Lord of the Flies'?"
+    },
+    "options": [
+     {
+      "fr": "William Golding",
+      "en": "William Golding"
+     },
+     {
+      "fr": "George Orwell",
+      "en": "George Orwell"
+     },
+     {
+      "fr": "Aldous Huxley",
+      "en": "Aldous Huxley"
+     },
+     {
+      "fr": "J.D. Salinger",
+      "en": "J.D. Salinger"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'L'Attrape-cœurs' ?",
+     "en": "Who wrote 'The Catcher in the Rye'?"
+    },
+    "options": [
+     {
+      "fr": "J.D. Salinger",
+      "en": "J.D. Salinger"
+     },
+     {
+      "fr": "John Steinbeck",
+      "en": "John Steinbeck"
+     },
+     {
+      "fr": "Ernest Hemingway",
+      "en": "Ernest Hemingway"
+     },
+     {
+      "fr": "F. Scott Fitzgerald",
+      "en": "F. Scott Fitzgerald"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Du côté de chez Swann' ?",
+     "en": "Who wrote 'Swann's Way'?"
+    },
+    "options": [
+     {
+      "fr": "Marcel Proust",
+      "en": "Marcel Proust"
+     },
+     {
+      "fr": "André Gide",
+      "en": "André Gide"
+     },
+     {
+      "fr": "François Mauriac",
+      "en": "François Mauriac"
+     },
+     {
+      "fr": "Julien Gracq",
+      "en": "Julien Gracq"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Bel-Ami' ?",
+     "en": "Who wrote 'Bel-Ami'?"
+    },
+    "options": [
+     {
+      "fr": "Guy de Maupassant",
+      "en": "Guy de Maupassant"
+     },
+     {
+      "fr": "Émile Zola",
+      "en": "Émile Zola"
+     },
+     {
+      "fr": "Gustave Flaubert",
+      "en": "Gustave Flaubert"
+     },
+     {
+      "fr": "Stendhal",
+      "en": "Stendhal"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Beloved' ?",
+     "en": "Who wrote 'Beloved'?"
+    },
+    "options": [
+     {
+      "fr": "Toni Morrison",
+      "en": "Toni Morrison"
+     },
+     {
+      "fr": "Alice Walker",
+      "en": "Alice Walker"
+     },
+     {
+      "fr": "Maya Angelou",
+      "en": "Maya Angelou"
+     },
+     {
+      "fr": "James Baldwin",
+      "en": "James Baldwin"
      }
     ],
     "answer": 0
@@ -379,6 +879,256 @@
      }
     ],
     "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'À la recherche du temps perdu' ?",
+     "en": "Who wrote 'In Search of Lost Time'?"
+    },
+    "options": [
+     {
+      "fr": "Marcel Proust",
+      "en": "Marcel Proust"
+     },
+     {
+      "fr": "André Gide",
+      "en": "André Gide"
+     },
+     {
+      "fr": "Albert Camus",
+      "en": "Albert Camus"
+     },
+     {
+      "fr": "Louis-Ferdinand Céline",
+      "en": "Louis-Ferdinand Céline"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Le Bruit et la Fureur' ?",
+     "en": "Who wrote 'The Sound and the Fury'?"
+    },
+    "options": [
+     {
+      "fr": "William Faulkner",
+      "en": "William Faulkner"
+     },
+     {
+      "fr": "John Steinbeck",
+      "en": "John Steinbeck"
+     },
+     {
+      "fr": "Ernest Hemingway",
+      "en": "Ernest Hemingway"
+     },
+     {
+      "fr": "Sinclair Lewis",
+      "en": "Sinclair Lewis"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'La Montagne magique' ?",
+     "en": "Who wrote 'The Magic Mountain'?"
+    },
+    "options": [
+     {
+      "fr": "Thomas Mann",
+      "en": "Thomas Mann"
+     },
+     {
+      "fr": "Hermann Hesse",
+      "en": "Hermann Hesse"
+     },
+     {
+      "fr": "Heinrich Mann",
+      "en": "Heinrich Mann"
+     },
+     {
+      "fr": "Robert Musil",
+      "en": "Robert Musil"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Si c'est un homme' ?",
+     "en": "Who wrote 'If This Is a Man'?"
+    },
+    "options": [
+     {
+      "fr": "Primo Levi",
+      "en": "Primo Levi"
+     },
+     {
+      "fr": "Elie Wiesel",
+      "en": "Elie Wiesel"
+     },
+     {
+      "fr": "Imre Kertész",
+      "en": "Imre Kertész"
+     },
+     {
+      "fr": "Paul Celan",
+      "en": "Paul Celan"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Berlin Alexanderplatz' ?",
+     "en": "Who wrote 'Berlin Alexanderplatz'?"
+    },
+    "options": [
+     {
+      "fr": "Alfred Döblin",
+      "en": "Alfred Döblin"
+     },
+     {
+      "fr": "Thomas Mann",
+      "en": "Thomas Mann"
+     },
+     {
+      "fr": "Hermann Broch",
+      "en": "Hermann Broch"
+     },
+     {
+      "fr": "Christa Wolf",
+      "en": "Christa Wolf"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Pour qui sonne le glas' ?",
+     "en": "Who wrote 'For Whom the Bell Tolls'?"
+    },
+    "options": [
+     {
+      "fr": "Ernest Hemingway",
+      "en": "Ernest Hemingway"
+     },
+     {
+      "fr": "John Dos Passos",
+      "en": "John Dos Passos"
+     },
+     {
+      "fr": "John Steinbeck",
+      "en": "John Steinbeck"
+     },
+     {
+      "fr": "Norman Mailer",
+      "en": "Norman Mailer"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Voyage au bout de la nuit' (1932) ?",
+     "en": "Who wrote 'Journey to the End of the Night' (1932)?"
+    },
+    "options": [
+     {
+      "fr": "Louis-Ferdinand Céline",
+      "en": "Louis-Ferdinand Céline"
+     },
+     {
+      "fr": "Albert Camus",
+      "en": "Albert Camus"
+     },
+     {
+      "fr": "Henry Miller",
+      "en": "Henry Miller"
+     },
+     {
+      "fr": "Jean Genet",
+      "en": "Jean Genet"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'L'Homme révolté' ?",
+     "en": "Who wrote 'The Rebel'?"
+    },
+    "options": [
+     {
+      "fr": "Albert Camus",
+      "en": "Albert Camus"
+     },
+     {
+      "fr": "Jean-Paul Sartre",
+      "en": "Jean-Paul Sartre"
+     },
+     {
+      "fr": "Simone de Beauvoir",
+      "en": "Simone de Beauvoir"
+     },
+     {
+      "fr": "Raymond Aron",
+      "en": "Raymond Aron"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Au-dessous du volcan' ?",
+     "en": "Who wrote 'Under the Volcano'?"
+    },
+    "options": [
+     {
+      "fr": "Malcolm Lowry",
+      "en": "Malcolm Lowry"
+     },
+     {
+      "fr": "Graham Greene",
+      "en": "Graham Greene"
+     },
+     {
+      "fr": "Aldous Huxley",
+      "en": "Aldous Huxley"
+     },
+     {
+      "fr": "Evelyn Waugh",
+      "en": "Evelyn Waugh"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'L'Amant' (1984) ?",
+     "en": "Who wrote 'The Lover' (1984)?"
+    },
+    "options": [
+     {
+      "fr": "Marguerite Duras",
+      "en": "Marguerite Duras"
+     },
+     {
+      "fr": "Marguerite Yourcenar",
+      "en": "Marguerite Yourcenar"
+     },
+     {
+      "fr": "Annie Ernaux",
+      "en": "Annie Ernaux"
+     },
+     {
+      "fr": "Simone de Beauvoir",
+      "en": "Simone de Beauvoir"
+     }
+    ],
+    "answer": 0
    }
   ],
   "expert": [
@@ -503,6 +1253,256 @@
      {
       "fr": "Michel Butor",
       "en": "Michel Butor"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Sous le volcan' ?",
+     "en": "Who wrote 'Under the Volcano'?"
+    },
+    "options": [
+     {
+      "fr": "Malcolm Lowry",
+      "en": "Malcolm Lowry"
+     },
+     {
+      "fr": "Graham Greene",
+      "en": "Graham Greene"
+     },
+     {
+      "fr": "Joseph Conrad",
+      "en": "Joseph Conrad"
+     },
+     {
+      "fr": "Evelyn Waugh",
+      "en": "Evelyn Waugh"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'L'Idiot' ?",
+     "en": "Who wrote 'The Idiot'?"
+    },
+    "options": [
+     {
+      "fr": "Fiodor Dostoïevski",
+      "en": "Fiodor Dostoïevski"
+     },
+     {
+      "fr": "Léon Tolstoï",
+      "en": "Léon Tolstoï"
+     },
+     {
+      "fr": "Ivan Tourgueniev",
+      "en": "Ivan Tourgueniev"
+     },
+     {
+      "fr": "Nicolas Gogol",
+      "en": "Nicolas Gogol"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Anna Karénine' ?",
+     "en": "Who wrote 'Anna Karenina'?"
+    },
+    "options": [
+     {
+      "fr": "Léon Tolstoï",
+      "en": "Léon Tolstoï"
+     },
+     {
+      "fr": "Fiodor Dostoïevski",
+      "en": "Fiodor Dostoïevski"
+     },
+     {
+      "fr": "Anton Tchekhov",
+      "en": "Anton Tchekhov"
+     },
+     {
+      "fr": "Maxime Gorki",
+      "en": "Maxime Gorki"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Le Procès' ?",
+     "en": "Who wrote 'The Trial'?"
+    },
+    "options": [
+     {
+      "fr": "Franz Kafka",
+      "en": "Franz Kafka"
+     },
+     {
+      "fr": "Robert Musil",
+      "en": "Robert Musil"
+     },
+     {
+      "fr": "Hermann Broch",
+      "en": "Hermann Broch"
+     },
+     {
+      "fr": "Stefan Zweig",
+      "en": "Stefan Zweig"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Les Fleurs du mal' ?",
+     "en": "Who wrote 'Les Fleurs du mal'?"
+    },
+    "options": [
+     {
+      "fr": "Charles Baudelaire",
+      "en": "Charles Baudelaire"
+     },
+     {
+      "fr": "Arthur Rimbaud",
+      "en": "Arthur Rimbaud"
+     },
+     {
+      "fr": "Paul Verlaine",
+      "en": "Paul Verlaine"
+     },
+     {
+      "fr": "Stéphane Mallarmé",
+      "en": "Stéphane Mallarmé"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Une saison en enfer' ?",
+     "en": "Who wrote 'A Season in Hell'?"
+    },
+    "options": [
+     {
+      "fr": "Arthur Rimbaud",
+      "en": "Arthur Rimbaud"
+     },
+     {
+      "fr": "Paul Verlaine",
+      "en": "Paul Verlaine"
+     },
+     {
+      "fr": "Tristan Corbière",
+      "en": "Tristan Corbière"
+     },
+     {
+      "fr": "Lautréamont",
+      "en": "Lautréamont"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Au-dessous du volcan' (1947) ?",
+     "en": "Who wrote 'Under the Volcano' (1947)?"
+    },
+    "options": [
+     {
+      "fr": "Malcolm Lowry",
+      "en": "Malcolm Lowry"
+     },
+     {
+      "fr": "Henry Miller",
+      "en": "Henry Miller"
+     },
+     {
+      "fr": "George Orwell",
+      "en": "George Orwell"
+     },
+     {
+      "fr": "Graham Greene",
+      "en": "Graham Greene"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'L'Œuvre au noir' ?",
+     "en": "Who wrote 'The Abyss'?"
+    },
+    "options": [
+     {
+      "fr": "Marguerite Yourcenar",
+      "en": "Marguerite Yourcenar"
+     },
+     {
+      "fr": "Marguerite Duras",
+      "en": "Marguerite Duras"
+     },
+     {
+      "fr": "Nathalie Sarraute",
+      "en": "Nathalie Sarraute"
+     },
+     {
+      "fr": "Annie Ernaux",
+      "en": "Annie Ernaux"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Pedro Páramo' ?",
+     "en": "Who wrote 'Pedro Páramo'?"
+    },
+    "options": [
+     {
+      "fr": "Juan Rulfo",
+      "en": "Juan Rulfo"
+     },
+     {
+      "fr": "Octavio Paz",
+      "en": "Octavio Paz"
+     },
+     {
+      "fr": "Carlos Fuentes",
+      "en": "Carlos Fuentes"
+     },
+     {
+      "fr": "Jorge Luis Borges",
+      "en": "Jorge Luis Borges"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'Fictions' (1944) ?",
+     "en": "Who wrote 'Ficciones' (1944)?"
+    },
+    "options": [
+     {
+      "fr": "Jorge Luis Borges",
+      "en": "Jorge Luis Borges"
+     },
+     {
+      "fr": "Julio Cortázar",
+      "en": "Julio Cortázar"
+     },
+     {
+      "fr": "Adolfo Bioy Casares",
+      "en": "Adolfo Bioy Casares"
+     },
+     {
+      "fr": "Roberto Bolaño",
+      "en": "Roberto Bolaño"
      }
     ],
     "answer": 0

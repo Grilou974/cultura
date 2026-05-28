@@ -650,6 +650,256 @@
      "Denzel Washington"
     ],
     "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui joue le rôle de Marty McFly dans 'Retour vers le futur' ?",
+     "en": "Who plays Marty McFly in 'Back to the Future'?"
+    },
+    "options": [
+     {
+      "fr": "Michael J. Fox",
+      "en": "Michael J. Fox"
+     },
+     {
+      "fr": "Tom Cruise",
+      "en": "Tom Cruise"
+     },
+     {
+      "fr": "Charlie Sheen",
+      "en": "Charlie Sheen"
+     },
+     {
+      "fr": "John Cusack",
+      "en": "John Cusack"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel personnage Pixar est un robot solitaire ramassant des déchets sur Terre ?",
+     "en": "Which Pixar character is a lonely garbage-collecting robot?"
+    },
+    "options": [
+     {
+      "fr": "Wall-E",
+      "en": "Wall-E"
+     },
+     {
+      "fr": "Bender",
+      "en": "Bender"
+     },
+     {
+      "fr": "R2-D2",
+      "en": "R2-D2"
+     },
+     {
+      "fr": "Eve",
+      "en": "Eve"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui dirige 'Jurassic Park' (1993) ?",
+     "en": "Who directed 'Jurassic Park' (1993)?"
+    },
+    "options": [
+     {
+      "fr": "Steven Spielberg",
+      "en": "Steven Spielberg"
+     },
+     {
+      "fr": "James Cameron",
+      "en": "James Cameron"
+     },
+     {
+      "fr": "Ridley Scott",
+      "en": "Ridley Scott"
+     },
+     {
+      "fr": "Roland Emmerich",
+      "en": "Roland Emmerich"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'animation Disney met en scène Elsa et Anna ?",
+     "en": "Which Disney animation features Elsa and Anna?"
+    },
+    "options": [
+     {
+      "fr": "La Reine des Neiges (Frozen)",
+      "en": "La Reine des Neiges (Frozen)"
+     },
+     {
+      "fr": "Raiponce",
+      "en": "Raiponce"
+     },
+     {
+      "fr": "Vaiana",
+      "en": "Vaiana"
+     },
+     {
+      "fr": "Encanto",
+      "en": "Encanto"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui interprète Hermione Granger dans la saga Harry Potter ?",
+     "en": "Who plays Hermione Granger in the Harry Potter saga?"
+    },
+    "options": [
+     {
+      "fr": "Emma Watson",
+      "en": "Emma Watson"
+     },
+     {
+      "fr": "Bonnie Wright",
+      "en": "Bonnie Wright"
+     },
+     {
+      "fr": "Evanna Lynch",
+      "en": "Evanna Lynch"
+     },
+     {
+      "fr": "Katie Leung",
+      "en": "Katie Leung"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film se passe en grande partie sur un bateau qui coule ?",
+     "en": "Which film is mostly set on a sinking ship?"
+    },
+    "options": [
+     {
+      "fr": "Titanic",
+      "en": "Titanic"
+     },
+     {
+      "fr": "Pirates des Caraïbes",
+      "en": "Pirates des Caraïbes"
+     },
+     {
+      "fr": "En pleine tempête",
+      "en": "En pleine tempête"
+     },
+     {
+      "fr": "Master and Commander",
+      "en": "Master and Commander"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de 1985 met en scène Doc Brown et sa DeLorean ?",
+     "en": "Which 1985 film features Doc Brown and his DeLorean?"
+    },
+    "options": [
+     {
+      "fr": "Retour vers le futur",
+      "en": "Retour vers le futur"
+     },
+     {
+      "fr": "Coup de foudre à Notting Hill",
+      "en": "Coup de foudre à Notting Hill"
+     },
+     {
+      "fr": "WarGames",
+      "en": "WarGames"
+     },
+     {
+      "fr": "Ghostbusters",
+      "en": "Ghostbusters"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel acteur joue 'Deadpool' ?",
+     "en": "Which actor plays Deadpool?"
+    },
+    "options": [
+     {
+      "fr": "Ryan Reynolds",
+      "en": "Ryan Reynolds"
+     },
+     {
+      "fr": "Hugh Jackman",
+      "en": "Hugh Jackman"
+     },
+     {
+      "fr": "Chris Pratt",
+      "en": "Chris Pratt"
+     },
+     {
+      "fr": "Mark Ruffalo",
+      "en": "Mark Ruffalo"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Marvel est sorti en 2008 et lance le MCU ?",
+     "en": "Which 2008 Marvel film launched the MCU?"
+    },
+    "options": [
+     {
+      "fr": "Iron Man",
+      "en": "Iron Man"
+     },
+     {
+      "fr": "Thor",
+      "en": "Thor"
+     },
+     {
+      "fr": "Captain America",
+      "en": "Captain America"
+     },
+     {
+      "fr": "The Avengers",
+      "en": "The Avengers"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui joue Voldemort dans la saga Harry Potter ?",
+     "en": "Who plays Voldemort in the Harry Potter saga?"
+    },
+    "options": [
+     {
+      "fr": "Ralph Fiennes",
+      "en": "Ralph Fiennes"
+     },
+     {
+      "fr": "Jason Isaacs",
+      "en": "Jason Isaacs"
+     },
+     {
+      "fr": "Alan Rickman",
+      "en": "Alan Rickman"
+     },
+     {
+      "fr": "Gary Oldman",
+      "en": "Gary Oldman"
+     }
+    ],
+    "answer": 0
    }
   ],
   "medium": [
@@ -1300,6 +1550,256 @@
      "Interstellar",
      "Inception",
      "Tenet"
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Spielberg (1993) traite de la Shoah ?",
+     "en": "Which 1993 Spielberg film deals with the Holocaust?"
+    },
+    "options": [
+     {
+      "fr": "La Liste de Schindler",
+      "en": "La Liste de Schindler"
+     },
+     {
+      "fr": "Munich",
+      "en": "Munich"
+     },
+     {
+      "fr": "Cheval de guerre",
+      "en": "Cheval de guerre"
+     },
+     {
+      "fr": "Le Pont des espions",
+      "en": "Le Pont des espions"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'The Social Network' (2010) ?",
+     "en": "Who directed 'The Social Network' (2010)?"
+    },
+    "options": [
+     {
+      "fr": "David Fincher",
+      "en": "David Fincher"
+     },
+     {
+      "fr": "Aaron Sorkin",
+      "en": "Aaron Sorkin"
+     },
+     {
+      "fr": "Bennett Miller",
+      "en": "Bennett Miller"
+     },
+     {
+      "fr": "Spike Jonze",
+      "en": "Spike Jonze"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Cuarón (2013) se passe dans l'espace ?",
+     "en": "Which 2013 Cuarón film is set in space?"
+    },
+    "options": [
+     {
+      "fr": "Gravity",
+      "en": "Gravity"
+     },
+     {
+      "fr": "Les Fils de l'homme",
+      "en": "Les Fils de l'homme"
+     },
+     {
+      "fr": "Roma",
+      "en": "Roma"
+     },
+     {
+      "fr": "Solaris",
+      "en": "Solaris"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui interprète T.E. Lawrence dans 'Lawrence d'Arabie' ?",
+     "en": "Who plays T.E. Lawrence in 'Lawrence of Arabia'?"
+    },
+    "options": [
+     {
+      "fr": "Peter O'Toole",
+      "en": "Peter O'Toole"
+     },
+     {
+      "fr": "Omar Sharif",
+      "en": "Omar Sharif"
+     },
+     {
+      "fr": "Alec Guinness",
+      "en": "Alec Guinness"
+     },
+     {
+      "fr": "Anthony Quinn",
+      "en": "Anthony Quinn"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film a popularisé : 'Frankly, my dear, I don't give a damn' ?",
+     "en": "Which film popularized 'Frankly, my dear, I don't give a damn'?"
+    },
+    "options": [
+     {
+      "fr": "Autant en emporte le vent",
+      "en": "Autant en emporte le vent"
+     },
+     {
+      "fr": "Casablanca",
+      "en": "Casablanca"
+     },
+     {
+      "fr": "Citizen Kane",
+      "en": "Citizen Kane"
+     },
+     {
+      "fr": "Sur les quais",
+      "en": "Sur les quais"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Interstellar' (2014) ?",
+     "en": "Who directed 'Interstellar' (2014)?"
+    },
+    "options": [
+     {
+      "fr": "Christopher Nolan",
+      "en": "Christopher Nolan"
+     },
+     {
+      "fr": "James Cameron",
+      "en": "James Cameron"
+     },
+     {
+      "fr": "Denis Villeneuve",
+      "en": "Denis Villeneuve"
+     },
+     {
+      "fr": "Alfonso Cuarón",
+      "en": "Alfonso Cuarón"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui joue Don Draper dans 'Mad Men' ? (acteur ayant joué Bond)",
+     "en": "Who plays Don Draper in 'Mad Men'?"
+    },
+    "options": [
+     {
+      "fr": "Jon Hamm",
+      "en": "Jon Hamm"
+     },
+     {
+      "fr": "Daniel Craig",
+      "en": "Daniel Craig"
+     },
+     {
+      "fr": "Pierce Brosnan",
+      "en": "Pierce Brosnan"
+     },
+     {
+      "fr": "Hugh Laurie",
+      "en": "Hugh Laurie"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film français a obtenu l'Oscar du meilleur film 2012 ?",
+     "en": "Which French film won Best Picture at the 2012 Oscars?"
+    },
+    "options": [
+     {
+      "fr": "The Artist",
+      "en": "The Artist"
+     },
+     {
+      "fr": "Intouchables",
+      "en": "Intouchables"
+     },
+     {
+      "fr": "Amour",
+      "en": "Amour"
+     },
+     {
+      "fr": "Polisse",
+      "en": "Polisse"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel acteur incarne Aragorn dans 'Le Seigneur des Anneaux' ?",
+     "en": "Who plays Aragorn in 'The Lord of the Rings'?"
+    },
+    "options": [
+     {
+      "fr": "Viggo Mortensen",
+      "en": "Viggo Mortensen"
+     },
+     {
+      "fr": "Orlando Bloom",
+      "en": "Orlando Bloom"
+     },
+     {
+      "fr": "Sean Bean",
+      "en": "Sean Bean"
+     },
+     {
+      "fr": "Karl Urban",
+      "en": "Karl Urban"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Tarantino (2009) se passe pendant la 2nde Guerre mondiale ?",
+     "en": "Which 2009 Tarantino film is set during WWII?"
+    },
+    "options": [
+     {
+      "fr": "Inglourious Basterds",
+      "en": "Inglourious Basterds"
+     },
+     {
+      "fr": "Reservoir Dogs",
+      "en": "Reservoir Dogs"
+     },
+     {
+      "fr": "Django Unchained",
+      "en": "Django Unchained"
+     },
+     {
+      "fr": "Once Upon a Time in Hollywood",
+      "en": "Once Upon a Time in Hollywood"
+     }
     ],
     "answer": 0
    }
@@ -1954,6 +2454,256 @@
      "The Dreamers"
     ],
     "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Le Voyage de Chihiro' (2001) ?",
+     "en": "Who directed 'Spirited Away' (2001)?"
+    },
+    "options": [
+     {
+      "fr": "Hayao Miyazaki",
+      "en": "Hayao Miyazaki"
+     },
+     {
+      "fr": "Isao Takahata",
+      "en": "Isao Takahata"
+     },
+     {
+      "fr": "Mamoru Hosoda",
+      "en": "Mamoru Hosoda"
+     },
+     {
+      "fr": "Satoshi Kon",
+      "en": "Satoshi Kon"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Bergman (1957) suit un chevalier et la Mort jouant aux échecs ?",
+     "en": "Which 1957 Bergman film follows a knight playing chess with Death?"
+    },
+    "options": [
+     {
+      "fr": "Le Septième Sceau",
+      "en": "Le Septième Sceau"
+     },
+     {
+      "fr": "Persona",
+      "en": "Persona"
+     },
+     {
+      "fr": "Le Silence",
+      "en": "Le Silence"
+     },
+     {
+      "fr": "Les Fraises sauvages",
+      "en": "Les Fraises sauvages"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Mulholland Drive' (2001) ?",
+     "en": "Who directed 'Mulholland Drive' (2001)?"
+    },
+    "options": [
+     {
+      "fr": "David Lynch",
+      "en": "David Lynch"
+     },
+     {
+      "fr": "David Cronenberg",
+      "en": "David Cronenberg"
+     },
+     {
+      "fr": "Brian De Palma",
+      "en": "Brian De Palma"
+     },
+     {
+      "fr": "Darren Aronofsky",
+      "en": "Darren Aronofsky"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel chef-d'œuvre de 1941 est considéré comme la plus grande œuvre du cinéma américain ?",
+     "en": "Which 1941 masterpiece is often called the greatest American film?"
+    },
+    "options": [
+     {
+      "fr": "Citizen Kane",
+      "en": "Citizen Kane"
+     },
+     {
+      "fr": "Casablanca",
+      "en": "Casablanca"
+     },
+     {
+      "fr": "Le Faucon maltais",
+      "en": "Le Faucon maltais"
+     },
+     {
+      "fr": "Autant en emporte le vent",
+      "en": "Autant en emporte le vent"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Blade Runner' (1982) ?",
+     "en": "Who directed 'Blade Runner' (1982)?"
+    },
+    "options": [
+     {
+      "fr": "Ridley Scott",
+      "en": "Ridley Scott"
+     },
+     {
+      "fr": "George Lucas",
+      "en": "George Lucas"
+     },
+     {
+      "fr": "James Cameron",
+      "en": "James Cameron"
+     },
+     {
+      "fr": "John Carpenter",
+      "en": "John Carpenter"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film d'Almodóvar (1999) traite des mères et de la transmission ?",
+     "en": "Which 1999 Almodóvar film centres on motherhood?"
+    },
+    "options": [
+     {
+      "fr": "Tout sur ma mère",
+      "en": "Tout sur ma mère"
+     },
+     {
+      "fr": "Volver",
+      "en": "Volver"
+     },
+     {
+      "fr": "Parle avec elle",
+      "en": "Parle avec elle"
+     },
+     {
+      "fr": "Talons aiguilles",
+      "en": "Talons aiguilles"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'L'Échelle de Jacob' (1990) ?",
+     "en": "Who directed 'Jacob's Ladder' (1990)?"
+    },
+    "options": [
+     {
+      "fr": "Adrian Lyne",
+      "en": "Adrian Lyne"
+     },
+     {
+      "fr": "Joel Schumacher",
+      "en": "Joel Schumacher"
+     },
+     {
+      "fr": "Tony Scott",
+      "en": "Tony Scott"
+     },
+     {
+      "fr": "Adrian Lyne",
+      "en": "Adrian Lyne"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Park Chan-wook (2003) est centré sur une vengeance ?",
+     "en": "Which 2003 Park Chan-wook film centers on revenge?"
+    },
+    "options": [
+     {
+      "fr": "Old Boy",
+      "en": "Old Boy"
+     },
+     {
+      "fr": "Sympathy for Mr. Vengeance",
+      "en": "Sympathy for Mr. Vengeance"
+     },
+     {
+      "fr": "Lady Vengeance",
+      "en": "Lady Vengeance"
+     },
+     {
+      "fr": "The Handmaiden",
+      "en": "The Handmaiden"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Les Enchaînés' (Notorious, 1946) ?",
+     "en": "Who directed 'Notorious' (1946)?"
+    },
+    "options": [
+     {
+      "fr": "Alfred Hitchcock",
+      "en": "Alfred Hitchcock"
+     },
+     {
+      "fr": "Howard Hawks",
+      "en": "Howard Hawks"
+     },
+     {
+      "fr": "Otto Preminger",
+      "en": "Otto Preminger"
+     },
+     {
+      "fr": "Billy Wilder",
+      "en": "Billy Wilder"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Coppola (1979) adapte 'Au cœur des ténèbres' de Conrad ?",
+     "en": "Which 1979 Coppola film adapts Conrad's 'Heart of Darkness'?"
+    },
+    "options": [
+     {
+      "fr": "Apocalypse Now",
+      "en": "Apocalypse Now"
+     },
+     {
+      "fr": "Conversation secrète",
+      "en": "Conversation secrète"
+     },
+     {
+      "fr": "Le Parrain II",
+      "en": "Le Parrain II"
+     },
+     {
+      "fr": "Cotton Club",
+      "en": "Cotton Club"
+     }
+    ],
+    "answer": 0
    }
   ],
   "expert": [
@@ -2606,6 +3356,256 @@
      "Les Lumières du faubourg"
     ],
     "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Une histoire vraie' (1999) ?",
+     "en": "Who directed 'The Straight Story' (1999)?"
+    },
+    "options": [
+     {
+      "fr": "David Lynch",
+      "en": "David Lynch"
+     },
+     {
+      "fr": "Coen brothers",
+      "en": "Coen brothers"
+     },
+     {
+      "fr": "Werner Herzog",
+      "en": "Werner Herzog"
+     },
+     {
+      "fr": "Wim Wenders",
+      "en": "Wim Wenders"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Maurice Pialat met en scène Sandrine Bonnaire et obtient le César du meilleur film 1986 ?",
+     "en": "Which Pialat film starring Sandrine Bonnaire won 1986 Best Film César?"
+    },
+    "options": [
+     {
+      "fr": "Sans toit ni loi (Varda, en fait)",
+      "en": "Sans toit ni loi (Varda, en fait)"
+     },
+     {
+      "fr": "Police",
+      "en": "Police"
+     },
+     {
+      "fr": "Van Gogh",
+      "en": "Van Gogh"
+     },
+     {
+      "fr": "À nos amours",
+      "en": "À nos amours"
+     }
+    ],
+    "answer": 1
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Stalker' (1979) ?",
+     "en": "Who directed 'Stalker' (1979)?"
+    },
+    "options": [
+     {
+      "fr": "Andreï Tarkovski",
+      "en": "Andreï Tarkovski"
+     },
+     {
+      "fr": "Aleksandr Sokurov",
+      "en": "Aleksandr Sokurov"
+     },
+     {
+      "fr": "Krzysztof Kieślowski",
+      "en": "Krzysztof Kieślowski"
+     },
+     {
+      "fr": "Andrzej Wajda",
+      "en": "Andrzej Wajda"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Cassavetes (1974) raconte la folie d'une femme ?",
+     "en": "Which 1974 Cassavetes film tells of a woman's madness?"
+    },
+    "options": [
+     {
+      "fr": "Une femme sous influence",
+      "en": "Une femme sous influence"
+     },
+     {
+      "fr": "Faces",
+      "en": "Faces"
+     },
+     {
+      "fr": "Husbands",
+      "en": "Husbands"
+     },
+     {
+      "fr": "Opening Night",
+      "en": "Opening Night"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Le Septième Continent' (1989) ?",
+     "en": "Who directed 'The Seventh Continent' (1989)?"
+    },
+    "options": [
+     {
+      "fr": "Michael Haneke",
+      "en": "Michael Haneke"
+     },
+     {
+      "fr": "Ulrich Seidl",
+      "en": "Ulrich Seidl"
+     },
+     {
+      "fr": "Werner Herzog",
+      "en": "Werner Herzog"
+     },
+     {
+      "fr": "Volker Schlöndorff",
+      "en": "Volker Schlöndorff"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Theo Angelopoulos a gagné la Palme d'Or 1998 ?",
+     "en": "Which Angelopoulos film won the 1998 Palme d'Or?"
+    },
+    "options": [
+     {
+      "fr": "L'Éternité et un jour",
+      "en": "L'Éternité et un jour"
+     },
+     {
+      "fr": "Le Regard d'Ulysse",
+      "en": "Le Regard d'Ulysse"
+     },
+     {
+      "fr": "Le Pas suspendu de la cigogne",
+      "en": "Le Pas suspendu de la cigogne"
+     },
+     {
+      "fr": "Le Voyage des comédiens",
+      "en": "Le Voyage des comédiens"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'Le Goût de la cerise' (Palme d'Or 1997) ?",
+     "en": "Who directed 'Taste of Cherry' (1997 Palme d'Or)?"
+    },
+    "options": [
+     {
+      "fr": "Abbas Kiarostami",
+      "en": "Abbas Kiarostami"
+     },
+     {
+      "fr": "Jafar Panahi",
+      "en": "Jafar Panahi"
+     },
+     {
+      "fr": "Mohsen Makhmalbaf",
+      "en": "Mohsen Makhmalbaf"
+     },
+     {
+      "fr": "Asghar Farhadi",
+      "en": "Asghar Farhadi"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Naruse (1955) est un drame intime sur une veuve ?",
+     "en": "Which 1955 Naruse film is an intimate widow drama?"
+    },
+    "options": [
+     {
+      "fr": "Nuages flottants",
+      "en": "Nuages flottants"
+     },
+     {
+      "fr": "Au gré du courant",
+      "en": "Au gré du courant"
+     },
+     {
+      "fr": "Quand une femme monte l'escalier",
+      "en": "Quand une femme monte l'escalier"
+     },
+     {
+      "fr": "Repas",
+      "en": "Repas"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui réalise 'L'Année dernière à Marienbad' (1961) ?",
+     "en": "Who directed 'Last Year at Marienbad' (1961)?"
+    },
+    "options": [
+     {
+      "fr": "Alain Resnais",
+      "en": "Alain Resnais"
+     },
+     {
+      "fr": "Jacques Rivette",
+      "en": "Jacques Rivette"
+     },
+     {
+      "fr": "Marguerite Duras",
+      "en": "Marguerite Duras"
+     },
+     {
+      "fr": "Chris Marker",
+      "en": "Chris Marker"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel film de Jacques Demy (1964) est entièrement chanté ?",
+     "en": "Which 1964 Jacques Demy film is entirely sung?"
+    },
+    "options": [
+     {
+      "fr": "Les Parapluies de Cherbourg",
+      "en": "Les Parapluies de Cherbourg"
+     },
+     {
+      "fr": "Les Demoiselles de Rochefort",
+      "en": "Les Demoiselles de Rochefort"
+     },
+     {
+      "fr": "Peau d'âne",
+      "en": "Peau d'âne"
+     },
+     {
+      "fr": "Lola",
+      "en": "Lola"
+     }
+    ],
+    "answer": 0
    }
   ]
  },
@@ -2873,6 +3873,253 @@
     "en": "The Best Picture Oscar is named 'Best Director'."
    },
    "answer": false
+  }
+ ],
+ "guessImage": [
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LeoPTABFI191125-28_%28cropped%29.jpg/330px-LeoPTABFI191125-28_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Leonardo DiCaprio",
+    "en": "Leonardo DiCaprio"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brad_Pitt-69858.jpg/330px-Brad_Pitt-69858.jpg",
+   "answer": {
+    "fr": "Brad Pitt",
+    "en": "Brad Pitt"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/TomHanksPrincEdw031223_%2811_of_41%29_%28cropped%29.jpg/330px-TomHanksPrincEdw031223_%2811_of_41%29_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Tom Hanks",
+    "en": "Tom Hanks"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Robert_de_Niro_Cannes_Film_Festival_%283x4_cropped%29.jpg/330px-Robert_de_Niro_Cannes_Film_Festival_%283x4_cropped%29.jpg",
+   "answer": {
+    "fr": "Robert De Niro",
+    "en": "Robert De Niro"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Al_Pacino_2016_%2830401544240%29.jpg/330px-Al_Pacino_2016_%2830401544240%29.jpg",
+   "answer": {
+    "fr": "Al Pacino",
+    "en": "Al Pacino"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Meryl_Streep-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194765350_%28cropped1%29.jpg/330px-Meryl_Streep-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194765350_%28cropped1%29.jpg",
+   "answer": {
+    "fr": "Meryl Streep",
+    "en": "Meryl Streep"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Scarlett_Johansson-8588.jpg/330px-Scarlett_Johansson-8588.jpg",
+   "answer": {
+    "fr": "Scarlett Johansson",
+    "en": "Scarlett Johansson"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jennifer_Lawrence_in_2018.png/330px-Jennifer_Lawrence_in_2018.png",
+   "answer": {
+    "fr": "Jennifer Lawrence",
+    "en": "Jennifer Lawrence"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg/330px-Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg",
+   "answer": {
+    "fr": "Tom Cruise",
+    "en": "Tom Cruise"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Johnny_Depp_2020.jpg/330px-Johnny_Depp_2020.jpg",
+   "answer": {
+    "fr": "Johnny Depp",
+    "en": "Johnny Depp"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg/330px-TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Will Smith",
+    "en": "Will Smith"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Denzel_Washington_at_the_2025_Cannes_Film_Festival.jpg/330px-Denzel_Washington_at_the_2025_Cannes_Film_Festival.jpg",
+   "answer": {
+    "fr": "Denzel Washington",
+    "en": "Denzel Washington"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg/330px-Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Morgan Freeman",
+    "en": "Morgan Freeman"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Anne_Hathaway-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194764955_%28cropped%29.jpg/330px-Anne_Hathaway-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194764955_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Anne Hathaway",
+    "en": "Anne Hathaway"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NataliePortman.jpg/330px-NataliePortman.jpg",
+   "answer": {
+    "fr": "Natalie Portman",
+    "en": "Natalie Portman"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Charlize-theron-IMG_6045.jpg/330px-Charlize-theron-IMG_6045.jpg",
+   "answer": {
+    "fr": "Charlize Theron",
+    "en": "Charlize Theron"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/GoslingBFI081223_%2822_of_30%29_%2853388157347%29_%28cropped%29.jpg/330px-GoslingBFI081223_%2822_of_30%29_%2853388157347%29_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Ryan Gosling",
+    "en": "Ryan Gosling"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Emma_Stone_at_the_2025_Venice_Film_Festival-6313_%28cropped%29.jpg/330px-Emma_Stone_at_the_2025_Venice_Film_Festival-6313_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Emma Stone",
+    "en": "Emma Stone"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg/330px-RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Robert Downey Jr.",
+    "en": "Robert Downey Jr."
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chris_Hemsworth_-_Crime_101.jpg/330px-Chris_Hemsworth_-_Crime_101.jpg",
+   "answer": {
+    "fr": "Chris Hemsworth",
+    "en": "Chris Hemsworth"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Chris_Evans_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg/330px-Chris_Evans_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Chris Evans",
+    "en": "Chris Evans"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hugh_Jackman_by_Gage_Skidmore_3.jpg/330px-Hugh_Jackman_by_Gage_Skidmore_3.jpg",
+   "answer": {
+    "fr": "Hugh Jackman",
+    "en": "Hugh Jackman"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Christian_Bale-7837.jpg/330px-Christian_Bale-7837.jpg",
+   "answer": {
+    "fr": "Christian Bale",
+    "en": "Christian Bale"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Joaquin_Phoenix-64908_%28cropped%29.jpg/330px-Joaquin_Phoenix-64908_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Joaquin Phoenix",
+    "en": "Joaquin Phoenix"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Cate_Blanchett-63298_%28cropped_2%29.jpg/330px-Cate_Blanchett-63298_%28cropped_2%29.jpg",
+   "answer": {
+    "fr": "Cate Blanchett",
+    "en": "Cate Blanchett"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nicole_Kidman-66059_%28cropped%29.jpg/330px-Nicole_Kidman-66059_%28cropped%29.jpg",
+   "answer": {
+    "fr": "Nicole Kidman",
+    "en": "Nicole Kidman"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Julia_Roberts_2025.jpg/330px-Julia_Roberts_2025.jpg",
+   "answer": {
+    "fr": "Julia Roberts",
+    "en": "Julia Roberts"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/George_Clooney_Jay_Kelly-19_%28cropped%29.jpg/330px-George_Clooney_Jay_Kelly-19_%28cropped%29.jpg",
+   "answer": {
+    "fr": "George Clooney",
+    "en": "George Clooney"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/MattDamon-byPhilipRomano.jpg/330px-MattDamon-byPhilipRomano.jpg",
+   "answer": {
+    "fr": "Matt Damon",
+    "en": "Matt Damon"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg/330px-Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg",
+   "answer": {
+    "fr": "Keanu Reeves",
+    "en": "Keanu Reeves"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Marion_Cotillard_at_2019_Cannes.jpg/330px-Marion_Cotillard_at_2019_Cannes.jpg",
+   "answer": {
+    "fr": "Marion Cotillard",
+    "en": "Marion Cotillard"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Christophe_Lambert_et_Jean_Dujardin_%28Cropped%29.jpg/330px-Christophe_Lambert_et_Jean_Dujardin_%28Cropped%29.jpg",
+   "answer": {
+    "fr": "Jean Dujardin",
+    "en": "Jean Dujardin"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Audrey_Tautou_Berlin_2015.jpg/330px-Audrey_Tautou_Berlin_2015.jpg",
+   "answer": {
+    "fr": "Audrey Tautou",
+    "en": "Audrey Tautou"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Gad_Elmaleh_Cannes_2019.jpg/330px-Gad_Elmaleh_Cannes_2019.jpg",
+   "answer": {
+    "fr": "Gad Elmaleh",
+    "en": "Gad Elmaleh"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Omar_Sy_%282020%29.jpg/330px-Omar_Sy_%282020%29.jpg",
+   "answer": {
+    "fr": "Omar Sy",
+    "en": "Omar Sy"
+   }
   }
  ]
 }

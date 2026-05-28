@@ -1300,6 +1300,266 @@
      }
     ],
     "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "kr",
+    "options": [
+     {
+      "fr": "Corée du Sud",
+      "en": "South Korea"
+     },
+     {
+      "fr": "République dominicaine",
+      "en": "Dominican Republic"
+     },
+     {
+      "fr": "Monténégro",
+      "en": "Montenegro"
+     },
+     {
+      "fr": "Timor oriental",
+      "en": "East Timor"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "ke",
+    "options": [
+     {
+      "fr": "Kenya",
+      "en": "Kenya"
+     },
+     {
+      "fr": "Bolivie",
+      "en": "Bolivia"
+     },
+     {
+      "fr": "Trinité-et-Tobago",
+      "en": "Trinidad and Tobago"
+     },
+     {
+      "fr": "Gambie",
+      "en": "Gambia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "mx",
+    "options": [
+     {
+      "fr": "Mexique",
+      "en": "Mexico"
+     },
+     {
+      "fr": "République tchèque",
+      "en": "Czech Republic"
+     },
+     {
+      "fr": "Belize",
+      "en": "Belize"
+     },
+     {
+      "fr": "Guinée",
+      "en": "Guinea"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "ie",
+    "options": [
+     {
+      "fr": "Irlande",
+      "en": "Ireland"
+     },
+     {
+      "fr": "Cambodge",
+      "en": "Cambodia"
+     },
+     {
+      "fr": "Burkina Faso",
+      "en": "Burkina Faso"
+     },
+     {
+      "fr": "Palaos",
+      "en": "Palau"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "be",
+    "options": [
+     {
+      "fr": "Belgique",
+      "en": "Belgium"
+     },
+     {
+      "fr": "Îles Marshall",
+      "en": "Marshall Islands"
+     },
+     {
+      "fr": "Fidji",
+      "en": "Fiji"
+     },
+     {
+      "fr": "Birmanie",
+      "en": "Myanmar"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "il",
+    "options": [
+     {
+      "fr": "Israël",
+      "en": "Israel"
+     },
+     {
+      "fr": "Sri Lanka",
+      "en": "Sri Lanka"
+     },
+     {
+      "fr": "Érythrée",
+      "en": "Eritrea"
+     },
+     {
+      "fr": "Andorre",
+      "en": "Andorra"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "sa",
+    "options": [
+     {
+      "fr": "Arabie Saoudite",
+      "en": "Saudi Arabia"
+     },
+     {
+      "fr": "Malte",
+      "en": "Malta"
+     },
+     {
+      "fr": "Tunisie",
+      "en": "Tunisia"
+     },
+     {
+      "fr": "Madagascar",
+      "en": "Madagascar"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "at",
+    "options": [
+     {
+      "fr": "Autriche",
+      "en": "Austria"
+     },
+     {
+      "fr": "Bangladesh",
+      "en": "Bangladesh"
+     },
+     {
+      "fr": "Turquie",
+      "en": "Turkey"
+     },
+     {
+      "fr": "Sierra Leone",
+      "en": "Sierra Leone"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "ve",
+    "options": [
+     {
+      "fr": "Venezuela",
+      "en": "Venezuela"
+     },
+     {
+      "fr": "Bangladesh",
+      "en": "Bangladesh"
+     },
+     {
+      "fr": "Indonésie",
+      "en": "Indonesia"
+     },
+     {
+      "fr": "Sint-Maarten",
+      "en": "Sint Maarten"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "ca",
+    "options": [
+     {
+      "fr": "Canada",
+      "en": "Canada"
+     },
+     {
+      "fr": "Timor oriental",
+      "en": "East Timor"
+     },
+     {
+      "fr": "Sao Tomé-et-Principe",
+      "en": "Sao Tome and Principe"
+     },
+     {
+      "fr": "Haïti",
+      "en": "Haiti"
+     }
+    ],
+    "answer": 0
    }
   ],
   "medium": [
@@ -2599,6 +2859,266 @@
      {
       "fr": "Trinité-et-Tobago",
       "en": "Trinidad and Tobago"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "mt",
+    "options": [
+     {
+      "fr": "Malte",
+      "en": "Malta"
+     },
+     {
+      "fr": "Bahreïn",
+      "en": "Bahrain"
+     },
+     {
+      "fr": "Cap-Vert",
+      "en": "Cape Verde"
+     },
+     {
+      "fr": "Colombie",
+      "en": "Colombia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "az",
+    "options": [
+     {
+      "fr": "Azerbaïdjan",
+      "en": "Azerbaijan"
+     },
+     {
+      "fr": "Madagascar",
+      "en": "Madagascar"
+     },
+     {
+      "fr": "Soudan du Sud",
+      "en": "South Sudan"
+     },
+     {
+      "fr": "Singapour",
+      "en": "Singapore"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "lt",
+    "options": [
+     {
+      "fr": "Lituanie",
+      "en": "Lithuania"
+     },
+     {
+      "fr": "Jamaïque",
+      "en": "Jamaica"
+     },
+     {
+      "fr": "Madagascar",
+      "en": "Madagascar"
+     },
+     {
+      "fr": "Italie",
+      "en": "Italy"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "md",
+    "options": [
+     {
+      "fr": "Moldavie",
+      "en": "Moldova"
+     },
+     {
+      "fr": "Croatie",
+      "en": "Croatia"
+     },
+     {
+      "fr": "Pérou",
+      "en": "Peru"
+     },
+     {
+      "fr": "Malte",
+      "en": "Malta"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "kh",
+    "options": [
+     {
+      "fr": "Cambodge",
+      "en": "Cambodia"
+     },
+     {
+      "fr": "Sint-Maarten",
+      "en": "Sint Maarten"
+     },
+     {
+      "fr": "Philippines",
+      "en": "Philippines"
+     },
+     {
+      "fr": "Barbade",
+      "en": "Barbados"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "ci",
+    "options": [
+     {
+      "fr": "Côte d'Ivoire",
+      "en": "Ivory Coast"
+     },
+     {
+      "fr": "Botswana",
+      "en": "Botswana"
+     },
+     {
+      "fr": "Guatemala",
+      "en": "Guatemala"
+     },
+     {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "is",
+    "options": [
+     {
+      "fr": "Islande",
+      "en": "Iceland"
+     },
+     {
+      "fr": "Malawi",
+      "en": "Malawi"
+     },
+     {
+      "fr": "Bangladesh",
+      "en": "Bangladesh"
+     },
+     {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "sg",
+    "options": [
+     {
+      "fr": "Singapour",
+      "en": "Singapore"
+     },
+     {
+      "fr": "Égypte",
+      "en": "Egypt"
+     },
+     {
+      "fr": "Suisse",
+      "en": "Switzerland"
+     },
+     {
+      "fr": "Venezuela",
+      "en": "Venezuela"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "am",
+    "options": [
+     {
+      "fr": "Arménie",
+      "en": "Armenia"
+     },
+     {
+      "fr": "Brésil",
+      "en": "Brazil"
+     },
+     {
+      "fr": "Turkménistan",
+      "en": "Turkmenistan"
+     },
+     {
+      "fr": "Bolivie",
+      "en": "Bolivia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "my",
+    "options": [
+     {
+      "fr": "Malaisie",
+      "en": "Malaysia"
+     },
+     {
+      "fr": "Burkina Faso",
+      "en": "Burkina Faso"
+     },
+     {
+      "fr": "Colombie",
+      "en": "Colombia"
+     },
+     {
+      "fr": "Guinée-Bissau",
+      "en": "Guinea-Bissau"
      }
     ],
     "answer": 0
@@ -3904,6 +4424,266 @@
      }
     ],
     "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "rw",
+    "options": [
+     {
+      "fr": "Rwanda",
+      "en": "Rwanda"
+     },
+     {
+      "fr": "Mongolie",
+      "en": "Mongolia"
+     },
+     {
+      "fr": "Ghana",
+      "en": "Ghana"
+     },
+     {
+      "fr": "Israël",
+      "en": "Israel"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "ne",
+    "options": [
+     {
+      "fr": "Niger",
+      "en": "Niger"
+     },
+     {
+      "fr": "Mongolie",
+      "en": "Mongolia"
+     },
+     {
+      "fr": "Slovénie",
+      "en": "Slovenia"
+     },
+     {
+      "fr": "Botswana",
+      "en": "Botswana"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "gw",
+    "options": [
+     {
+      "fr": "Guinée-Bissau",
+      "en": "Guinea-Bissau"
+     },
+     {
+      "fr": "Chypre",
+      "en": "Cyprus"
+     },
+     {
+      "fr": "Rwanda",
+      "en": "Rwanda"
+     },
+     {
+      "fr": "Mongolie",
+      "en": "Mongolia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "mg",
+    "options": [
+     {
+      "fr": "Madagascar",
+      "en": "Madagascar"
+     },
+     {
+      "fr": "Saint-Christophe-et-Niévès",
+      "en": "Saint Kitts and Nevis"
+     },
+     {
+      "fr": "Vietnam",
+      "en": "Vietnam"
+     },
+     {
+      "fr": "Lettonie",
+      "en": "Latvia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "mv",
+    "options": [
+     {
+      "fr": "Maldives",
+      "en": "Maldives"
+     },
+     {
+      "fr": "Vanuatu",
+      "en": "Vanuatu"
+     },
+     {
+      "fr": "Angola",
+      "en": "Angola"
+     },
+     {
+      "fr": "Israël",
+      "en": "Israel"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "er",
+    "options": [
+     {
+      "fr": "Érythrée",
+      "en": "Eritrea"
+     },
+     {
+      "fr": "Pérou",
+      "en": "Peru"
+     },
+     {
+      "fr": "Guyana",
+      "en": "Guyana"
+     },
+     {
+      "fr": "Sint-Maarten",
+      "en": "Sint Maarten"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "ls",
+    "options": [
+     {
+      "fr": "Lesotho",
+      "en": "Lesotho"
+     },
+     {
+      "fr": "Vatican",
+      "en": "Vatican City"
+     },
+     {
+      "fr": "Barbade",
+      "en": "Barbados"
+     },
+     {
+      "fr": "Irlande",
+      "en": "Ireland"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "ao",
+    "options": [
+     {
+      "fr": "Angola",
+      "en": "Angola"
+     },
+     {
+      "fr": "Jamaïque",
+      "en": "Jamaica"
+     },
+     {
+      "fr": "République centrafricaine",
+      "en": "Central African Republic"
+     },
+     {
+      "fr": "Algérie",
+      "en": "Algeria"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "bf",
+    "options": [
+     {
+      "fr": "Burkina Faso",
+      "en": "Burkina Faso"
+     },
+     {
+      "fr": "Kenya",
+      "en": "Kenya"
+     },
+     {
+      "fr": "Cuba",
+      "en": "Cuba"
+     },
+     {
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "ss",
+    "options": [
+     {
+      "fr": "Soudan du Sud",
+      "en": "South Sudan"
+     },
+     {
+      "fr": "Moldavie",
+      "en": "Moldova"
+     },
+     {
+      "fr": "Inde",
+      "en": "India"
+     },
+     {
+      "fr": "Afrique du Sud",
+      "en": "South Africa"
+     }
+    ],
+    "answer": 0
    }
   ],
   "expert": [
@@ -5203,6 +5983,266 @@
      {
       "fr": "Tuvalu",
       "en": "Tuvalu"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "bo",
+    "options": [
+     {
+      "fr": "Bolivie",
+      "en": "Bolivia"
+     },
+     {
+      "fr": "États-Unis",
+      "en": "United States"
+     },
+     {
+      "fr": "Suriname",
+      "en": "Suriname"
+     },
+     {
+      "fr": "Maroc",
+      "en": "Morocco"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "bs",
+    "options": [
+     {
+      "fr": "Bahamas",
+      "en": "Bahamas"
+     },
+     {
+      "fr": "Eswatini",
+      "en": "Eswatini"
+     },
+     {
+      "fr": "Népal",
+      "en": "Nepal"
+     },
+     {
+      "fr": "Portugal",
+      "en": "Portugal"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "vc",
+    "options": [
+     {
+      "fr": "Saint-Vincent-et-les-Grenadines",
+      "en": "Saint Vincent and the Grenadines"
+     },
+     {
+      "fr": "Libéria",
+      "en": "Liberia"
+     },
+     {
+      "fr": "Mexique",
+      "en": "Mexico"
+     },
+     {
+      "fr": "Biélorussie",
+      "en": "Belarus"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "pw",
+    "options": [
+     {
+      "fr": "Palaos",
+      "en": "Palau"
+     },
+     {
+      "fr": "Malte",
+      "en": "Malta"
+     },
+     {
+      "fr": "Sri Lanka",
+      "en": "Sri Lanka"
+     },
+     {
+      "fr": "République démocratique du Congo",
+      "en": "DR Congo"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "bd",
+    "options": [
+     {
+      "fr": "Bangladesh",
+      "en": "Bangladesh"
+     },
+     {
+      "fr": "Biélorussie",
+      "en": "Belarus"
+     },
+     {
+      "fr": "Mongolie",
+      "en": "Mongolia"
+     },
+     {
+      "fr": "Monténégro",
+      "en": "Montenegro"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "nr",
+    "options": [
+     {
+      "fr": "Nauru",
+      "en": "Nauru"
+     },
+     {
+      "fr": "Somalie",
+      "en": "Somalia"
+     },
+     {
+      "fr": "Sénégal",
+      "en": "Senegal"
+     },
+     {
+      "fr": "Timor oriental",
+      "en": "East Timor"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "mn",
+    "options": [
+     {
+      "fr": "Mongolie",
+      "en": "Mongolia"
+     },
+     {
+      "fr": "République tchèque",
+      "en": "Czech Republic"
+     },
+     {
+      "fr": "Turquie",
+      "en": "Turkey"
+     },
+     {
+      "fr": "Égypte",
+      "en": "Egypt"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "ws",
+    "options": [
+     {
+      "fr": "Samoa",
+      "en": "Samoa"
+     },
+     {
+      "fr": "Slovaquie",
+      "en": "Slovakia"
+     },
+     {
+      "fr": "Palaos",
+      "en": "Palau"
+     },
+     {
+      "fr": "République démocratique du Congo",
+      "en": "DR Congo"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "mh",
+    "options": [
+     {
+      "fr": "Îles Marshall",
+      "en": "Marshall Islands"
+     },
+     {
+      "fr": "Taïwan",
+      "en": "Taiwan"
+     },
+     {
+      "fr": "Namibie",
+      "en": "Namibia"
+     },
+     {
+      "fr": "Oman",
+      "en": "Oman"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Identifie ce drapeau :",
+     "en": "Identify this flag:"
+    },
+    "image": "sr",
+    "options": [
+     {
+      "fr": "Suriname",
+      "en": "Suriname"
+     },
+     {
+      "fr": "Estonie",
+      "en": "Estonia"
+     },
+     {
+      "fr": "Grenade",
+      "en": "Grenada"
+     },
+     {
+      "fr": "Syrie",
+      "en": "Syria"
      }
     ],
     "answer": 0

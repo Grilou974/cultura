@@ -125,6 +125,256 @@
      }
     ],
     "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel personnage Nintendo est une princesse à sauver dans Mario ?",
+     "en": "Which Nintendo princess is rescued in Mario?"
+    },
+    "options": [
+     {
+      "fr": "Peach",
+      "en": "Peach"
+     },
+     {
+      "fr": "Daisy",
+      "en": "Daisy"
+     },
+     {
+      "fr": "Rosalina",
+      "en": "Rosalina"
+     },
+     {
+      "fr": "Zelda",
+      "en": "Zelda"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel objet permet à Mario de cracher des boules de feu ?",
+     "en": "Which item lets Mario throw fireballs?"
+    },
+    "options": [
+     {
+      "fr": "Fleur de feu",
+      "en": "Fleur de feu"
+     },
+     {
+      "fr": "Champignon",
+      "en": "Champignon"
+     },
+     {
+      "fr": "Étoile",
+      "en": "Étoile"
+     },
+     {
+      "fr": "Plume",
+      "en": "Plume"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel personnage de Pokémon est jaune et électrique ?",
+     "en": "Which yellow electric Pokémon?"
+    },
+    "options": [
+     {
+      "fr": "Pikachu",
+      "en": "Pikachu"
+     },
+     {
+      "fr": "Bulbizarre",
+      "en": "Bulbizarre"
+     },
+     {
+      "fr": "Salamèche",
+      "en": "Salamèche"
+     },
+     {
+      "fr": "Carapuce",
+      "en": "Carapuce"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 'Game Boy' est sortie en :",
+     "en": "The Game Boy launched in:"
+    },
+    "options": [
+     {
+      "fr": "1989",
+      "en": "1989"
+     },
+     {
+      "fr": "1992",
+      "en": "1992"
+     },
+     {
+      "fr": "1985",
+      "en": "1985"
+     },
+     {
+      "fr": "1996",
+      "en": "1996"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu se joue avec des Tetriminos ?",
+     "en": "Which game uses Tetriminos?"
+    },
+    "options": [
+     {
+      "fr": "Tetris",
+      "en": "Tetris"
+     },
+     {
+      "fr": "Candy Crush",
+      "en": "Candy Crush"
+     },
+     {
+      "fr": "Bejeweled",
+      "en": "Bejeweled"
+     },
+     {
+      "fr": "Lumines",
+      "en": "Lumines"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle plate-forme est exclusive à Sony ?",
+     "en": "Which platform is Sony-exclusive?"
+    },
+    "options": [
+     {
+      "fr": "PlayStation",
+      "en": "PlayStation"
+     },
+     {
+      "fr": "Xbox",
+      "en": "Xbox"
+     },
+     {
+      "fr": "Switch",
+      "en": "Switch"
+     },
+     {
+      "fr": "Game Boy",
+      "en": "Game Boy"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu de rythme utilise une fausse guitare en plastique ?",
+     "en": "Which rhythm game uses a plastic guitar?"
+    },
+    "options": [
+     {
+      "fr": "Guitar Hero",
+      "en": "Guitar Hero"
+     },
+     {
+      "fr": "Just Dance",
+      "en": "Just Dance"
+     },
+     {
+      "fr": "Wii Sports",
+      "en": "Wii Sports"
+     },
+     {
+      "fr": "Beat Saber",
+      "en": "Beat Saber"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu de Naughty Dog met en scène un voleur d'aventures ?",
+     "en": "Which Naughty Dog game features a treasure hunter?"
+    },
+    "options": [
+     {
+      "fr": "Uncharted",
+      "en": "Uncharted"
+     },
+     {
+      "fr": "The Last of Us",
+      "en": "The Last of Us"
+     },
+     {
+      "fr": "Crash Bandicoot",
+      "en": "Crash Bandicoot"
+     },
+     {
+      "fr": "Jak and Daxter",
+      "en": "Jak and Daxter"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel mode populaire de Fortnite affronte 100 joueurs ?",
+     "en": "Which Fortnite mode pits 100 players?"
+    },
+    "options": [
+     {
+      "fr": "Battle Royale",
+      "en": "Battle Royale"
+     },
+     {
+      "fr": "Sauver le monde",
+      "en": "Sauver le monde"
+     },
+     {
+      "fr": "Créatif",
+      "en": "Créatif"
+     },
+     {
+      "fr": "Solo",
+      "en": "Solo"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel personnage iconique mange des fantômes ?",
+     "en": "Which icon eats ghosts?"
+    },
+    "options": [
+     {
+      "fr": "Pac-Man",
+      "en": "Pac-Man"
+     },
+     {
+      "fr": "Sonic",
+      "en": "Sonic"
+     },
+     {
+      "fr": "Kirby",
+      "en": "Kirby"
+     },
+     {
+      "fr": "Yoshi",
+      "en": "Yoshi"
+     }
+    ],
+    "answer": 0
    }
   ],
   "medium": [
@@ -249,6 +499,256 @@
      {
       "fr": "King of Fighters",
       "en": "King of Fighters"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu de Nintendo (2017) suit Link dans Hyrule ouvert ?",
+     "en": "Which 2017 Nintendo game follows Link in open-world Hyrule?"
+    },
+    "options": [
+     {
+      "fr": "Zelda: Breath of the Wild",
+      "en": "Zelda: Breath of the Wild"
+     },
+     {
+      "fr": "Skyrim",
+      "en": "Skyrim"
+     },
+     {
+      "fr": "Horizon Zero Dawn",
+      "en": "Horizon Zero Dawn"
+     },
+     {
+      "fr": "Genshin Impact",
+      "en": "Genshin Impact"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel studio a créé 'GTA' ?",
+     "en": "Which studio created 'GTA'?"
+    },
+    "options": [
+     {
+      "fr": "Rockstar Games",
+      "en": "Rockstar Games"
+     },
+     {
+      "fr": "Take-Two",
+      "en": "Take-Two"
+     },
+     {
+      "fr": "EA",
+      "en": "EA"
+     },
+     {
+      "fr": "Ubisoft",
+      "en": "Ubisoft"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu indé met en scène un chevalier-insecte en 2D ?",
+     "en": "Which 2D indie game stars an insect knight?"
+    },
+    "options": [
+     {
+      "fr": "Hollow Knight",
+      "en": "Hollow Knight"
+     },
+     {
+      "fr": "Cuphead",
+      "en": "Cuphead"
+     },
+     {
+      "fr": "Celeste",
+      "en": "Celeste"
+     },
+     {
+      "fr": "Dead Cells",
+      "en": "Dead Cells"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel constructeur a créé la Mega Drive ?",
+     "en": "Who created the Mega Drive?"
+    },
+    "options": [
+     {
+      "fr": "Sega",
+      "en": "Sega"
+     },
+     {
+      "fr": "Nintendo",
+      "en": "Nintendo"
+     },
+     {
+      "fr": "Sony",
+      "en": "Sony"
+     },
+     {
+      "fr": "NEC",
+      "en": "NEC"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu battle royale a popularisé le genre en 2017 ?",
+     "en": "Which 2017 battle-royale popularized the genre?"
+    },
+    "options": [
+     {
+      "fr": "PUBG",
+      "en": "PUBG"
+     },
+     {
+      "fr": "Fortnite",
+      "en": "Fortnite"
+     },
+     {
+      "fr": "Apex Legends",
+      "en": "Apex Legends"
+     },
+     {
+      "fr": "Warzone",
+      "en": "Warzone"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle franchise Capcom met en scène des survivants face à des zombies ?",
+     "en": "Which Capcom franchise features zombie survival?"
+    },
+    "options": [
+     {
+      "fr": "Resident Evil",
+      "en": "Resident Evil"
+     },
+     {
+      "fr": "Devil May Cry",
+      "en": "Devil May Cry"
+     },
+     {
+      "fr": "Monster Hunter",
+      "en": "Monster Hunter"
+     },
+     {
+      "fr": "Street Fighter",
+      "en": "Street Fighter"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu BioWare (2007) inaugure 'Mass Effect' ?",
+     "en": "Which 2007 BioWare game launched Mass Effect?"
+    },
+    "options": [
+     {
+      "fr": "Mass Effect",
+      "en": "Mass Effect"
+     },
+     {
+      "fr": "Mass Effect 2",
+      "en": "Mass Effect 2"
+     },
+     {
+      "fr": "Knights of the Old Republic",
+      "en": "Knights of the Old Republic"
+     },
+     {
+      "fr": "Dragon Age",
+      "en": "Dragon Age"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu a popularisé la phrase 'It's-a me, Mario!' ?",
+     "en": "Which game popularized 'It's-a me, Mario!'?"
+    },
+    "options": [
+     {
+      "fr": "Super Mario 64",
+      "en": "Super Mario 64"
+     },
+     {
+      "fr": "Mario Galaxy",
+      "en": "Mario Galaxy"
+     },
+     {
+      "fr": "Mario Kart 64",
+      "en": "Mario Kart 64"
+     },
+     {
+      "fr": "Mario Odyssey",
+      "en": "Mario Odyssey"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu Bethesda (2011) se déroule à Bordeciel/Skyrim ?",
+     "en": "Which 2011 Bethesda game is set in Skyrim?"
+    },
+    "options": [
+     {
+      "fr": "The Elder Scrolls V: Skyrim",
+      "en": "The Elder Scrolls V: Skyrim"
+     },
+     {
+      "fr": "Fallout 3",
+      "en": "Fallout 3"
+     },
+     {
+      "fr": "Morrowind",
+      "en": "Morrowind"
+     },
+     {
+      "fr": "Oblivion",
+      "en": "Oblivion"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle console a précédé la PS5 ?",
+     "en": "Which console preceded the PS5?"
+    },
+    "options": [
+     {
+      "fr": "PlayStation 4",
+      "en": "PlayStation 4"
+     },
+     {
+      "fr": "PlayStation 3",
+      "en": "PlayStation 3"
+     },
+     {
+      "fr": "PS Vita",
+      "en": "PS Vita"
+     },
+     {
+      "fr": "PSP",
+      "en": "PSP"
      }
     ],
     "answer": 0
@@ -379,6 +879,256 @@
      }
     ],
     "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu FromSoftware (2015) introduit le 'Soulsborne' à la PS4 ?",
+     "en": "Which 2015 FromSoftware game brought Soulsborne to PS4?"
+    },
+    "options": [
+     {
+      "fr": "Bloodborne",
+      "en": "Bloodborne"
+     },
+     {
+      "fr": "Dark Souls III",
+      "en": "Dark Souls III"
+     },
+     {
+      "fr": "Sekiro",
+      "en": "Sekiro"
+     },
+     {
+      "fr": "Demon's Souls",
+      "en": "Demon's Souls"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a réalisé 'Death Stranding' (2019) ?",
+     "en": "Who directed 'Death Stranding' (2019)?"
+    },
+    "options": [
+     {
+      "fr": "Hideo Kojima",
+      "en": "Hideo Kojima"
+     },
+     {
+      "fr": "Yoko Taro",
+      "en": "Yoko Taro"
+     },
+     {
+      "fr": "Fumito Ueda",
+      "en": "Fumito Ueda"
+     },
+     {
+      "fr": "Goichi Suda",
+      "en": "Goichi Suda"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu PS2 emblématique est sorti en 2001 ?",
+     "en": "Which iconic PS2 game launched in 2001?"
+    },
+    "options": [
+     {
+      "fr": "GTA III",
+      "en": "GTA III"
+     },
+     {
+      "fr": "Halo",
+      "en": "Halo"
+     },
+     {
+      "fr": "Metal Gear Solid 2",
+      "en": "Metal Gear Solid 2"
+     },
+     {
+      "fr": "Final Fantasy X",
+      "en": "Final Fantasy X"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel studio développe 'Sea of Thieves' ?",
+     "en": "Which studio develops 'Sea of Thieves'?"
+    },
+    "options": [
+     {
+      "fr": "Rare",
+      "en": "Rare"
+     },
+     {
+      "fr": "Ubisoft",
+      "en": "Ubisoft"
+     },
+     {
+      "fr": "Bungie",
+      "en": "Bungie"
+     },
+     {
+      "fr": "Insomniac",
+      "en": "Insomniac"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel MMO de Blizzard est sorti en 2004 ?",
+     "en": "Which 2004 Blizzard MMO?"
+    },
+    "options": [
+     {
+      "fr": "World of Warcraft",
+      "en": "World of Warcraft"
+     },
+     {
+      "fr": "Diablo III",
+      "en": "Diablo III"
+     },
+     {
+      "fr": "Overwatch",
+      "en": "Overwatch"
+     },
+     {
+      "fr": "StarCraft",
+      "en": "StarCraft"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel moteur a popularisé Epic Games ?",
+     "en": "Which engine did Epic Games popularize?"
+    },
+    "options": [
+     {
+      "fr": "Unreal Engine",
+      "en": "Unreal Engine"
+     },
+     {
+      "fr": "Unity",
+      "en": "Unity"
+     },
+     {
+      "fr": "Source",
+      "en": "Source"
+     },
+     {
+      "fr": "id Tech",
+      "en": "id Tech"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu de Team Cherry est sorti en 2017 ?",
+     "en": "Which 2017 Team Cherry game?"
+    },
+    "options": [
+     {
+      "fr": "Hollow Knight",
+      "en": "Hollow Knight"
+     },
+     {
+      "fr": "Cuphead",
+      "en": "Cuphead"
+     },
+     {
+      "fr": "Stardew Valley",
+      "en": "Stardew Valley"
+     },
+     {
+      "fr": "Undertale",
+      "en": "Undertale"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a créé 'Undertale' (2015) ?",
+     "en": "Who created 'Undertale' (2015)?"
+    },
+    "options": [
+     {
+      "fr": "Toby Fox",
+      "en": "Toby Fox"
+     },
+     {
+      "fr": "Eric Barone",
+      "en": "Eric Barone"
+     },
+     {
+      "fr": "Phil Fish",
+      "en": "Phil Fish"
+     },
+     {
+      "fr": "Markus Persson",
+      "en": "Markus Persson"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu Hideo Kojima a quitté Konami pour fonder son studio ?",
+     "en": "Which game pushed Kojima to leave Konami?"
+    },
+    "options": [
+     {
+      "fr": "Metal Gear Solid V",
+      "en": "Metal Gear Solid V"
+     },
+     {
+      "fr": "Death Stranding",
+      "en": "Death Stranding"
+     },
+     {
+      "fr": "Silent Hills (PT)",
+      "en": "Silent Hills (PT)"
+     },
+     {
+      "fr": "Zone of the Enders",
+      "en": "Zone of the Enders"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu utilise la mécanique du 'time loop' avec Outer Wilds ?",
+     "en": "Which game uses a time loop in Outer Wilds?"
+    },
+    "options": [
+     {
+      "fr": "Outer Wilds",
+      "en": "Outer Wilds"
+     },
+     {
+      "fr": "Returnal",
+      "en": "Returnal"
+     },
+     {
+      "fr": "12 Minutes",
+      "en": "12 Minutes"
+     },
+     {
+      "fr": "Loop Hero",
+      "en": "Loop Hero"
+     }
+    ],
+    "answer": 0
    }
   ],
   "expert": [
@@ -506,6 +1256,256 @@
      }
     ],
     "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle console Sega a précédé la Saturn ?",
+     "en": "Which Sega console preceded the Saturn?"
+    },
+    "options": [
+     {
+      "fr": "Mega Drive",
+      "en": "Mega Drive"
+     },
+     {
+      "fr": "Master System",
+      "en": "Master System"
+     },
+     {
+      "fr": "Game Gear",
+      "en": "Game Gear"
+     },
+     {
+      "fr": "Dreamcast",
+      "en": "Dreamcast"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel langage est utilisé pour développer la NES de l'époque ?",
+     "en": "Which language was typical for NES dev?"
+    },
+    "options": [
+     {
+      "fr": "Assembleur 6502",
+      "en": "Assembleur 6502"
+     },
+     {
+      "fr": "C",
+      "en": "C"
+     },
+     {
+      "fr": "Pascal",
+      "en": "Pascal"
+     },
+     {
+      "fr": "BASIC",
+      "en": "BASIC"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a fondé id Software ?",
+     "en": "Who founded id Software?"
+    },
+    "options": [
+     {
+      "fr": "John Carmack et John Romero (entre autres)",
+      "en": "John Carmack et John Romero (entre autres)"
+     },
+     {
+      "fr": "Tim Sweeney",
+      "en": "Tim Sweeney"
+     },
+     {
+      "fr": "Sid Meier",
+      "en": "Sid Meier"
+     },
+     {
+      "fr": "Will Wright",
+      "en": "Will Wright"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu inaugure la 3D temps réel grand public ?",
+     "en": "Which game popularized real-time 3D for the masses?"
+    },
+    "options": [
+     {
+      "fr": "Wolfenstein 3D (1992)",
+      "en": "Wolfenstein 3D (1992)"
+     },
+     {
+      "fr": "Doom",
+      "en": "Doom"
+     },
+     {
+      "fr": "Quake",
+      "en": "Quake"
+     },
+     {
+      "fr": "Half-Life",
+      "en": "Half-Life"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel studio japonais a créé Bayonetta ?",
+     "en": "Which Japanese studio created Bayonetta?"
+    },
+    "options": [
+     {
+      "fr": "PlatinumGames",
+      "en": "PlatinumGames"
+     },
+     {
+      "fr": "Atlus",
+      "en": "Atlus"
+     },
+     {
+      "fr": "FromSoftware",
+      "en": "FromSoftware"
+     },
+     {
+      "fr": "Capcom",
+      "en": "Capcom"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu d'arcade SNK (1994) lance King of Fighters ?",
+     "en": "Which 1994 SNK arcade game launched KoF?"
+    },
+    "options": [
+     {
+      "fr": "The King of Fighters '94",
+      "en": "The King of Fighters '94"
+     },
+     {
+      "fr": "Fatal Fury",
+      "en": "Fatal Fury"
+     },
+     {
+      "fr": "Samurai Shodown",
+      "en": "Samurai Shodown"
+     },
+     {
+      "fr": "Art of Fighting",
+      "en": "Art of Fighting"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu Looking Glass est l'ancêtre de Deus Ex (immersive sim) ?",
+     "en": "Which Looking Glass game preceded Deus Ex (immersive sim)?"
+    },
+    "options": [
+     {
+      "fr": "System Shock 2",
+      "en": "System Shock 2"
+     },
+     {
+      "fr": "Thief",
+      "en": "Thief"
+     },
+     {
+      "fr": "Ultima Underworld",
+      "en": "Ultima Underworld"
+     },
+     {
+      "fr": "Terra Nova",
+      "en": "Terra Nova"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel système d'exploitation a permis le boom du jeu indé ?",
+     "en": "Which OS spurred the indie game boom?"
+    },
+    "options": [
+     {
+      "fr": "Windows (Steam)",
+      "en": "Windows (Steam)"
+     },
+     {
+      "fr": "Linux",
+      "en": "Linux"
+     },
+     {
+      "fr": "macOS",
+      "en": "macOS"
+     },
+     {
+      "fr": "Android",
+      "en": "Android"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle est la console portable de Nintendo sortie en 1989 ?",
+     "en": "Nintendo's 1989 handheld?"
+    },
+    "options": [
+     {
+      "fr": "Game Boy",
+      "en": "Game Boy"
+     },
+     {
+      "fr": "Game Gear",
+      "en": "Game Gear"
+     },
+     {
+      "fr": "Lynx",
+      "en": "Lynx"
+     },
+     {
+      "fr": "NeoGeo Pocket",
+      "en": "NeoGeo Pocket"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel jeu Quintet (1994) sur SNES est devenu culte ?",
+     "en": "Which 1994 Quintet SNES cult game?"
+    },
+    "options": [
+     {
+      "fr": "Illusion of Gaia",
+      "en": "Illusion of Gaia"
+     },
+     {
+      "fr": "Soulblazer",
+      "en": "Soulblazer"
+     },
+     {
+      "fr": "Terranigma",
+      "en": "Terranigma"
+     },
+     {
+      "fr": "ActRaiser",
+      "en": "ActRaiser"
+     }
+    ],
+    "answer": 2
    }
   ]
  },

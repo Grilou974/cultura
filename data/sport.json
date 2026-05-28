@@ -125,6 +125,256 @@
      }
     ],
     "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel sport pratique Cristiano Ronaldo ?",
+     "en": "What sport does Cristiano Ronaldo play?"
+    },
+    "options": [
+     {
+      "fr": "Football",
+      "en": "Football"
+     },
+     {
+      "fr": "Basketball",
+      "en": "Basketball"
+     },
+     {
+      "fr": "Rugby",
+      "en": "Rugby"
+     },
+     {
+      "fr": "Hockey",
+      "en": "Hockey"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Combien de joueurs sur un terrain de tennis en simple ?",
+     "en": "How many players in a singles tennis match?"
+    },
+    "options": [
+     {
+      "fr": "2",
+      "en": "2"
+     },
+     {
+      "fr": "4",
+      "en": "4"
+     },
+     {
+      "fr": "6",
+      "en": "6"
+     },
+     {
+      "fr": "8",
+      "en": "8"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel sport utilise un panier à 3,05 m ?",
+     "en": "Which sport has a 3.05 m hoop?"
+    },
+    "options": [
+     {
+      "fr": "Basketball",
+      "en": "Basketball"
+     },
+     {
+      "fr": "Volleyball",
+      "en": "Volleyball"
+     },
+     {
+      "fr": "Handball",
+      "en": "Handball"
+     },
+     {
+      "fr": "Netball",
+      "en": "Netball"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel sport pratique LeBron James ?",
+     "en": "Which sport does LeBron James play?"
+    },
+    "options": [
+     {
+      "fr": "Basketball",
+      "en": "Basketball"
+     },
+     {
+      "fr": "Football",
+      "en": "Football"
+     },
+     {
+      "fr": "Baseball",
+      "en": "Baseball"
+     },
+     {
+      "fr": "Tennis",
+      "en": "Tennis"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle compétition oppose les meilleurs clubs européens de football ?",
+     "en": "Which competition pits top European football clubs?"
+    },
+    "options": [
+     {
+      "fr": "Ligue des champions",
+      "en": "Ligue des champions"
+     },
+     {
+      "fr": "Coupe du monde",
+      "en": "Coupe du monde"
+     },
+     {
+      "fr": "Europa League",
+      "en": "Europa League"
+     },
+     {
+      "fr": "Coupe d'Europe",
+      "en": "Coupe d'Europe"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel sport olympique se pratique avec une crosse en glace ?",
+     "en": "Which Olympic sport uses an ice stick?"
+    },
+    "options": [
+     {
+      "fr": "Hockey sur glace",
+      "en": "Hockey sur glace"
+     },
+     {
+      "fr": "Curling",
+      "en": "Curling"
+     },
+     {
+      "fr": "Patinage",
+      "en": "Patinage"
+     },
+     {
+      "fr": "Bobsleigh",
+      "en": "Bobsleigh"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Combien y a-t-il de manches dans un match de baseball ?",
+     "en": "How many innings in a baseball game?"
+    },
+    "options": [
+     {
+      "fr": "9",
+      "en": "9"
+     },
+     {
+      "fr": "7",
+      "en": "7"
+     },
+     {
+      "fr": "11",
+      "en": "11"
+     },
+     {
+      "fr": "5",
+      "en": "5"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a inventé le rugby ?",
+     "en": "Which country invented rugby?"
+    },
+    "options": [
+     {
+      "fr": "Angleterre",
+      "en": "Angleterre"
+     },
+     {
+      "fr": "Pays de Galles",
+      "en": "Pays de Galles"
+     },
+     {
+      "fr": "Écosse",
+      "en": "Écosse"
+     },
+     {
+      "fr": "France",
+      "en": "France"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a inventé le golf moderne ?",
+     "en": "Where was modern golf invented?"
+    },
+    "options": [
+     {
+      "fr": "Écosse",
+      "en": "Écosse"
+     },
+     {
+      "fr": "Angleterre",
+      "en": "Angleterre"
+     },
+     {
+      "fr": "USA",
+      "en": "USA"
+     },
+     {
+      "fr": "Pays-Bas",
+      "en": "Pays-Bas"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel sport se joue sur un terrain de 100 m de long en France ?",
+     "en": "Which sport uses a 100 m pitch in France?"
+    },
+    "options": [
+     {
+      "fr": "Football",
+      "en": "Football"
+     },
+     {
+      "fr": "Rugby (presque)",
+      "en": "Rugby (presque)"
+     },
+     {
+      "fr": "Volleyball",
+      "en": "Volleyball"
+     },
+     {
+      "fr": "Handball",
+      "en": "Handball"
+     }
+    ],
+    "answer": 0
    }
   ],
   "medium": [
@@ -249,6 +499,256 @@
      {
       "fr": "1 sur 1",
       "en": "1 sur 1"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel club anglais est surnommé 'Les Red Devils' ?",
+     "en": "Which English club is called 'The Red Devils'?"
+    },
+    "options": [
+     {
+      "fr": "Manchester United",
+      "en": "Manchester United"
+     },
+     {
+      "fr": "Liverpool",
+      "en": "Liverpool"
+     },
+     {
+      "fr": "Arsenal",
+      "en": "Arsenal"
+     },
+     {
+      "fr": "Chelsea",
+      "en": "Chelsea"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a remporté la Coupe du monde de rugby 2023 ?",
+     "en": "Who won the 2023 Rugby World Cup?"
+    },
+    "options": [
+     {
+      "fr": "Afrique du Sud",
+      "en": "Afrique du Sud"
+     },
+     {
+      "fr": "Nouvelle-Zélande",
+      "en": "Nouvelle-Zélande"
+     },
+     {
+      "fr": "France",
+      "en": "France"
+     },
+     {
+      "fr": "Angleterre",
+      "en": "Angleterre"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Combien de quarts dans un match NBA standard ?",
+     "en": "How many quarters in a standard NBA game?"
+    },
+    "options": [
+     {
+      "fr": "4 (12 min)",
+      "en": "4 (12 min)"
+     },
+     {
+      "fr": "2 mi-temps",
+      "en": "2 mi-temps"
+     },
+     {
+      "fr": "3 tiers",
+      "en": "3 tiers"
+     },
+     {
+      "fr": "8 quarts",
+      "en": "8 quarts"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel tournoi du Grand Chelem se joue sur gazon ?",
+     "en": "Which Grand Slam is played on grass?"
+    },
+    "options": [
+     {
+      "fr": "Wimbledon",
+      "en": "Wimbledon"
+     },
+     {
+      "fr": "Roland-Garros",
+      "en": "Roland-Garros"
+     },
+     {
+      "fr": "US Open",
+      "en": "US Open"
+     },
+     {
+      "fr": "Open d'Australie",
+      "en": "Open d'Australie"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel boxer est surnommé 'The Greatest' ?",
+     "en": "Which boxer is called 'The Greatest'?"
+    },
+    "options": [
+     {
+      "fr": "Muhammad Ali",
+      "en": "Muhammad Ali"
+     },
+     {
+      "fr": "Mike Tyson",
+      "en": "Mike Tyson"
+     },
+     {
+      "fr": "Floyd Mayweather",
+      "en": "Floyd Mayweather"
+     },
+     {
+      "fr": "Sugar Ray Robinson",
+      "en": "Sugar Ray Robinson"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Combien de joueurs sur le terrain au water-polo (par équipe) ?",
+     "en": "How many water-polo players per team in water?"
+    },
+    "options": [
+     {
+      "fr": "7",
+      "en": "7"
+     },
+     {
+      "fr": "6",
+      "en": "6"
+     },
+     {
+      "fr": "8",
+      "en": "8"
+     },
+     {
+      "fr": "5",
+      "en": "5"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel cycliste a remporté 5 Tours de France (sans dopage avéré contemporain) ?",
+     "en": "Who won 5 Tours de France?"
+    },
+    "options": [
+     {
+      "fr": "Eddy Merckx (puis Indurain, Hinault, Anquetil)",
+      "en": "Eddy Merckx (puis Indurain, Hinault, Anquetil)"
+     },
+     {
+      "fr": "Lance Armstrong (déchu)",
+      "en": "Lance Armstrong (déchu)"
+     },
+     {
+      "fr": "Chris Froome",
+      "en": "Chris Froome"
+     },
+     {
+      "fr": "Tadej Pogačar",
+      "en": "Tadej Pogačar"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a inventé le judo ?",
+     "en": "Which country invented judo?"
+    },
+    "options": [
+     {
+      "fr": "Japon",
+      "en": "Japon"
+     },
+     {
+      "fr": "Chine",
+      "en": "Chine"
+     },
+     {
+      "fr": "Corée",
+      "en": "Corée"
+     },
+     {
+      "fr": "Vietnam",
+      "en": "Vietnam"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel compétition est l'Eurovision du foot féminin ?",
+     "en": "Which competition is the European women's football championship?"
+    },
+    "options": [
+     {
+      "fr": "Euro féminin (UEFA)",
+      "en": "Euro féminin (UEFA)"
+     },
+     {
+      "fr": "Coupe du monde féminine",
+      "en": "Coupe du monde féminine"
+     },
+     {
+      "fr": "Ligue des nations",
+      "en": "Ligue des nations"
+     },
+     {
+      "fr": "Copa América féminine",
+      "en": "Copa América féminine"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel marathonien kényan a battu le record du monde sous 2h en 2019 (officieux) ?",
+     "en": "Which Kenyan ran sub-2h marathon (unofficial) in 2019?"
+    },
+    "options": [
+     {
+      "fr": "Eliud Kipchoge",
+      "en": "Eliud Kipchoge"
+     },
+     {
+      "fr": "Kenenisa Bekele",
+      "en": "Kenenisa Bekele"
+     },
+     {
+      "fr": "Wilson Kipsang",
+      "en": "Wilson Kipsang"
+     },
+     {
+      "fr": "Geoffrey Mutai",
+      "en": "Geoffrey Mutai"
      }
     ],
     "answer": 0
@@ -379,6 +879,256 @@
      }
     ],
     "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel joueur a marqué le plus de buts en Ligue des champions ?",
+     "en": "Top scorer ever in Champions League?"
+    },
+    "options": [
+     {
+      "fr": "Cristiano Ronaldo",
+      "en": "Cristiano Ronaldo"
+     },
+     {
+      "fr": "Lionel Messi",
+      "en": "Lionel Messi"
+     },
+     {
+      "fr": "Robert Lewandowski",
+      "en": "Robert Lewandowski"
+     },
+     {
+      "fr": "Karim Benzema",
+      "en": "Karim Benzema"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel sprinteur a couru le 100 m en 9,58s ?",
+     "en": "Who ran 100 m in 9.58s?"
+    },
+    "options": [
+     {
+      "fr": "Usain Bolt",
+      "en": "Usain Bolt"
+     },
+     {
+      "fr": "Tyson Gay",
+      "en": "Tyson Gay"
+     },
+     {
+      "fr": "Yohan Blake",
+      "en": "Yohan Blake"
+     },
+     {
+      "fr": "Justin Gatlin",
+      "en": "Justin Gatlin"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel tournoi NBA reçoit le 'Larry O'Brien Trophy' ?",
+     "en": "Which NBA trophy is the Larry O'Brien?"
+    },
+    "options": [
+     {
+      "fr": "NBA Finals (champion)",
+      "en": "NBA Finals (champion)"
+     },
+     {
+      "fr": "MVP",
+      "en": "MVP"
+     },
+     {
+      "fr": "All-Star",
+      "en": "All-Star"
+     },
+     {
+      "fr": "Rookie of the Year",
+      "en": "Rookie of the Year"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a remporté l'Euro 2024 de football ?",
+     "en": "Who won Euro 2024 football?"
+    },
+    "options": [
+     {
+      "fr": "Espagne",
+      "en": "Espagne"
+     },
+     {
+      "fr": "Angleterre",
+      "en": "Angleterre"
+     },
+     {
+      "fr": "France",
+      "en": "France"
+     },
+     {
+      "fr": "Allemagne",
+      "en": "Allemagne"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Combien de Grands Prix Michael Schumacher a-t-il gagnés ?",
+     "en": "How many GPs did Michael Schumacher win?"
+    },
+    "options": [
+     {
+      "fr": "91",
+      "en": "91"
+     },
+     {
+      "fr": "84",
+      "en": "84"
+     },
+     {
+      "fr": "100",
+      "en": "100"
+     },
+     {
+      "fr": "76",
+      "en": "76"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel tennisman a remporté le plus de titres en Grand Chelem en 2024 ?",
+     "en": "Top GS titles by a male tennis player by end of 2024?"
+    },
+    "options": [
+     {
+      "fr": "Novak Djokovic (24)",
+      "en": "Novak Djokovic (24)"
+     },
+     {
+      "fr": "Rafael Nadal (22)",
+      "en": "Rafael Nadal (22)"
+     },
+     {
+      "fr": "Roger Federer (20)",
+      "en": "Roger Federer (20)"
+     },
+     {
+      "fr": "Pete Sampras (14)",
+      "en": "Pete Sampras (14)"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a accueilli les JO d'été 2024 ?",
+     "en": "Which country hosted the 2024 Summer Olympics?"
+    },
+    "options": [
+     {
+      "fr": "France",
+      "en": "France"
+     },
+     {
+      "fr": "Japon",
+      "en": "Japon"
+     },
+     {
+      "fr": "Brésil",
+      "en": "Brésil"
+     },
+     {
+      "fr": "USA",
+      "en": "USA"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle équipe NHL a gagné la Stanley Cup 2024 ?",
+     "en": "Which NHL team won the 2024 Stanley Cup?"
+    },
+    "options": [
+     {
+      "fr": "Florida Panthers",
+      "en": "Florida Panthers"
+     },
+     {
+      "fr": "Edmonton Oilers",
+      "en": "Edmonton Oilers"
+     },
+     {
+      "fr": "Vegas Golden Knights",
+      "en": "Vegas Golden Knights"
+     },
+     {
+      "fr": "Tampa Bay Lightning",
+      "en": "Tampa Bay Lightning"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pilote MotoGP est 9 fois champion du monde toutes catégories ?",
+     "en": "Which MotoGP rider has 9 world titles across categories?"
+    },
+    "options": [
+     {
+      "fr": "Valentino Rossi",
+      "en": "Valentino Rossi"
+     },
+     {
+      "fr": "Marc Márquez",
+      "en": "Marc Márquez"
+     },
+     {
+      "fr": "Giacomo Agostini (en réalité 15)",
+      "en": "Giacomo Agostini (en réalité 15)"
+     },
+     {
+      "fr": "Mick Doohan",
+      "en": "Mick Doohan"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel cycliste slovène a remporté plusieurs Tours de France récents ?",
+     "en": "Which Slovenian recently won multiple Tours de France?"
+    },
+    "options": [
+     {
+      "fr": "Tadej Pogačar",
+      "en": "Tadej Pogačar"
+     },
+     {
+      "fr": "Primož Roglič",
+      "en": "Primož Roglič"
+     },
+     {
+      "fr": "Matej Mohorič",
+      "en": "Matej Mohorič"
+     },
+     {
+      "fr": "Jan Tratnik",
+      "en": "Jan Tratnik"
+     }
+    ],
+    "answer": 0
    }
   ],
   "expert": [
@@ -503,6 +1253,256 @@
      {
       "fr": "Zico",
       "en": "Zico"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel athlète détient le record du monde du saut en hauteur (2,45 m) ?",
+     "en": "Who holds the high-jump world record (2.45 m)?"
+    },
+    "options": [
+     {
+      "fr": "Javier Sotomayor",
+      "en": "Javier Sotomayor"
+     },
+     {
+      "fr": "Charles Austin",
+      "en": "Charles Austin"
+     },
+     {
+      "fr": "Patrik Sjöberg",
+      "en": "Patrik Sjöberg"
+     },
+     {
+      "fr": "Mutaz Barshim",
+      "en": "Mutaz Barshim"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a remporté le premier Mondial de foot féminin (1991) ?",
+     "en": "Who won the first Women's World Cup (1991)?"
+    },
+    "options": [
+     {
+      "fr": "USA",
+      "en": "USA"
+     },
+     {
+      "fr": "Norvège",
+      "en": "Norvège"
+     },
+     {
+      "fr": "Allemagne",
+      "en": "Allemagne"
+     },
+     {
+      "fr": "Brésil",
+      "en": "Brésil"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a remporté Roland-Garros 14 fois (record absolu) ?",
+     "en": "Who won Roland-Garros 14 times?"
+    },
+    "options": [
+     {
+      "fr": "Rafael Nadal",
+      "en": "Rafael Nadal"
+     },
+     {
+      "fr": "Björn Borg",
+      "en": "Björn Borg"
+     },
+     {
+      "fr": "Roger Federer",
+      "en": "Roger Federer"
+     },
+     {
+      "fr": "Novak Djokovic",
+      "en": "Novak Djokovic"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel marathon a vu le record du monde de Kelvin Kiptum (2:00:35) en 2023 ?",
+     "en": "Which marathon saw Kiptum's 2:00:35 in 2023?"
+    },
+    "options": [
+     {
+      "fr": "Chicago",
+      "en": "Chicago"
+     },
+     {
+      "fr": "Berlin",
+      "en": "Berlin"
+     },
+     {
+      "fr": "Londres",
+      "en": "Londres"
+     },
+     {
+      "fr": "New York",
+      "en": "New York"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel club a remporté la Champions League 2024 ?",
+     "en": "Which club won the 2024 Champions League?"
+    },
+    "options": [
+     {
+      "fr": "Real Madrid",
+      "en": "Real Madrid"
+     },
+     {
+      "fr": "Borussia Dortmund",
+      "en": "Borussia Dortmund"
+     },
+     {
+      "fr": "Manchester City",
+      "en": "Manchester City"
+     },
+     {
+      "fr": "PSG",
+      "en": "PSG"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel sprinter jamaïcain a battu Usain Bolt sur 100 m une fois en finale mondiale ?",
+     "en": "Which Jamaican beat Bolt at a 100 m world final?"
+    },
+    "options": [
+     {
+      "fr": "Aucun (Bolt n'a jamais perdu une finale mondiale 100m)",
+      "en": "Aucun (Bolt n'a jamais perdu une finale mondiale 100m)"
+     },
+     {
+      "fr": "Yohan Blake",
+      "en": "Yohan Blake"
+     },
+     {
+      "fr": "Asafa Powell",
+      "en": "Asafa Powell"
+     },
+     {
+      "fr": "Nesta Carter",
+      "en": "Nesta Carter"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel club a remporté 5 fois consécutives la Ligue 1 (équipe historique) ?",
+     "en": "Which club won Ligue 1 five times consecutively (historic)?"
+    },
+    "options": [
+     {
+      "fr": "Lyon (2002-2008, 7 fois)",
+      "en": "Lyon (2002-2008, 7 fois)"
+     },
+     {
+      "fr": "PSG (récents)",
+      "en": "PSG (récents)"
+     },
+     {
+      "fr": "Marseille (90s)",
+      "en": "Marseille (90s)"
+     },
+     {
+      "fr": "Bordeaux (90s)",
+      "en": "Bordeaux (90s)"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle compétition de tennis se joue à Melbourne ?",
+     "en": "Which tennis Slam is in Melbourne?"
+    },
+    "options": [
+     {
+      "fr": "Open d'Australie",
+      "en": "Open d'Australie"
+     },
+     {
+      "fr": "Wimbledon",
+      "en": "Wimbledon"
+     },
+     {
+      "fr": "US Open",
+      "en": "US Open"
+     },
+     {
+      "fr": "Roland-Garros",
+      "en": "Roland-Garros"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a remporté la 1ère Coupe du monde de cricket (1975) ?",
+     "en": "Who won the first Cricket World Cup (1975)?"
+    },
+    "options": [
+     {
+      "fr": "Indes occidentales",
+      "en": "Indes occidentales"
+     },
+     {
+      "fr": "Australie",
+      "en": "Australie"
+     },
+     {
+      "fr": "Angleterre",
+      "en": "Angleterre"
+     },
+     {
+      "fr": "Inde",
+      "en": "Inde"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel boxeur a battu Mike Tyson en 1990 ?",
+     "en": "Who beat Mike Tyson in 1990?"
+    },
+    "options": [
+     {
+      "fr": "Buster Douglas",
+      "en": "Buster Douglas"
+     },
+     {
+      "fr": "Evander Holyfield",
+      "en": "Evander Holyfield"
+     },
+     {
+      "fr": "Lennox Lewis",
+      "en": "Lennox Lewis"
+     },
+     {
+      "fr": "Riddick Bowe",
+      "en": "Riddick Bowe"
      }
     ],
     "answer": 0

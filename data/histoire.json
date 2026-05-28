@@ -125,6 +125,256 @@
      }
     ],
     "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a unifié la France au IXe siècle ?",
+     "en": "Who unified France in the 9th c.?"
+    },
+    "options": [
+     {
+      "fr": "Charlemagne",
+      "en": "Charlemagne"
+     },
+     {
+      "fr": "Clovis",
+      "en": "Clovis"
+     },
+     {
+      "fr": "Hugues Capet",
+      "en": "Hugues Capet"
+     },
+     {
+      "fr": "Louis XIV",
+      "en": "Louis XIV"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui était le 'Roi-Soleil' ?",
+     "en": "Who was the 'Sun King'?"
+    },
+    "options": [
+     {
+      "fr": "Louis XIV",
+      "en": "Louis XIV"
+     },
+     {
+      "fr": "Louis XVI",
+      "en": "Louis XVI"
+     },
+     {
+      "fr": "Louis IX",
+      "en": "Louis IX"
+     },
+     {
+      "fr": "Henri IV",
+      "en": "Henri IV"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel président américain abolit l'esclavage ?",
+     "en": "Which US president abolished slavery?"
+    },
+    "options": [
+     {
+      "fr": "Abraham Lincoln",
+      "en": "Abraham Lincoln"
+     },
+     {
+      "fr": "George Washington",
+      "en": "George Washington"
+     },
+     {
+      "fr": "Thomas Jefferson",
+      "en": "Thomas Jefferson"
+     },
+     {
+      "fr": "Andrew Jackson",
+      "en": "Andrew Jackson"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "En quelle année les Européens découvrent l'Amérique ?",
+     "en": "When did Europeans 'discover' America?"
+    },
+    "options": [
+     {
+      "fr": "1492",
+      "en": "1492"
+     },
+     {
+      "fr": "1453",
+      "en": "1453"
+     },
+     {
+      "fr": "1517",
+      "en": "1517"
+     },
+     {
+      "fr": "1620",
+      "en": "1620"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays a colonisé l'Algérie (XIXe-XXe siècle) ?",
+     "en": "Which country colonized Algeria?"
+    },
+    "options": [
+     {
+      "fr": "France",
+      "en": "France"
+     },
+     {
+      "fr": "Espagne",
+      "en": "Espagne"
+     },
+     {
+      "fr": "Royaume-Uni",
+      "en": "Royaume-Uni"
+     },
+     {
+      "fr": "Italie",
+      "en": "Italie"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le 'Mai 68' a eu lieu en :",
+     "en": "'May 68' happened in:"
+    },
+    "options": [
+     {
+      "fr": "France",
+      "en": "France"
+     },
+     {
+      "fr": "USA",
+      "en": "USA"
+     },
+     {
+      "fr": "Royaume-Uni",
+      "en": "Royaume-Uni"
+     },
+     {
+      "fr": "Allemagne",
+      "en": "Allemagne"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel mur séparait Berlin (1961-1989) ?",
+     "en": "Which wall divided Berlin (1961-1989)?"
+    },
+    "options": [
+     {
+      "fr": "Le mur de Berlin",
+      "en": "Le mur de Berlin"
+     },
+     {
+      "fr": "Le mur d'Hadrien",
+      "en": "Le mur d'Hadrien"
+     },
+     {
+      "fr": "La ligne Maginot",
+      "en": "La ligne Maginot"
+     },
+     {
+      "fr": "Le mur de l'Atlantique",
+      "en": "Le mur de l'Atlantique"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui était reine d'Égypte aux côtés de César et Antoine ?",
+     "en": "Which Egyptian queen was with Caesar and Mark Antony?"
+    },
+    "options": [
+     {
+      "fr": "Cléopâtre",
+      "en": "Cléopâtre"
+     },
+     {
+      "fr": "Néfertiti",
+      "en": "Néfertiti"
+     },
+     {
+      "fr": "Hatchepsout",
+      "en": "Hatchepsout"
+     },
+     {
+      "fr": "Néfertari",
+      "en": "Néfertari"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 1ère Guerre mondiale a éclaté en :",
+     "en": "WWI broke out in:"
+    },
+    "options": [
+     {
+      "fr": "1914",
+      "en": "1914"
+     },
+     {
+      "fr": "1939",
+      "en": "1939"
+     },
+     {
+      "fr": "1900",
+      "en": "1900"
+     },
+     {
+      "fr": "1918",
+      "en": "1918"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle ville antique a été détruite par le Vésuve en 79 ap. J.-C. ?",
+     "en": "Which ancient city was destroyed by Vesuvius in 79 AD?"
+    },
+    "options": [
+     {
+      "fr": "Pompéi (et Herculanum)",
+      "en": "Pompéi (et Herculanum)"
+     },
+     {
+      "fr": "Rome",
+      "en": "Rome"
+     },
+     {
+      "fr": "Naples",
+      "en": "Naples"
+     },
+     {
+      "fr": "Carthage",
+      "en": "Carthage"
+     }
+    ],
+    "answer": 0
    }
   ],
   "medium": [
@@ -249,6 +499,256 @@
      {
       "fr": "Montaigne",
       "en": "Montaigne"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui dirigeait la France pendant la Seconde Guerre mondiale (régime de Vichy) ?",
+     "en": "Who led Vichy France during WWII?"
+    },
+    "options": [
+     {
+      "fr": "Philippe Pétain",
+      "en": "Philippe Pétain"
+     },
+     {
+      "fr": "Charles de Gaulle",
+      "en": "Charles de Gaulle"
+     },
+     {
+      "fr": "Léon Blum",
+      "en": "Léon Blum"
+     },
+     {
+      "fr": "Pierre Laval",
+      "en": "Pierre Laval"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit le 'Manifeste du parti communiste' (1848) ?",
+     "en": "Who wrote 'The Communist Manifesto' (1848)?"
+    },
+    "options": [
+     {
+      "fr": "Marx et Engels",
+      "en": "Marx et Engels"
+     },
+     {
+      "fr": "Lénine",
+      "en": "Lénine"
+     },
+     {
+      "fr": "Trotski",
+      "en": "Trotski"
+     },
+     {
+      "fr": "Bakounine",
+      "en": "Bakounine"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel empire fut renversé par la Révolution d'Octobre (1917) ?",
+     "en": "Which empire was overthrown by the 1917 October Revolution?"
+    },
+    "options": [
+     {
+      "fr": "Empire russe",
+      "en": "Empire russe"
+     },
+     {
+      "fr": "Empire ottoman",
+      "en": "Empire ottoman"
+     },
+     {
+      "fr": "Empire austro-hongrois",
+      "en": "Empire austro-hongrois"
+     },
+     {
+      "fr": "Empire allemand",
+      "en": "Empire allemand"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle bataille met fin à Napoléon en 1815 ?",
+     "en": "Which 1815 battle ended Napoléon?"
+    },
+    "options": [
+     {
+      "fr": "Waterloo",
+      "en": "Waterloo"
+     },
+     {
+      "fr": "Iéna",
+      "en": "Iéna"
+     },
+     {
+      "fr": "Austerlitz",
+      "en": "Austerlitz"
+     },
+     {
+      "fr": "Leipzig",
+      "en": "Leipzig"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel président américain démissionne après le Watergate ?",
+     "en": "Which US president resigned after Watergate?"
+    },
+    "options": [
+     {
+      "fr": "Richard Nixon",
+      "en": "Richard Nixon"
+     },
+     {
+      "fr": "Lyndon Johnson",
+      "en": "Lyndon Johnson"
+     },
+     {
+      "fr": "Gerald Ford",
+      "en": "Gerald Ford"
+     },
+     {
+      "fr": "Jimmy Carter",
+      "en": "Jimmy Carter"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle dynastie chinoise précède les Yuan ?",
+     "en": "Which Chinese dynasty preceded the Yuan?"
+    },
+    "options": [
+     {
+      "fr": "Song",
+      "en": "Song"
+     },
+     {
+      "fr": "Han",
+      "en": "Han"
+     },
+     {
+      "fr": "Tang",
+      "en": "Tang"
+     },
+     {
+      "fr": "Ming",
+      "en": "Ming"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le 'Plan Marshall' (1947) visait :",
+     "en": "The 1947 Marshall Plan aimed at:"
+    },
+    "options": [
+     {
+      "fr": "La reconstruction européenne",
+      "en": "La reconstruction européenne"
+     },
+     {
+      "fr": "La conquête de l'espace",
+      "en": "La conquête de l'espace"
+     },
+     {
+      "fr": "La décolonisation",
+      "en": "La décolonisation"
+     },
+     {
+      "fr": "Le désarmement",
+      "en": "Le désarmement"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel traité (1957) crée la CEE ?",
+     "en": "Which 1957 treaty created the EEC?"
+    },
+    "options": [
+     {
+      "fr": "Traité de Rome",
+      "en": "Traité de Rome"
+     },
+     {
+      "fr": "Traité de Maastricht",
+      "en": "Traité de Maastricht"
+     },
+     {
+      "fr": "Traité de Lisbonne",
+      "en": "Traité de Lisbonne"
+     },
+     {
+      "fr": "Traité de Versailles",
+      "en": "Traité de Versailles"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui était président des USA en 1962 (crise des missiles de Cuba) ?",
+     "en": "Who was US president during the 1962 Cuban missile crisis?"
+    },
+    "options": [
+     {
+      "fr": "John F. Kennedy",
+      "en": "John F. Kennedy"
+     },
+     {
+      "fr": "Lyndon Johnson",
+      "en": "Lyndon Johnson"
+     },
+     {
+      "fr": "Eisenhower",
+      "en": "Eisenhower"
+     },
+     {
+      "fr": "Nixon",
+      "en": "Nixon"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle guerre civile a divisé l'Espagne 1936-1939 ?",
+     "en": "Which civil war divided Spain 1936-1939?"
+    },
+    "options": [
+     {
+      "fr": "La guerre d'Espagne",
+      "en": "La guerre d'Espagne"
+     },
+     {
+      "fr": "La Reconquista",
+      "en": "La Reconquista"
+     },
+     {
+      "fr": "La guerre carliste",
+      "en": "La guerre carliste"
+     },
+     {
+      "fr": "La guerre de Succession",
+      "en": "La guerre de Succession"
      }
     ],
     "answer": 0
@@ -379,6 +879,256 @@
      }
     ],
     "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle bataille (732) stoppe l'avancée musulmane en Gaule ?",
+     "en": "Which 732 battle stopped Muslim advance in Gaul?"
+    },
+    "options": [
+     {
+      "fr": "Poitiers",
+      "en": "Poitiers"
+     },
+     {
+      "fr": "Tours-Poitiers (mêmes)",
+      "en": "Tours-Poitiers (mêmes)"
+     },
+     {
+      "fr": "Tolbiac",
+      "en": "Tolbiac"
+     },
+     {
+      "fr": "Hastings",
+      "en": "Hastings"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pape a appelé à la première croisade en 1095 ?",
+     "en": "Which pope called the First Crusade (1095)?"
+    },
+    "options": [
+     {
+      "fr": "Urbain II",
+      "en": "Urbain II"
+     },
+     {
+      "fr": "Grégoire VII",
+      "en": "Grégoire VII"
+     },
+     {
+      "fr": "Innocent III",
+      "en": "Innocent III"
+     },
+     {
+      "fr": "Léon IX",
+      "en": "Léon IX"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel traité (1648) met fin à la guerre de Trente Ans ?",
+     "en": "Which 1648 treaty ended the Thirty Years' War?"
+    },
+    "options": [
+     {
+      "fr": "Westphalie",
+      "en": "Westphalie"
+     },
+     {
+      "fr": "Utrecht",
+      "en": "Utrecht"
+     },
+     {
+      "fr": "Vienne",
+      "en": "Vienne"
+     },
+     {
+      "fr": "Aix-la-Chapelle",
+      "en": "Aix-la-Chapelle"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel empire est fondé par Cyrus le Grand ?",
+     "en": "Which empire did Cyrus the Great found?"
+    },
+    "options": [
+     {
+      "fr": "Empire achéménide (perse)",
+      "en": "Empire achéménide (perse)"
+     },
+     {
+      "fr": "Empire sassanide",
+      "en": "Empire sassanide"
+     },
+     {
+      "fr": "Empire mède",
+      "en": "Empire mède"
+     },
+     {
+      "fr": "Empire séleucide",
+      "en": "Empire séleucide"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui dirigea la Chine populaire dès 1949 ?",
+     "en": "Who led the People's Republic of China from 1949?"
+    },
+    "options": [
+     {
+      "fr": "Mao Zedong",
+      "en": "Mao Zedong"
+     },
+     {
+      "fr": "Zhou Enlai",
+      "en": "Zhou Enlai"
+     },
+     {
+      "fr": "Deng Xiaoping",
+      "en": "Deng Xiaoping"
+     },
+     {
+      "fr": "Sun Yat-sen",
+      "en": "Sun Yat-sen"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel traité (1919) met fin à la 1ère Guerre mondiale ?",
+     "en": "Which 1919 treaty ended WWI?"
+    },
+    "options": [
+     {
+      "fr": "Traité de Versailles",
+      "en": "Traité de Versailles"
+     },
+     {
+      "fr": "Traité de Saint-Germain",
+      "en": "Traité de Saint-Germain"
+     },
+     {
+      "fr": "Traité de Sèvres",
+      "en": "Traité de Sèvres"
+     },
+     {
+      "fr": "Traité de Trianon",
+      "en": "Traité de Trianon"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel empereur romain promulgue l'édit de Milan (313) ?",
+     "en": "Which Roman emperor issued the Edict of Milan (313)?"
+    },
+    "options": [
+     {
+      "fr": "Constantin Ier",
+      "en": "Constantin Ier"
+     },
+     {
+      "fr": "Théodose Ier",
+      "en": "Théodose Ier"
+     },
+     {
+      "fr": "Dioclétien",
+      "en": "Dioclétien"
+     },
+     {
+      "fr": "Auguste",
+      "en": "Auguste"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle révolution scientifique date du XVIIe siècle (Galilée, Newton) ?",
+     "en": "Which 17th c. scientific revolution (Galileo, Newton)?"
+    },
+    "options": [
+     {
+      "fr": "La révolution scientifique moderne",
+      "en": "La révolution scientifique moderne"
+     },
+     {
+      "fr": "La Renaissance",
+      "en": "La Renaissance"
+     },
+     {
+      "fr": "Les Lumières",
+      "en": "Les Lumières"
+     },
+     {
+      "fr": "L'Âge des découvertes",
+      "en": "L'Âge des découvertes"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui dirige la Révolution française dans la phase de la Terreur ?",
+     "en": "Who led the French Revolution's Terror?"
+    },
+    "options": [
+     {
+      "fr": "Robespierre",
+      "en": "Robespierre"
+     },
+     {
+      "fr": "Marat",
+      "en": "Marat"
+     },
+     {
+      "fr": "Danton",
+      "en": "Danton"
+     },
+     {
+      "fr": "Sieyès",
+      "en": "Sieyès"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays accueille le congrès de Vienne (1815) ?",
+     "en": "Which country hosted the Congress of Vienna (1815)?"
+    },
+    "options": [
+     {
+      "fr": "Autriche",
+      "en": "Autriche"
+     },
+     {
+      "fr": "Allemagne",
+      "en": "Allemagne"
+     },
+     {
+      "fr": "France",
+      "en": "France"
+     },
+     {
+      "fr": "Russie",
+      "en": "Russie"
+     }
+    ],
+    "answer": 0
    }
   ],
   "expert": [
@@ -503,6 +1253,256 @@
      {
       "fr": "Stare decisis",
       "en": "Stare decisis"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel sultan ottoman prend Constantinople en 1453 ?",
+     "en": "Which sultan took Constantinople in 1453?"
+    },
+    "options": [
+     {
+      "fr": "Mehmed II",
+      "en": "Mehmed II"
+     },
+     {
+      "fr": "Soliman le Magnifique",
+      "en": "Soliman le Magnifique"
+     },
+     {
+      "fr": "Bayezid Ier",
+      "en": "Bayezid Ier"
+     },
+     {
+      "fr": "Sélim Ier",
+      "en": "Sélim Ier"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui dirigeait l'Empire byzantin lors de la chute de 1453 ?",
+     "en": "Who led Byzantium at its 1453 fall?"
+    },
+    "options": [
+     {
+      "fr": "Constantin XI Paléologue",
+      "en": "Constantin XI Paléologue"
+     },
+     {
+      "fr": "Jean V",
+      "en": "Jean V"
+     },
+     {
+      "fr": "Basile II",
+      "en": "Basile II"
+     },
+     {
+      "fr": "Justinien",
+      "en": "Justinien"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel concile (325) affirme la divinité du Christ ?",
+     "en": "Which 325 council affirmed Christ's divinity?"
+    },
+    "options": [
+     {
+      "fr": "Nicée I",
+      "en": "Nicée I"
+     },
+     {
+      "fr": "Constantinople",
+      "en": "Constantinople"
+     },
+     {
+      "fr": "Éphèse",
+      "en": "Éphèse"
+     },
+     {
+      "fr": "Chalcédoine",
+      "en": "Chalcédoine"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pharaon est mort vers -1323 et son tombeau découvert en 1922 ?",
+     "en": "Which pharaoh died c.1323 BCE, tomb found 1922?"
+    },
+    "options": [
+     {
+      "fr": "Toutânkhamon",
+      "en": "Toutânkhamon"
+     },
+     {
+      "fr": "Ramsès II",
+      "en": "Ramsès II"
+     },
+     {
+      "fr": "Akhenaton",
+      "en": "Akhenaton"
+     },
+     {
+      "fr": "Toutmôsis III",
+      "en": "Toutmôsis III"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel califat domine entre VIIIe et XIIIe siècle depuis Bagdad ?",
+     "en": "Which caliphate ruled from Baghdad 8th-13th c.?"
+    },
+    "options": [
+     {
+      "fr": "Abbasside",
+      "en": "Abbasside"
+     },
+     {
+      "fr": "Omeyyade",
+      "en": "Omeyyade"
+     },
+     {
+      "fr": "Fatimide",
+      "en": "Fatimide"
+     },
+     {
+      "fr": "Ayyoubide",
+      "en": "Ayyoubide"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a écrit 'La Cité de Dieu' (412-426) ?",
+     "en": "Who wrote 'City of God' (412-426)?"
+    },
+    "options": [
+     {
+      "fr": "Saint Augustin",
+      "en": "Saint Augustin"
+     },
+     {
+      "fr": "Saint Thomas d'Aquin",
+      "en": "Saint Thomas d'Aquin"
+     },
+     {
+      "fr": "Saint Jérôme",
+      "en": "Saint Jérôme"
+     },
+     {
+      "fr": "Saint Bède",
+      "en": "Saint Bède"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel empereur chinois unifie le pays en 221 av. J.-C. ?",
+     "en": "Which Chinese emperor unified China in 221 BCE?"
+    },
+    "options": [
+     {
+      "fr": "Qin Shi Huang",
+      "en": "Qin Shi Huang"
+     },
+     {
+      "fr": "Han Wudi",
+      "en": "Han Wudi"
+     },
+     {
+      "fr": "Tang Taizong",
+      "en": "Tang Taizong"
+     },
+     {
+      "fr": "Kangxi",
+      "en": "Kangxi"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pape excommunie Henri IV en 1076 ?",
+     "en": "Which pope excommunicated Henry IV in 1076?"
+    },
+    "options": [
+     {
+      "fr": "Grégoire VII",
+      "en": "Grégoire VII"
+     },
+     {
+      "fr": "Urbain II",
+      "en": "Urbain II"
+     },
+     {
+      "fr": "Innocent III",
+      "en": "Innocent III"
+     },
+     {
+      "fr": "Léon IX",
+      "en": "Léon IX"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel souverain russe a fondé Saint-Pétersbourg (1703) ?",
+     "en": "Which Russian ruler founded St. Petersburg (1703)?"
+    },
+    "options": [
+     {
+      "fr": "Pierre le Grand",
+      "en": "Pierre le Grand"
+     },
+     {
+      "fr": "Ivan le Terrible",
+      "en": "Ivan le Terrible"
+     },
+     {
+      "fr": "Catherine II",
+      "en": "Catherine II"
+     },
+     {
+      "fr": "Alexandre Ier",
+      "en": "Alexandre Ier"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel ordre militaire a fondé Jacques de Molay (dernier maître) ?",
+     "en": "Which military order did Jacques de Molay lead (last master)?"
+    },
+    "options": [
+     {
+      "fr": "Templiers",
+      "en": "Templiers"
+     },
+     {
+      "fr": "Hospitaliers",
+      "en": "Hospitaliers"
+     },
+     {
+      "fr": "Teutoniques",
+      "en": "Teutoniques"
+     },
+     {
+      "fr": "Calatrava",
+      "en": "Calatrava"
      }
     ],
     "answer": 0

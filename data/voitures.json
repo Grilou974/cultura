@@ -125,6 +125,256 @@
      }
     ],
     "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle est la couleur la plus vendue en automobile ?",
+     "en": "Most popular car color sold?"
+    },
+    "options": [
+     {
+      "fr": "Blanc",
+      "en": "Blanc"
+     },
+     {
+      "fr": "Noir",
+      "en": "Noir"
+     },
+     {
+      "fr": "Rouge",
+      "en": "Rouge"
+     },
+     {
+      "fr": "Bleu",
+      "en": "Bleu"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle marque possède le logo à l'étoile à trois branches ?",
+     "en": "Which brand has a three-pointed star logo?"
+    },
+    "options": [
+     {
+      "fr": "Mercedes-Benz",
+      "en": "Mercedes-Benz"
+     },
+     {
+      "fr": "Audi",
+      "en": "Audi"
+     },
+     {
+      "fr": "BMW",
+      "en": "BMW"
+     },
+     {
+      "fr": "Maserati",
+      "en": "Maserati"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays produit la marque 'Volvo' ?",
+     "en": "Which country produces Volvo?"
+    },
+    "options": [
+     {
+      "fr": "Suède",
+      "en": "Suède"
+     },
+     {
+      "fr": "Allemagne",
+      "en": "Allemagne"
+     },
+     {
+      "fr": "Italie",
+      "en": "Italie"
+     },
+     {
+      "fr": "Japon",
+      "en": "Japon"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel constructeur produit la 'Clio' ?",
+     "en": "Which maker produces the Clio?"
+    },
+    "options": [
+     {
+      "fr": "Renault",
+      "en": "Renault"
+     },
+     {
+      "fr": "Peugeot",
+      "en": "Peugeot"
+     },
+     {
+      "fr": "Citroën",
+      "en": "Citroën"
+     },
+     {
+      "fr": "Dacia",
+      "en": "Dacia"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel constructeur fabrique la 'Polo' ?",
+     "en": "Which maker builds the Polo?"
+    },
+    "options": [
+     {
+      "fr": "Volkswagen",
+      "en": "Volkswagen"
+     },
+     {
+      "fr": "Skoda",
+      "en": "Skoda"
+     },
+     {
+      "fr": "Audi",
+      "en": "Audi"
+     },
+     {
+      "fr": "Seat",
+      "en": "Seat"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle marque est connue pour l'hélice (logo bleu/blanc) ?",
+     "en": "Which brand has the blue/white propeller logo?"
+    },
+    "options": [
+     {
+      "fr": "BMW",
+      "en": "BMW"
+     },
+     {
+      "fr": "Mercedes",
+      "en": "Mercedes"
+     },
+     {
+      "fr": "Audi",
+      "en": "Audi"
+     },
+     {
+      "fr": "Volkswagen",
+      "en": "Volkswagen"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays produit Fiat ?",
+     "en": "Which country makes Fiat?"
+    },
+    "options": [
+     {
+      "fr": "Italie",
+      "en": "Italie"
+     },
+     {
+      "fr": "France",
+      "en": "France"
+     },
+     {
+      "fr": "Allemagne",
+      "en": "Allemagne"
+     },
+     {
+      "fr": "Espagne",
+      "en": "Espagne"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle marque produit la 'Civic' ?",
+     "en": "Which brand produces the Civic?"
+    },
+    "options": [
+     {
+      "fr": "Honda",
+      "en": "Honda"
+     },
+     {
+      "fr": "Toyota",
+      "en": "Toyota"
+     },
+     {
+      "fr": "Nissan",
+      "en": "Nissan"
+     },
+     {
+      "fr": "Mazda",
+      "en": "Mazda"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle entreprise possède Rolls-Royce (automobile) ?",
+     "en": "Who owns the Rolls-Royce car brand?"
+    },
+    "options": [
+     {
+      "fr": "BMW",
+      "en": "BMW"
+     },
+     {
+      "fr": "Volkswagen",
+      "en": "Volkswagen"
+     },
+     {
+      "fr": "Daimler",
+      "en": "Daimler"
+     },
+     {
+      "fr": "Stellantis",
+      "en": "Stellantis"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle marque produit la 'Twingo' ?",
+     "en": "Which brand produces the Twingo?"
+    },
+    "options": [
+     {
+      "fr": "Renault",
+      "en": "Renault"
+     },
+     {
+      "fr": "Peugeot",
+      "en": "Peugeot"
+     },
+     {
+      "fr": "Citroën",
+      "en": "Citroën"
+     },
+     {
+      "fr": "Smart",
+      "en": "Smart"
+     }
+    ],
+    "answer": 0
    }
   ],
   "medium": [
@@ -249,6 +499,256 @@
      {
       "fr": "Royaume-Uni / UK",
       "en": "Royaume-Uni / UK"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel constructeur produit l'A6 ?",
+     "en": "Which maker produces the A6?"
+    },
+    "options": [
+     {
+      "fr": "Audi",
+      "en": "Audi"
+     },
+     {
+      "fr": "BMW",
+      "en": "BMW"
+     },
+     {
+      "fr": "Mercedes",
+      "en": "Mercedes"
+     },
+     {
+      "fr": "Lexus",
+      "en": "Lexus"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel marque produit la Panamera ?",
+     "en": "Which brand makes the Panamera?"
+    },
+    "options": [
+     {
+      "fr": "Porsche",
+      "en": "Porsche"
+     },
+     {
+      "fr": "Audi",
+      "en": "Audi"
+     },
+     {
+      "fr": "BMW",
+      "en": "BMW"
+     },
+     {
+      "fr": "Mercedes",
+      "en": "Mercedes"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle voiture est surnommée 'la Coccinelle' ?",
+     "en": "Which car is nicknamed 'the Beetle'?"
+    },
+    "options": [
+     {
+      "fr": "VW Type 1",
+      "en": "VW Type 1"
+     },
+     {
+      "fr": "VW Golf",
+      "en": "VW Golf"
+     },
+     {
+      "fr": "VW Polo",
+      "en": "VW Polo"
+     },
+     {
+      "fr": "VW Passat",
+      "en": "VW Passat"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel constructeur a produit la 'Méhari' ?",
+     "en": "Who built the Méhari?"
+    },
+    "options": [
+     {
+      "fr": "Citroën",
+      "en": "Citroën"
+     },
+     {
+      "fr": "Renault",
+      "en": "Renault"
+     },
+     {
+      "fr": "Peugeot",
+      "en": "Peugeot"
+     },
+     {
+      "fr": "Simca",
+      "en": "Simca"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel constructeur produit la Tesla Model S ?",
+     "en": "Who makes the Tesla Model S?"
+    },
+    "options": [
+     {
+      "fr": "Tesla",
+      "en": "Tesla"
+     },
+     {
+      "fr": "Lucid",
+      "en": "Lucid"
+     },
+     {
+      "fr": "Rivian",
+      "en": "Rivian"
+     },
+     {
+      "fr": "Polestar",
+      "en": "Polestar"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quelle marque coréenne possède Kia ?",
+     "en": "Which Korean parent owns Kia?"
+    },
+    "options": [
+     {
+      "fr": "Hyundai",
+      "en": "Hyundai"
+     },
+     {
+      "fr": "Samsung",
+      "en": "Samsung"
+     },
+     {
+      "fr": "LG",
+      "en": "LG"
+     },
+     {
+      "fr": "Daewoo",
+      "en": "Daewoo"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel modèle Land Rover est emblématique du off-road britannique ?",
+     "en": "Which Land Rover is the iconic British off-roader?"
+    },
+    "options": [
+     {
+      "fr": "Defender",
+      "en": "Defender"
+     },
+     {
+      "fr": "Discovery",
+      "en": "Discovery"
+     },
+     {
+      "fr": "Freelander",
+      "en": "Freelander"
+     },
+     {
+      "fr": "Evoque",
+      "en": "Evoque"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel constructeur produit la Cayenne ?",
+     "en": "Which maker produces the Cayenne?"
+    },
+    "options": [
+     {
+      "fr": "Porsche",
+      "en": "Porsche"
+     },
+     {
+      "fr": "BMW",
+      "en": "BMW"
+     },
+     {
+      "fr": "Audi",
+      "en": "Audi"
+     },
+     {
+      "fr": "Mercedes",
+      "en": "Mercedes"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pays produit Skoda ?",
+     "en": "Which country produces Skoda?"
+    },
+    "options": [
+     {
+      "fr": "République tchèque",
+      "en": "République tchèque"
+     },
+     {
+      "fr": "Slovaquie",
+      "en": "Slovaquie"
+     },
+     {
+      "fr": "Pologne",
+      "en": "Pologne"
+     },
+     {
+      "fr": "Hongrie",
+      "en": "Hongrie"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel modèle Ford est l'emblème de la voiture américaine populaire ?",
+     "en": "Which Ford epitomizes the American car?"
+    },
+    "options": [
+     {
+      "fr": "Mustang",
+      "en": "Mustang"
+     },
+     {
+      "fr": "F-150",
+      "en": "F-150"
+     },
+     {
+      "fr": "Focus",
+      "en": "Focus"
+     },
+     {
+      "fr": "Fiesta",
+      "en": "Fiesta"
      }
     ],
     "answer": 0
@@ -379,6 +879,256 @@
      }
     ],
     "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel champion de F1 détient le record de titres avec 7 (avec Schumacher) ?",
+     "en": "Who shares the F1 record of 7 titles with Schumacher?"
+    },
+    "options": [
+     {
+      "fr": "Lewis Hamilton",
+      "en": "Lewis Hamilton"
+     },
+     {
+      "fr": "Sebastian Vettel",
+      "en": "Sebastian Vettel"
+     },
+     {
+      "fr": "Alain Prost",
+      "en": "Alain Prost"
+     },
+     {
+      "fr": "Niki Lauda",
+      "en": "Niki Lauda"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel constructeur a remporté le plus de fois les 24 Heures du Mans ?",
+     "en": "Who has the most Le Mans 24h wins?"
+    },
+    "options": [
+     {
+      "fr": "Porsche",
+      "en": "Porsche"
+     },
+     {
+      "fr": "Audi",
+      "en": "Audi"
+     },
+     {
+      "fr": "Ferrari",
+      "en": "Ferrari"
+     },
+     {
+      "fr": "Toyota",
+      "en": "Toyota"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel constructeur a sorti la 'Type 35' (1924) ?",
+     "en": "Who built the Type 35 (1924)?"
+    },
+    "options": [
+     {
+      "fr": "Bugatti",
+      "en": "Bugatti"
+     },
+     {
+      "fr": "Alfa Romeo",
+      "en": "Alfa Romeo"
+     },
+     {
+      "fr": "Mercedes",
+      "en": "Mercedes"
+     },
+     {
+      "fr": "Delahaye",
+      "en": "Delahaye"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "La 'Lancia Stratos' a dominé quel championnat dans les années 70 ?",
+     "en": "Which 70s championship did the Lancia Stratos dominate?"
+    },
+    "options": [
+     {
+      "fr": "Rallye WRC",
+      "en": "Rallye WRC"
+     },
+     {
+      "fr": "F1",
+      "en": "F1"
+     },
+     {
+      "fr": "Le Mans",
+      "en": "Le Mans"
+     },
+     {
+      "fr": "DTM",
+      "en": "DTM"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel constructeur est le plus gros vendeur mondial en 2023 ?",
+     "en": "Which automaker sold the most worldwide in 2023?"
+    },
+    "options": [
+     {
+      "fr": "Toyota",
+      "en": "Toyota"
+     },
+     {
+      "fr": "Volkswagen",
+      "en": "Volkswagen"
+     },
+     {
+      "fr": "Hyundai-Kia",
+      "en": "Hyundai-Kia"
+     },
+     {
+      "fr": "Stellantis",
+      "en": "Stellantis"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel constructeur a créé le moteur 'V12' iconique chez Ferrari ?",
+     "en": "Which Ferrari engineer is associated with the V12?"
+    },
+    "options": [
+     {
+      "fr": "Gioacchino Colombo",
+      "en": "Gioacchino Colombo"
+     },
+     {
+      "fr": "Mauro Forghieri",
+      "en": "Mauro Forghieri"
+     },
+     {
+      "fr": "Aurelio Lampredi",
+      "en": "Aurelio Lampredi"
+     },
+     {
+      "fr": "Enzo Ferrari",
+      "en": "Enzo Ferrari"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel modèle BMW M est sorti en 1986 ?",
+     "en": "Which 1986 BMW M model?"
+    },
+    "options": [
+     {
+      "fr": "M3 (E30)",
+      "en": "M3 (E30)"
+     },
+     {
+      "fr": "M5 (E28)",
+      "en": "M5 (E28)"
+     },
+     {
+      "fr": "M1 (E26)",
+      "en": "M1 (E26)"
+     },
+     {
+      "fr": "M6 (E24)",
+      "en": "M6 (E24)"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel modèle Porsche est appelé 'Widowmaker' ?",
+     "en": "Which Porsche is nicknamed 'Widowmaker'?"
+    },
+    "options": [
+     {
+      "fr": "930 Turbo",
+      "en": "930 Turbo"
+     },
+     {
+      "fr": "959",
+      "en": "959"
+     },
+     {
+      "fr": "Carrera GT",
+      "en": "Carrera GT"
+     },
+     {
+      "fr": "918 Spyder",
+      "en": "918 Spyder"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel constructeur produit la 'Type R' chez Honda ?",
+     "en": "Which model uses the Honda 'Type R' badge?"
+    },
+    "options": [
+     {
+      "fr": "Civic Type R",
+      "en": "Civic Type R"
+     },
+     {
+      "fr": "Accord Type R",
+      "en": "Accord Type R"
+     },
+     {
+      "fr": "S2000 Type R",
+      "en": "S2000 Type R"
+     },
+     {
+      "fr": "Integra (NSX) Type R",
+      "en": "Integra (NSX) Type R"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel modèle italien a remporté le Mille Miglia 1947 ?",
+     "en": "Which Italian car won the 1947 Mille Miglia?"
+    },
+    "options": [
+     {
+      "fr": "Alfa Romeo 8C 2900",
+      "en": "Alfa Romeo 8C 2900"
+     },
+     {
+      "fr": "Ferrari 166",
+      "en": "Ferrari 166"
+     },
+     {
+      "fr": "Maserati A6",
+      "en": "Maserati A6"
+     },
+     {
+      "fr": "Lancia Aurelia",
+      "en": "Lancia Aurelia"
+     }
+    ],
+    "answer": 1
    }
   ],
   "expert": [
@@ -503,6 +1253,256 @@
      {
       "fr": "Audi",
       "en": "Audi"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Qui a inventé la voiture à moteur à combustion (brevet 1886) ?",
+     "en": "Who patented the internal-combustion car (1886)?"
+    },
+    "options": [
+     {
+      "fr": "Karl Benz",
+      "en": "Karl Benz"
+     },
+     {
+      "fr": "Henry Ford",
+      "en": "Henry Ford"
+     },
+     {
+      "fr": "Gottlieb Daimler",
+      "en": "Gottlieb Daimler"
+     },
+     {
+      "fr": "Rudolf Diesel",
+      "en": "Rudolf Diesel"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel modèle Bugatti, sorti en 2005, dépasse 400 km/h ?",
+     "en": "Which 2005 Bugatti exceeds 400 km/h?"
+    },
+    "options": [
+     {
+      "fr": "Veyron",
+      "en": "Veyron"
+     },
+     {
+      "fr": "Chiron",
+      "en": "Chiron"
+     },
+     {
+      "fr": "Divo",
+      "en": "Divo"
+     },
+     {
+      "fr": "EB110",
+      "en": "EB110"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel pilote britannique a 7 titres mondiaux de F1 ?",
+     "en": "Which British driver has 7 F1 titles?"
+    },
+    "options": [
+     {
+      "fr": "Lewis Hamilton",
+      "en": "Lewis Hamilton"
+     },
+     {
+      "fr": "Jackie Stewart",
+      "en": "Jackie Stewart"
+     },
+     {
+      "fr": "Nigel Mansell",
+      "en": "Nigel Mansell"
+     },
+     {
+      "fr": "Jim Clark",
+      "en": "Jim Clark"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel modèle américain est lancé par Henry Ford en 1908 ?",
+     "en": "Which Ford model launched in 1908?"
+    },
+    "options": [
+     {
+      "fr": "Ford T",
+      "en": "Ford T"
+     },
+     {
+      "fr": "Ford Mustang",
+      "en": "Ford Mustang"
+     },
+     {
+      "fr": "Ford Model A",
+      "en": "Ford Model A"
+     },
+     {
+      "fr": "Ford Falcon",
+      "en": "Ford Falcon"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel constructeur a fait faillite en 2009 puis renait via Fiat ?",
+     "en": "Which carmaker went bankrupt in 2009 and was reborn via Fiat?"
+    },
+    "options": [
+     {
+      "fr": "Chrysler",
+      "en": "Chrysler"
+     },
+     {
+      "fr": "GM",
+      "en": "GM"
+     },
+     {
+      "fr": "Ford",
+      "en": "Ford"
+     },
+     {
+      "fr": "Saab",
+      "en": "Saab"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel ingénieur a conçu la McLaren F1 (1992) ?",
+     "en": "Who designed the McLaren F1 (1992)?"
+    },
+    "options": [
+     {
+      "fr": "Gordon Murray",
+      "en": "Gordon Murray"
+     },
+     {
+      "fr": "Adrian Newey",
+      "en": "Adrian Newey"
+     },
+     {
+      "fr": "Peter Stevens",
+      "en": "Peter Stevens"
+     },
+     {
+      "fr": "Frank Stephenson",
+      "en": "Frank Stephenson"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel constructeur français a créé la 4CV en 1946 ?",
+     "en": "Which French maker built the 4CV in 1946?"
+    },
+    "options": [
+     {
+      "fr": "Renault",
+      "en": "Renault"
+     },
+     {
+      "fr": "Citroën",
+      "en": "Citroën"
+     },
+     {
+      "fr": "Peugeot",
+      "en": "Peugeot"
+     },
+     {
+      "fr": "Panhard",
+      "en": "Panhard"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Le moteur 'flat-six' équipe surtout :",
+     "en": "The 'flat-six' powers mostly:"
+    },
+    "options": [
+     {
+      "fr": "Porsche 911",
+      "en": "Porsche 911"
+     },
+     {
+      "fr": "Ferrari 250",
+      "en": "Ferrari 250"
+     },
+     {
+      "fr": "Lamborghini Miura",
+      "en": "Lamborghini Miura"
+     },
+     {
+      "fr": "Aston Martin DB5",
+      "en": "Aston Martin DB5"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel constructeur italien a été racheté par Volkswagen en 1998 ?",
+     "en": "Which Italian maker did VW acquire in 1998?"
+    },
+    "options": [
+     {
+      "fr": "Lamborghini",
+      "en": "Lamborghini"
+     },
+     {
+      "fr": "Ferrari",
+      "en": "Ferrari"
+     },
+     {
+      "fr": "Maserati",
+      "en": "Maserati"
+     },
+     {
+      "fr": "Alfa Romeo",
+      "en": "Alfa Romeo"
+     }
+    ],
+    "answer": 0
+   },
+   {
+    "q": {
+     "fr": "Quel record de vitesse mondial détient la SSC Tuatara (2021) ?",
+     "en": "Which world speed mark does the SSC Tuatara hold (2021)?"
+    },
+    "options": [
+     {
+      "fr": "Voiture de série la plus rapide (contesté)",
+      "en": "Voiture de série la plus rapide (contesté)"
+     },
+     {
+      "fr": "Premier supersonique",
+      "en": "Premier supersonique"
+     },
+     {
+      "fr": "Record du tour Nürburgring",
+      "en": "Record du tour Nürburgring"
+     },
+     {
+      "fr": "Record de Bonneville moto",
+      "en": "Record de Bonneville moto"
      }
     ],
     "answer": 0
