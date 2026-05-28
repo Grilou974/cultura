@@ -7,11 +7,11 @@
   const bottomBar = document.getElementById('bottomBar');
 
   // ---------- State stack for navigation ----------
-  const stack = []; // each entry: { render: () => void, title: string }
+  const stack = [];
 
   function push(entry) {
     stack.push(entry);
-    updateChrome();           // chrome first, so render() can override (e.g. show bottom bar)
+    updateChrome();
     entry.render();
     try { window.scrollTo(0, 0); } catch (_) {}
   }
@@ -30,7 +30,14 @@
     backBtn.classList.toggle('hidden', stack.length <= 1);
     const top = stack[stack.length - 1];
     topTitle.textContent = top?.title || Lang.t('appTitle');
-    bottomBar.classList.add('hidden'); // games re-show via showBottomBar()
+    bottomBar.classList.add('hidden');
+  }
+
+  // Get a possibly theme-overridden mode label
+  function modeLabel(theme, modeId) {
+    const override = theme?.modeLabels?.[modeId];
+    if (override) return Lang.pick(override);
+    return Lang.t('modes.' + modeId);
   }
 
   backBtn.addEventListener('click', pop);
@@ -54,7 +61,7 @@
     deferredInstall = e;
   });
 
-  // ---------- Screens ----------
+  // ---------- Home ----------
   async function renderHome() {
     const themes = await Data.loadThemes();
     let html = `
@@ -73,12 +80,11 @@
 
     html += `<div class="section-title">${Lang.t('chooseTheme')}</div>`;
     html += '<div class="grid">';
-    themes.forEach(t => {
+    themes.forEach((t, i) => {
       html += `
-        <button class="card" data-theme="${t.id}">
+        <button class="card theme-card" data-theme="${t.id}" style="--card-delay:${i * 40}ms">
           <span class="icon">${t.emoji}</span>
           <span class="title">${Lang.pick(t.name)}</span>
-          <span class="sub">${t.starter ? Lang.t('starter') : ''}</span>
         </button>`;
     });
     html += '</div>';
@@ -123,20 +129,18 @@
 
     let html = `<div class="section-title">${Lang.t('chooseMode')}</div>`;
     html += '<div class="grid">';
-    modes.forEach(m => {
+    modes.forEach((m, i) => {
       const available = isModeAvailable(data, m.requires);
+      const label = modeLabel(theme, m.id);
+      const sub = available ? Lang.t('modesSub.' + m.id) : Lang.t('notAvailable');
       html += `
-        <button class="card mode-card" data-mode="${m.id}" ${available ? '' : 'disabled style="opacity:.4"'}>
+        <button class="card mode-card" data-mode="${m.id}" style="--card-delay:${i * 40}ms" ${available ? '' : 'disabled'}>
           <span class="icon">${m.icon}</span>
-          <span class="title">${Lang.t('modes.' + m.id)}</span>
-          <span class="sub">${available ? Lang.t('modesSub.' + m.id) : Lang.t('notAvailable')}</span>
+          <span class="title">${label}</span>
+          <span class="sub">${sub}</span>
         </button>`;
     });
     html += '</div>';
-
-    if (theme.starter) {
-      html += `<p class="muted center" style="margin-top:24px;font-size:13px">${Lang.t('starterDesc')}${theme.id}.json</p>`;
-    }
 
     screen.innerHTML = html;
     screen.querySelectorAll('[data-mode]:not([disabled])').forEach(b => {
@@ -155,31 +159,18 @@
   }
 
   function openMode(theme, data, mode) {
+    const label = modeLabel(theme, mode);
+    const tName = Lang.pick(theme.name);
     if (mode === 'quiz') {
-      push({
-        title: Lang.pick(theme.name) + ' · ' + Lang.t('modes.quiz'),
-        render: () => renderLevelPick(theme, data, 'quiz')
-      });
+      push({ title: `${tName} · ${label}`, render: () => renderLevelPick(theme, data, 'quiz') });
     } else if (mode === 'timeAttack') {
-      push({
-        title: Lang.pick(theme.name) + ' · ' + Lang.t('modes.timeAttack'),
-        render: () => TimeAttack.start(theme, data, { onExit: pop, onHome: goHome })
-      });
+      push({ title: `${tName} · ${label}`, render: () => TimeAttack.start(theme, data, { onExit: pop, onHome: goHome }) });
     } else if (mode === 'trueFalse') {
-      push({
-        title: Lang.pick(theme.name) + ' · ' + Lang.t('modes.trueFalse'),
-        render: () => TrueFalse.start(theme, data, { onExit: pop, onHome: goHome })
-      });
+      push({ title: `${tName} · ${label}`, render: () => TrueFalse.start(theme, data, { onExit: pop, onHome: goHome }) });
     } else if (mode === 'memory') {
-      push({
-        title: Lang.pick(theme.name) + ' · ' + Lang.t('modes.memory'),
-        render: () => Memory.start(theme, data, { onExit: pop, onHome: goHome })
-      });
+      push({ title: `${tName} · ${label}`, render: () => Memory.start(theme, data, { onExit: pop, onHome: goHome }) });
     } else if (mode === 'guessImage') {
-      push({
-        title: Lang.pick(theme.name) + ' · ' + Lang.t('modes.guessImage'),
-        render: () => GuessImage.start(theme, data, { onExit: pop, onHome: goHome })
-      });
+      push({ title: `${tName} · ${label}`, render: () => GuessImage.start(theme, data, { onExit: pop, onHome: goHome }) });
     }
   }
 
@@ -187,11 +178,11 @@
     const levels = ['easy', 'medium', 'hard', 'expert'];
     let html = `<div class="section-title">${Lang.t('chooseLevel')}</div>`;
     html += '<div class="grid">';
-    levels.forEach(lv => {
+    levels.forEach((lv, i) => {
       const count = (data.quiz?.[lv] || []).length;
       const available = count >= 4;
       html += `
-        <button class="card" data-level="${lv}" ${available ? '' : 'disabled style="opacity:.4"'}>
+        <button class="card level-card lv-${lv}" data-level="${lv}" style="--card-delay:${i * 40}ms" ${available ? '' : 'disabled'}>
           <span class="icon">${({ easy:'🟢', medium:'🟡', hard:'🟠', expert:'🔴' })[lv]}</span>
           <span class="title">${Lang.t('levels.' + lv)}</span>
           <span class="sub">${count} questions</span>
@@ -204,7 +195,7 @@
       b.addEventListener('click', () => {
         const lv = b.dataset.level;
         push({
-          title: Lang.pick(theme.name) + ' · ' + Lang.t('levels.' + lv),
+          title: `${Lang.pick(theme.name)} · ${Lang.t('levels.' + lv)}`,
           render: () => Quiz.start(theme, data, lv, { onExit: pop, onHome: goHome })
         });
       });
@@ -213,10 +204,7 @@
 
   function goHome() {
     reset();
-    push({
-      title: Lang.t('appTitle'),
-      render: renderHome
-    });
+    push({ title: Lang.t('appTitle'), render: renderHome });
   }
 
   // ---------- Expose helpers ----------
