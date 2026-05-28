@@ -216,7 +216,6 @@
         <button class="card level-card lv-${lv}" data-level="${lv}" style="--card-delay:${i * 50}ms" ${available ? '' : 'disabled'}>
           <span class="icon">${Icons[levelIcons[lv]]}</span>
           <span class="title">${Lang.t('levels.' + lv)}</span>
-          <span class="sub">${count} questions</span>
         </button>`;
     });
     html += '</div>';

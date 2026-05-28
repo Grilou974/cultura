@@ -29,7 +29,7 @@ const I18N = {
       guessImage: "Devine l'image"
     },
     modesSub: {
-      quiz: '10 questions',
+      quiz: '20 questions',
       timeAttack: '60 sec, max de bonnes réponses',
       trueFalse: 'Réponds le plus vite possible',
       memory: 'Trouve les paires',
@@ -95,7 +95,7 @@ const I18N = {
       guessImage: 'Guess the Image'
     },
     modesSub: {
-      quiz: '10 questions',
+      quiz: '20 questions',
       timeAttack: '60 sec, score as much as possible',
       trueFalse: 'Answer as fast as you can',
       memory: 'Find matching pairs',
