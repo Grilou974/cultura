@@ -1,4 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect x="26" y="26" width="460" height="460" rx="80" fill="#0B0E14"/>
-  <text x="256" y="296" text-anchor="middle" font-family="Georgia, serif" font-weight="bold" font-size="270" fill="#B89968" font-style="italic">C</text>
+  <rect width="512" height="512" rx="96" fill="#F5F0E5"/>
+  <!-- C: hand-drawn path for italic serif look -->
+  <path d="M 380 145
+           C 360 110, 305 95, 256 95
+           C 165 95, 95 165, 95 256
+           C 95 347, 165 417, 256 417
+           C 305 417, 360 402, 380 367
+           L 360 350
+           C 340 380, 295 395, 256 395
+           C 180 395, 120 335, 120 256
+           C 120 177, 180 117, 256 117
+           C 295 117, 340 132, 360 162 Z"
+        fill="#0B0E14"/>
+  <!-- Greek column (gold) inside the C -->
+  <g fill="#B89968" transform="translate(190, 200)">
+    <!-- capital -->
+    <rect x="-2" y="22" width="74" height="6"/>
+    <path d="M2 16 Q35 9 68 16 v6 H2 z"/>
+    <circle cx="8"  cy="14" r="9"/><circle cx="8"  cy="14" r="4" fill="#F5F0E5"/>
+    <circle cx="62" cy="14" r="9"/><circle cx="62" cy="14" r="4" fill="#F5F0E5"/>
+    <!-- shaft -->
+    <rect x="10" y="30" width="50" height="108"/>
+    <line x1="20" y1="34" x2="20" y2="134" stroke="#F5F0E5" stroke-width="2"/>
+    <line x1="30" y1="34" x2="30" y2="134" stroke="#F5F0E5" stroke-width="2"/>
+    <line x1="40" y1="34" x2="40" y2="134" stroke="#F5F0E5" stroke-width="2"/>
+    <line x1="50" y1="34" x2="50" y2="134" stroke="#F5F0E5" stroke-width="2"/>
+    <!-- base -->
+    <rect x="8" y="140" width="54" height="6"/>
+    <ellipse cx="35" cy="150" rx="34" ry="5"/>
+    <rect x="-2" y="155" width="74" height="6"/>
+  </g>
+  <!-- 4-point star -->
+  <g transform="translate(330, 270)" fill="#B89968">
+    <path d="M0 -56 C 7 -16, 16 -7, 56 0 C 16 7, 7 16, 0 56 C -7 16, -16 7, -56 0 C -16 -7, -7 -16, 0 -56 Z"/>
+  </g>
 </svg>
