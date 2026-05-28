@@ -195,6 +195,30 @@ body::after {
   letter-spacing: 0.01em;
 }
 
+
+.hero-logo {
+  display: block;
+  width: 100%;
+  max-width: 480px;
+  height: auto;
+  margin: 0 auto 18px;
+  filter: drop-shadow(0 12px 36px rgba(11, 14, 20, 0.10));
+  animation: heroFade 1s cubic-bezier(.2, .9, .25, 1.05) both;
+}
+@keyframes heroFade {
+  from { opacity: 0; transform: translateY(14px) scale(.96); }
+  to   { opacity: 1; transform: translateY(0)   scale(1);   }
+}
+.hero-tag {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-align: center;
+}
+
 /* ---------- Section title (gold line + label) ---------- */
 .section-title {
   margin: 32px 0 18px;
