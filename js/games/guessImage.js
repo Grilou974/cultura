@@ -29,7 +29,7 @@ const GuessImage = (function () {
           <span>${Lang.t('score')} : ${score}</span>
         </div>
         <div class="q-progress"><div style="width:${(idx / pool.length) * 100}%"></div></div>
-        <div class="question"><img class="flag-img" src="${src}" alt="" loading="lazy" /></div>
+        <div class="question"><img class="flag-img" src="${src}" alt="" /></div>
         <div class="answers">
           ${opts.map((o, i) => `
             <button class="answer" data-i="${i}">

@@ -24,7 +24,7 @@ const TimeAttack = (function () {
       let qHtml = Lang.pick(q.q);
       if (q.image) {
         const imgUrl = `https://flagcdn.com/w320/${q.image}.png`;
-        qHtml = `<img class="flag-img" src="${imgUrl}" alt="" loading="lazy" />`;
+        qHtml = `<img class="flag-img" src="${imgUrl}" alt="" />`;
       }
 
       CulturaApp.screen.innerHTML = `

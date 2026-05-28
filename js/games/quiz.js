@@ -20,7 +20,7 @@ const Quiz = (function () {
       // Si la question a une image (drapeau)
       if (q.image) {
         const imgUrl = `https://flagcdn.com/w320/${q.image}.png`;
-        qHtml = `<img class="flag-img" src="${imgUrl}" alt="" loading="lazy" />`;
+        qHtml = `<img class="flag-img" src="${imgUrl}" alt="" />`;
       }
 
       const html = `
