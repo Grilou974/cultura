@@ -1,14 +1,14 @@
 [
-  { "id": "flags",        "emoji": "🏳️", "name": { "fr": "Drapeaux du monde", "en": "World Flags" } },
-  { "id": "cinema",       "emoji": "🎬", "name": { "fr": "Cinéma",            "en": "Cinema"      },
+  { "id": "flags",        "icon": "flag",       "name": { "fr": "Drapeaux du monde", "en": "World Flags" } },
+  { "id": "cinema",       "icon": "film",       "name": { "fr": "Cinéma",            "en": "Cinema"      },
     "modeLabels": {
       "guessImage": { "fr": "Devine l'acteur", "en": "Guess the actor" }
     }
   },
-  { "id": "droit",        "emoji": "⚖️", "name": { "fr": "Droit",             "en": "Law"         } },
-  { "id": "jeuxvideos",   "emoji": "🎮", "name": { "fr": "Jeux vidéo",        "en": "Video Games" } },
-  { "id": "litterature",  "emoji": "📚", "name": { "fr": "Littérature",       "en": "Literature"  } },
-  { "id": "voitures",     "emoji": "🚗", "name": { "fr": "Voitures",          "en": "Cars"        } },
-  { "id": "sport",        "emoji": "⚽", "name": { "fr": "Sport",             "en": "Sport"       } },
-  { "id": "histoire",     "emoji": "🏛️", "name": { "fr": "Histoire",          "en": "History"     } }
+  { "id": "droit",        "icon": "scales",     "name": { "fr": "Droit",             "en": "Law"         } },
+  { "id": "jeuxvideos",   "icon": "controller", "name": { "fr": "Jeux vidéo",        "en": "Video Games" } },
+  { "id": "litterature",  "icon": "book",       "name": { "fr": "Littérature",       "en": "Literature"  } },
+  { "id": "voitures",     "icon": "car",        "name": { "fr": "Voitures",          "en": "Cars"        } },
+  { "id": "sport",        "icon": "trophy",     "name": { "fr": "Sport",             "en": "Sport"       } },
+  { "id": "histoire",     "icon": "monument",   "name": { "fr": "Histoire",          "en": "History"     } }
 ]
