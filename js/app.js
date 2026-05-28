@@ -6,6 +6,10 @@
   const topTitle = document.getElementById('topTitle');
   const bottomBar = document.getElementById('bottomBar');
 
+  // Inject icons into static chrome buttons
+  backBtn.innerHTML = Icons.chevronLeft;
+  langBtn.innerHTML = `<span class="lang-glyph">${Icons.globe}</span><span class="lang-text">${Lang.current.toUpperCase()}</span>`;
+
   // ---------- State stack for navigation ----------
   const stack = [];
 
@@ -33,7 +37,6 @@
     bottomBar.classList.add('hidden');
   }
 
-  // Get a possibly theme-overridden mode label
   function modeLabel(theme, modeId) {
     const override = theme?.modeLabels?.[modeId];
     if (override) return Lang.pick(override);
@@ -43,7 +46,7 @@
   backBtn.addEventListener('click', pop);
   langBtn.addEventListener('click', () => {
     Lang.set(Lang.current === 'fr' ? 'en' : 'fr');
-    langBtn.textContent = Lang.current.toUpperCase();
+    langBtn.querySelector('.lang-text').textContent = Lang.current.toUpperCase();
     document.documentElement.lang = Lang.current;
     const top = stack[stack.length - 1];
     if (top) {
@@ -51,7 +54,6 @@
       top.render();
     }
   });
-  langBtn.textContent = Lang.current.toUpperCase();
   document.documentElement.lang = Lang.current;
 
   // ---------- PWA Install prompt ----------
@@ -66,25 +68,31 @@
     const themes = await Data.loadThemes();
     let html = `
       <div class="hero">
+        <div class="hero-eyebrow">${Lang.t('eyebrow') || 'Mini-jeux culturels'}</div>
         <h2>${Lang.t('appTitle')}</h2>
+        <div class="hero-rule"></div>
         <p>${Lang.t('tagline')}</p>
       </div>`;
 
     if (deferredInstall) {
       html += `
         <div class="install-prompt">
-          <span>📱 ${Lang.t('install')}</span>
+          <span class="ip-icon">${Icons.download}</span>
+          <span class="ip-text">${Lang.t('install')}</span>
           <button class="btn" id="installBtn">${Lang.t('installBtn')}</button>
         </div>`;
     }
 
-    html += `<div class="section-title">${Lang.t('chooseTheme')}</div>`;
+    html += `<div class="section-title"><span>${Lang.t('chooseTheme')}</span></div>`;
     html += '<div class="grid">';
     themes.forEach((t, i) => {
+      const iconKey = t.icon || t.emoji || 'sparkle';
+      const iconSvg = Icons[iconKey] || Icons.sparkle;
       html += `
-        <button class="card theme-card" data-theme="${t.id}" style="--card-delay:${i * 40}ms">
-          <span class="icon">${t.emoji}</span>
+        <button class="card theme-card" data-theme="${t.id}" style="--card-delay:${i * 50}ms">
+          <span class="icon">${iconSvg}</span>
           <span class="title">${Lang.pick(t.name)}</span>
+          <span class="card-arrow">${Icons.chevronLeft.replace('<path d="M15 6l-6 6 6 6"/>', '<path d="M9 6l6 6-6 6"/>')}</span>
         </button>`;
     });
     html += '</div>';
@@ -120,22 +128,22 @@
     const data = await Data.loadTheme(theme.id);
 
     const modes = [
-      { id: 'quiz',       icon: '🎯', requires: 'quiz' },
-      { id: 'timeAttack', icon: '⏱️', requires: 'quiz' },
-      { id: 'trueFalse',  icon: '✅', requires: 'trueFalse' },
-      { id: 'memory',     icon: '🧩', requires: 'memory' },
-      { id: 'guessImage', icon: '🖼️', requires: 'guessImage' }
+      { id: 'quiz',       icon: 'target',  requires: 'quiz' },
+      { id: 'timeAttack', icon: 'clock',   requires: 'quiz' },
+      { id: 'trueFalse',  icon: 'check',   requires: 'trueFalse' },
+      { id: 'memory',     icon: 'puzzle',  requires: 'memory' },
+      { id: 'guessImage', icon: 'image',   requires: 'guessImage' }
     ];
 
-    let html = `<div class="section-title">${Lang.t('chooseMode')}</div>`;
+    let html = `<div class="section-title"><span>${Lang.t('chooseMode')}</span></div>`;
     html += '<div class="grid">';
     modes.forEach((m, i) => {
       const available = isModeAvailable(data, m.requires);
       const label = modeLabel(theme, m.id);
       const sub = available ? Lang.t('modesSub.' + m.id) : Lang.t('notAvailable');
       html += `
-        <button class="card mode-card" data-mode="${m.id}" style="--card-delay:${i * 40}ms" ${available ? '' : 'disabled'}>
-          <span class="icon">${m.icon}</span>
+        <button class="card mode-card" data-mode="${m.id}" style="--card-delay:${i * 50}ms" ${available ? '' : 'disabled'}>
+          <span class="icon">${Icons[m.icon]}</span>
           <span class="title">${label}</span>
           <span class="sub">${sub}</span>
         </button>`;
@@ -176,14 +184,15 @@
 
   function renderLevelPick(theme, data, mode) {
     const levels = ['easy', 'medium', 'hard', 'expert'];
-    let html = `<div class="section-title">${Lang.t('chooseLevel')}</div>`;
+    const levelIcons = { easy: 'level1', medium: 'level2', hard: 'level3', expert: 'level4' };
+    let html = `<div class="section-title"><span>${Lang.t('chooseLevel')}</span></div>`;
     html += '<div class="grid">';
     levels.forEach((lv, i) => {
       const count = (data.quiz?.[lv] || []).length;
       const available = count >= 4;
       html += `
-        <button class="card level-card lv-${lv}" data-level="${lv}" style="--card-delay:${i * 40}ms" ${available ? '' : 'disabled'}>
-          <span class="icon">${({ easy:'🟢', medium:'🟡', hard:'🟠', expert:'🔴' })[lv]}</span>
+        <button class="card level-card lv-${lv}" data-level="${lv}" style="--card-delay:${i * 50}ms" ${available ? '' : 'disabled'}>
+          <span class="icon">${Icons[levelIcons[lv]]}</span>
           <span class="title">${Lang.t('levels.' + lv)}</span>
           <span class="sub">${count} questions</span>
         </button>`;
