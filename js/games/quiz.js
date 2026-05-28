@@ -29,6 +29,7 @@ const Quiz = (function () {
           <span>${Lang.t('score')} : ${score}</span>
         </div>
         <div class="q-progress"><div style="width:${(idx / questions.length) * 100}%"></div></div>
+        <div id="quizChar" class="char-wrap mood-idle"></div>
         <div class="question">${qHtml}</div>
         <div class="answers">
           ${shuffled.map((opt, i) => `
@@ -40,6 +41,7 @@ const Quiz = (function () {
         </div>
       `;
       CulturaApp.screen.innerHTML = html;
+      Character.mount(document.getElementById('quizChar'), 'idle');
       CulturaApp.screen.querySelectorAll('.answer').forEach((b, i) => {
         b.addEventListener('click', () => answer(i, correctIdx));
       });
@@ -54,6 +56,8 @@ const Quiz = (function () {
       });
       const isCorrect = picked === correctIdx;
       if (isCorrect) score++;
+      CulturaApp.scoreAnswer(isCorrect);
+      Character.play(document.getElementById('quizChar'), isCorrect ? 'happy' : 'sad');
       Feedback.show(isCorrect);
       setTimeout(() => {
         idx++;
@@ -77,7 +81,7 @@ const Quiz = (function () {
           <div class="stats">${Math.round(ratio * 100)}%</div>
           <div class="btn-row">
             <button class="btn secondary" id="r-home">${Lang.t('home')}</button>
-            <button class="btn" id="r-again">${Lang.t('playAgain')}</button>
+            <button class="btn" id="r-again">${Lang.t('continue')}</button>
           </div>
         </div>
       `;

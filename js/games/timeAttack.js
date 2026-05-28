@@ -28,6 +28,7 @@ const TimeAttack = (function () {
       }
 
       CulturaApp.screen.innerHTML = `
+        <div id="quizChar" class="char-wrap mood-idle"></div>
         <div class="question">${qHtml}</div>
         <div class="answers">
           ${shuffled.map((opt, i) => `
@@ -56,6 +57,8 @@ const TimeAttack = (function () {
       });
       const isCorrect = picked === correctIdx;
       if (isCorrect) score++; else wrong++;
+      CulturaApp.scoreAnswer(isCorrect);
+      Character.play(document.getElementById('quizChar'), isCorrect ? 'happy' : 'sad');
       Feedback.show(isCorrect);
       updateBar();
       setTimeout(() => {
@@ -95,7 +98,7 @@ const TimeAttack = (function () {
           <div class="stats">${score} ${Lang.t('correctAnswers')} · ${wrong} ✗</div>
           <div class="btn-row">
             <button class="btn secondary" id="r-home">${Lang.t('home')}</button>
-            <button class="btn" id="r-again">${Lang.t('playAgain')}</button>
+            <button class="btn" id="r-again">${Lang.t('continue')}</button>
           </div>
         </div>
       `;

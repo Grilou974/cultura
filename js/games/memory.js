@@ -83,7 +83,7 @@ const Memory = (function () {
           <div class="stats">${attempts} essais · ${secs}${Lang.t('seconds')}</div>
           <div class="btn-row">
             <button class="btn secondary" id="r-home">${Lang.t('home')}</button>
-            <button class="btn" id="r-again">${Lang.t('playAgain')}</button>
+            <button class="btn" id="r-again">${Lang.t('continue')}</button>
           </div>
         </div>
       `;

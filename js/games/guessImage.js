@@ -29,6 +29,7 @@ const GuessImage = (function () {
           <span>${Lang.t('score')} : ${score}</span>
         </div>
         <div class="q-progress"><div style="width:${(idx / pool.length) * 100}%"></div></div>
+        <div id="quizChar" class="char-wrap mood-idle"></div>
         <div class="question"><img class="flag-img" src="${src}" alt="" /></div>
         <div class="answers">
           ${opts.map((o, i) => `
@@ -39,6 +40,7 @@ const GuessImage = (function () {
           `).join('')}
         </div>
       `;
+      Character.mount(document.getElementById('quizChar'), 'idle');
       locked = false;
       CulturaApp.screen.querySelectorAll('.answer').forEach((b, i) => {
         b.addEventListener('click', () => answer(i, correctIdx));
@@ -56,6 +58,8 @@ const GuessImage = (function () {
       });
       const isCorrect = picked === correctIdx;
       if (isCorrect) score++;
+      CulturaApp.scoreAnswer(isCorrect);
+      Character.play(document.getElementById('quizChar'), isCorrect ? 'happy' : 'sad');
       Feedback.show(isCorrect);
       setTimeout(() => { idx++; renderQ(); }, 1100);
     }
@@ -76,7 +80,7 @@ const GuessImage = (function () {
           <div class="stats">${Math.round(ratio * 100)}%</div>
           <div class="btn-row">
             <button class="btn secondary" id="r-home">${Lang.t('home')}</button>
-            <button class="btn" id="r-again">${Lang.t('playAgain')}</button>
+            <button class="btn" id="r-again">${Lang.t('continue')}</button>
           </div>
         </div>
       `;
