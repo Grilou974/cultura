@@ -1,11 +1,12 @@
 // Service worker pour Cultura — cache offline simple
-const CACHE = 'cultura-v4';
+const CACHE = 'cultura-v5';
 const PRECACHE = [
   './',
   './index.html',
   './manifest.json',
   './css/style.css',
   './js/app.js',
+  './js/icons.js',
   './js/i18n.js',
   './js/data.js',
   './js/games/quiz.js',
