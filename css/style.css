@@ -969,3 +969,132 @@ body::after {
 .skin-card .skin-btn.disabled { opacity: .5; cursor: not-allowed; }
 .skin-card .skin-btn.disabled:hover { background: var(--surface-2); color: var(--ink); border-color: var(--line-2); }
 .skin-card .skin-btn.is-equipped { background: var(--gold); color: var(--surface); border-color: var(--gold); }
+
+/* ---------- Richer mascot animations ---------- */
+.char-wrap {
+  width: 110px;
+  height: 120px;
+}
+.char-svg { overflow: visible; }
+.char-body-group { transform-origin: 50% 95%; }
+
+/* Idle: slight floating + slow breathing */
+.char-wrap.mood-idle .char-body-group { animation: charFloat 3.4s ease-in-out infinite; }
+@keyframes charFloat {
+  0%, 100% { transform: translateY(0) scale(1, 1); }
+  50%      { transform: translateY(-3px) scale(1.02, 0.98); }
+}
+.char-wrap.mood-idle .char-shadow { animation: charShadow 3.4s ease-in-out infinite; transform-origin: center; }
+@keyframes charShadow {
+  0%, 100% { transform: scale(1); opacity: 0.18; }
+  50%      { transform: scale(0.85); opacity: 0.10; }
+}
+
+/* Idle: blinking */
+.char-wrap.mood-idle .char-eye-left,
+.char-wrap.mood-idle .char-eye-right {
+  transform-origin: center;
+  animation: charBlink 5s infinite;
+}
+@keyframes charBlink {
+  0%, 92%, 100% { transform: scaleY(1); }
+  94%, 98%      { transform: scaleY(0.1); }
+}
+
+/* Antenna: gentle sway, glows brighter when happy */
+.char-antenna { transform-origin: 50px 14px; animation: antennaSway 2.8s ease-in-out infinite; }
+@keyframes antennaSway {
+  0%, 100% { transform: translate(50px, 10px) rotate(-6deg); }
+  50%      { transform: translate(50px, 10px) rotate(6deg); }
+}
+.char-wrap.mood-happy .char-antenna {
+  filter: drop-shadow(0 0 10px #D4AF37) drop-shadow(0 0 18px rgba(212,175,55,0.6));
+  animation: antennaSwayFast 0.5s ease-in-out 2;
+}
+@keyframes antennaSwayFast {
+  0%, 100% { transform: translate(50px, 10px) rotate(-14deg); }
+  50%      { transform: translate(50px, 10px) rotate(14deg); }
+}
+
+/* Happy: body bounces, squashes & stretches with overshoot */
+.char-wrap.anim-bounce .char-body-group {
+  animation: charBounce 1.15s cubic-bezier(.18, 1.5, .35, 1.1);
+}
+@keyframes charBounce {
+  0%   { transform: translateY(0) scale(1, 1); }
+  10%  { transform: translateY(2px) scale(1.12, 0.86); }
+  30%  { transform: translateY(-22px) scale(0.9, 1.15); }
+  55%  { transform: translateY(0) scale(1.08, 0.92); }
+  70%  { transform: translateY(-8px) scale(0.96, 1.04); }
+  100% { transform: translateY(0) scale(1); }
+}
+
+/* Sad: droop, lean forward, slight wobble */
+.char-wrap.anim-droop .char-body-group {
+  animation: charDroop 1.2s ease-out;
+  transform-origin: 50% 90%;
+}
+@keyframes charDroop {
+  0%   { transform: translateY(0) rotate(0); }
+  20%  { transform: translateY(2px) rotate(-3deg); }
+  45%  { transform: translateY(6px) rotate(4deg); }
+  70%  { transform: translateY(8px) rotate(-2deg); }
+  100% { transform: translateY(5px) rotate(0); }
+}
+
+/* Tear */
+.char-tear { animation: tearFall 1.1s ease-in forwards; transform-origin: 40px 60px; }
+@keyframes tearFall {
+  0%   { opacity: 0; transform: translateY(-2px) scale(0.6); }
+  20%  { opacity: 1; transform: translateY(0) scale(1); }
+  100% { opacity: 0; transform: translateY(20px) scale(0.8); }
+}
+
+/* Hands wave (only present when happy) */
+.char-hands { transform-origin: 50% 60%; }
+.char-hand-l {
+  transform-origin: 14px 60px;
+  animation: handWaveL 0.35s ease-in-out 3 alternate;
+}
+.char-hand-r {
+  transform-origin: 86px 60px;
+  animation: handWaveR 0.35s ease-in-out 3 alternate;
+}
+@keyframes handWaveL {
+  from { transform: translateY(0) rotate(-10deg); }
+  to   { transform: translateY(-6px) rotate(-30deg); }
+}
+@keyframes handWaveR {
+  from { transform: translateY(0) rotate(10deg); }
+  to   { transform: translateY(-6px) rotate(30deg); }
+}
+
+/* Sparkles fly outward */
+.char-sparkles {
+  transform-origin: 50px 58px;
+}
+.char-sparkles .spark {
+  transform-origin: 50px 58px;
+  animation: sparkFly 0.9s cubic-bezier(.2, 0.8, .3, 1) forwards;
+  animation-delay: var(--d, 0ms);
+  opacity: 0;
+}
+@keyframes sparkFly {
+  0%   { transform: translate(50px, 58px) rotate(var(--ang)) translateY(0) scale(0.4); opacity: 0; }
+  20%  { opacity: 1; }
+  80%  { opacity: 1; transform: translate(50px, 58px) rotate(var(--ang)) translateY(-32px) scale(1.4); }
+  100% { transform: translate(50px, 58px) rotate(var(--ang)) translateY(-42px) scale(0.6); opacity: 0; }
+}
+
+/* Sad: subtle color desaturation on body */
+.char-wrap.mood-sad .char-body { filter: saturate(0.65) brightness(0.95); }
+
+/* Happy: subtle aura pulse */
+.char-wrap.mood-happy circle[fill="url(#glowGrad)"] {
+  animation: auraPulse 1.2s ease-out;
+}
+@keyframes auraPulse {
+  0%   { opacity: 0; transform-origin: 50px 60px; transform: scale(0.7); }
+  35%  { opacity: 1; transform: scale(1.05); }
+  100% { opacity: 0; transform: scale(1.2); }
+}
