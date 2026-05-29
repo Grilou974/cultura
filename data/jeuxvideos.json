@@ -1612,45 +1612,24 @@
  },
  "guessImage": [
   {
-   "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/5c/Mario_by_Shigehisa_Nakaue.png",
    "answer": {
     "fr": "Super Mario Bros.",
     "en": "Super Mario Bros."
    }
   },
   {
-   "image": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/Link_%28Hyrule_Historia%29.png",
    "answer": {
-    "fr": "Zelda: Breath of the Wild",
-    "en": "Zelda: Breath of the Wild"
+    "fr": "The Legend of Zelda",
+    "en": "The Legend of Zelda"
    }
   },
   {
-   "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Pok%C3%A9mon_Pikachu_art.png",
    "answer": {
-    "fr": "GTA V",
-    "en": "GTA V"
-   }
-  },
-  {
-   "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg",
-   "answer": {
-    "fr": "The Witcher 3",
-    "en": "The Witcher 3"
-   }
-  },
-  {
-   "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg",
-   "answer": {
-    "fr": "Red Dead Redemption 2",
-    "en": "Red Dead Redemption 2"
-   }
-  },
-  {
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tetris_logo_2019.svg/330px-Tetris_logo_2019.svg.png",
-   "answer": {
-    "fr": "Tetris",
-    "en": "Tetris"
+    "fr": "Pokémon",
+    "en": "Pokémon"
    }
   },
   {
@@ -1661,59 +1640,150 @@
    }
   },
   {
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sonic_The_Hedgehog.svg/330px-Sonic_The_Hedgehog.svg.png",
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sonic_modern_and_classic_designs.png/330px-Sonic_modern_and_classic_designs.png",
    "answer": {
-    "fr": "Sonic",
-    "en": "Sonic"
+    "fr": "Sonic the Hedgehog",
+    "en": "Sonic the Hedgehog"
    }
   },
   {
-   "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Street_Fighter_Logo.png",
-   "answer": {
-    "fr": "Street Fighter",
-    "en": "Street Fighter"
-   }
-  },
-  {
-   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Mortal_Kombat_Logo.svg/330px-Mortal_Kombat_Logo.svg.png",
-   "answer": {
-    "fr": "Mortal Kombat",
-    "en": "Mortal Kombat"
-   }
-  },
-  {
-   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Tomb_Raider_Logo_2022.png/330px-Tomb_Raider_Logo_2022.png",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a8/LaraCroftInfobox.png",
    "answer": {
     "fr": "Tomb Raider",
     "en": "Tomb Raider"
    }
   },
   {
-   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Assassin%27s_Creed_Logo.svg/330px-Assassin%27s_Creed_Logo.svg.png",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/2f/Kratos_PS4.png",
+   "answer": {
+    "fr": "God of War",
+    "en": "God of War"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/d/d2/MGS2_Solid_Snake.png",
+   "answer": {
+    "fr": "Metal Gear",
+    "en": "Metal Gear"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/01/Nathan_Drake_Uc4_full_body_shot.png",
+   "answer": {
+    "fr": "Uncharted",
+    "en": "Uncharted"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Ezio_Auditore_da_Firenze.png",
    "answer": {
     "fr": "Assassin's Creed",
     "en": "Assassin's Creed"
    }
   },
   {
-   "image": "https://upload.wikimedia.org/wikipedia/en/6/68/Bloodborne_Cover_Wallpaper.jpg",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Geralt.jpg/330px-Geralt.jpg",
    "answer": {
-    "fr": "Bloodborne",
-    "en": "Bloodborne"
+    "fr": "The Witcher",
+    "en": "The Witcher"
    }
   },
   {
-   "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/IAT_Crash_Bandicoot.png",
    "answer": {
-    "fr": "Elden Ring",
-    "en": "Elden Ring"
+    "fr": "Crash Bandicoot",
+    "en": "Crash Bandicoot"
    }
   },
   {
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/League_of_Legends_2019_vector.svg/330px-League_of_Legends_2019_vector.svg.png",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Cloud_Strife.png",
    "answer": {
-    "fr": "League of Legends",
-    "en": "League of Legends"
+    "fr": "Final Fantasy",
+    "en": "Final Fantasy"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/MK1ScorpionRender.png",
+   "answer": {
+    "fr": "Mortal Kombat",
+    "en": "Mortal Kombat"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/Doom_Slayer.png",
+   "answer": {
+    "fr": "Doom",
+    "en": "Doom"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Bowser_by_Shigehisa_Nakaue.png/330px-Bowser_by_Shigehisa_Nakaue.png",
+   "answer": {
+    "fr": "Super Mario Bros.",
+    "en": "Super Mario Bros."
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/1/16/Princess_Peach_Stock_Art.png",
+   "answer": {
+    "fr": "Super Mario Bros.",
+    "en": "Super Mario Bros."
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Samus_Aran.png",
+   "answer": {
+    "fr": "Metroid",
+    "en": "Metroid"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Logo_for_Bayonetta.png/330px-Logo_for_Bayonetta.png",
+   "answer": {
+    "fr": "Bayonetta",
+    "en": "Bayonetta"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/54/Marcus_Fenix_%28character%29.png",
+   "answer": {
+    "fr": "Gears of War",
+    "en": "Gears of War"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Dante_%28DMC%29.png",
+   "answer": {
+    "fr": "Devil May Cry",
+    "en": "Devil May Cry"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ktreewnames.png/330px-Ktreewnames.png",
+   "answer": {
+    "fr": "Final Fantasy VII",
+    "en": "Final Fantasy VII"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/61/Tifa_Lockhart_art.png",
+   "answer": {
+    "fr": "Final Fantasy VII",
+    "en": "Final Fantasy VII"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/42/Master_chief_halo_infinite.png",
+   "answer": {
+    "fr": "Halo",
+    "en": "Halo"
+   }
+  },
+  {
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/50/RyuStreetFighterTwoHadoken.png",
+   "answer": {
+    "fr": "Street Fighter",
+    "en": "Street Fighter"
    }
   }
  ]
