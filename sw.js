@@ -1,5 +1,5 @@
 // Service worker pour Cultura — cache offline simple
-const CACHE = 'cultoko-v11';
+const CACHE = 'cultoko-v12';
 const PRECACHE = [
   './',
   './index.html',
@@ -8,6 +8,7 @@ const PRECACHE = [
   './js/app.js',
   './js/utils.js',
   './js/icons.js',
+  './js/auth.js',
   './js/bank.js',
   './js/character.js',
   './js/i18n.js',
