@@ -5,14 +5,14 @@ const Data = {
 
   async loadThemes() {
     if (this.themes) return this.themes;
-    const res = await fetch('data/themes.json?v=10');
+    const res = await fetch('data/themes.json?v=11');
     this.themes = await res.json();
     return this.themes;
   },
 
   async loadTheme(id) {
     if (this.cache[id]) return this.cache[id];
-    const res = await fetch(`data/${id}.json?v=10`);
+    const res = await fetch(`data/${id}.json?v=11`);
     const data = await res.json();
     this.cache[id] = data;
     return data;
