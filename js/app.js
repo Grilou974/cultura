@@ -28,6 +28,22 @@
   if (bankBadge) {
     bankBadge.addEventListener('click', () => openShop());
   }
+  // Profile button in topbar
+  const profileBtn = document.getElementById('profileBtn');
+  function renderProfileBtn() {
+    if (!profileBtn) return;
+    const u = Auth.getUser();
+    if (u && u.picture) {
+      profileBtn.innerHTML = `<img class="profile-avatar" src="${u.picture}" alt="" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'profile-initial',textContent:'${(u.name||'?')[0].toUpperCase()}'}))" />`;
+    } else if (u) {
+      profileBtn.innerHTML = `<span class="profile-initial">${(u.name||'?')[0].toUpperCase()}</span>`;
+    } else {
+      profileBtn.innerHTML = Icons.user || Icons.sparkle;
+    }
+  }
+  renderProfileBtn();
+  Auth.onChange(() => renderProfileBtn());
+  if (profileBtn) profileBtn.addEventListener('click', () => openProfile());
   // Public hook for games to call when an answer is given
   window.CulturaApp = window.CulturaApp || {};
   window.CulturaApp.scoreAnswer = function (isCorrect) {
@@ -231,6 +247,80 @@
     });
   }
 
+  // ---------- Profile screen ----------
+  function openProfile() {
+    push({ title: Lang.t('profileTitle'), render: renderProfile });
+  }
+  function renderProfile() {
+    const u = Auth.getUser();
+    let html = '';
+    if (u) {
+      const initial = (u.name || '?')[0].toUpperCase();
+      const picHtml = u.picture
+        ? `<img class="profile-big-avatar" src="${u.picture}" alt="" />`
+        : `<div class="profile-big-avatar profile-big-initial">${initial}</div>`;
+      html = `
+        <div class="profile-screen">
+          ${picHtml}
+          <h2 class="profile-name">${u.name || ''}</h2>
+          ${u.email ? `<p class="profile-email">${u.email}</p>` : ''}
+          <p class="profile-provider muted">${u.provider === 'google' ? 'Google' : Lang.t('profile') + ' local'}</p>
+          <div class="profile-stats">
+            <div class="profile-stat"><span class="ps-num">${Bank.getPoints()}</span><span class="ps-label">${Lang.t('points')}</span></div>
+            <div class="profile-stat"><span class="ps-num">${Bank.getCorrect()}</span><span class="ps-label">${Lang.current === 'fr' ? 'bonnes réponses' : 'correct'}</span></div>
+            <div class="profile-stat"><span class="ps-num">${Bank.ownedSkins().length}</span><span class="ps-label">skins</span></div>
+          </div>
+          <p class="muted center" style="margin: 18px 0 24px; font-size: 12px;">${Lang.t('syncNote')}</p>
+          <button class="btn secondary" id="signOutBtn">${Lang.t('signOutBtn')}</button>
+        </div>`;
+    } else {
+      html = `
+        <div class="profile-screen">
+          <div class="profile-big-avatar profile-big-initial">?</div>
+          <h2 class="profile-name">${Lang.t('signInTitle')}</h2>
+          <p class="profile-email muted">${Lang.t('signInDesc')}</p>
+          <div class="auth-google" id="googleBtnArea">
+            ${Auth.isGoogleEnabled() ? '' : `<button class="btn google-fake" id="googleHelp"><span class="g-icon">${Icons.globe}</span>${Lang.t('signInGoogle')}</button><p class="muted center" style="font-size: 11px; margin-top: 6px;">${Lang.t('signInGoogleHint')}</p>`}
+          </div>
+          <div class="auth-divider"><span>${Lang.t('signInManual')}</span></div>
+          <form id="manualSignInForm" class="auth-form">
+            <input type="text"  id="signInName"  placeholder="${Lang.t('namePlaceholder')}"  required maxlength="30" />
+            <input type="email" id="signInEmail" placeholder="${Lang.t('emailPlaceholder')}" maxlength="80" />
+            <button type="submit" class="btn">${Lang.t('signInBtn')}</button>
+          </form>
+        </div>`;
+    }
+    screen.innerHTML = html;
+
+    // Wire up actions
+    const signOut = document.getElementById('signOutBtn');
+    if (signOut) signOut.addEventListener('click', () => { Auth.signOut(); renderProfile(); });
+
+    const form = document.getElementById('manualSignInForm');
+    if (form) {
+      form.addEventListener('submit', (e) => {
+        e.preventDefault();
+        const n = document.getElementById('signInName').value.trim();
+        const em = document.getElementById('signInEmail').value.trim();
+        if (n) { Auth.signInLocal(n, em); renderProfile(); }
+      });
+    }
+
+    const googleArea = document.getElementById('googleBtnArea');
+    if (googleArea && Auth.isGoogleEnabled()) {
+      // Try to render the real Google button (script may still be loading)
+      const tryRender = () => {
+        if (Auth.renderGoogleButton(googleArea)) return;
+        setTimeout(tryRender, 500);
+      };
+      tryRender();
+    }
+    const help = document.getElementById('googleHelp');
+    if (help) help.addEventListener('click', () => {
+      alert(Lang.t('signInGoogleHint') + '\n\nGOOGLE_CLIENT_ID is empty in js/auth.js.');
+    });
+  }
+
   // ---------- Shop screen ----------
   function openShop() {
     push({ title: Lang.t('shop'), render: renderShop });
@@ -266,7 +356,7 @@
       }
       html += `
         <div class="skin-card ${isEquipped ? 'equipped' : ''}">
-          <div class="skin-preview">${Character.svg(s.id, 'happy')}</div>
+          <div class="skin-preview">${Character.svg(s.id, 'idle')}</div>
           <div class="skin-name">${Lang.pick(s.name)}</div>
           ${costLine}
           ${btn}

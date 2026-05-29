@@ -32,6 +32,7 @@ const Icons = (() => {
     download: svg('<path d="M12 4v12M6 12l6 6 6-6M5 21h14"/>'),
     home: svg('<path d="M4 11l8-7 8 7v9a1 1 0 0 1-1 1h-4v-6h-6v6H5a1 1 0 0 1-1-1v-9z"/>'),
     refresh: svg('<path d="M20 12a8 8 0 1 1-2.34-5.66L20 9M20 4v5h-5"/>'),
+    user: svg('<circle cx="12" cy="8" r="4"/><path d="M4 21c0 -4 4 -7 8 -7s8 3 8 7"/>'),
     sparkle: svg('<path d="M12 2l1.6 6.4L20 10l-6.4 1.6L12 18l-1.6-6.4L4 10l6.4-1.6L12 2z" fill="currentColor" stroke="none"/>'),
   };
 })();

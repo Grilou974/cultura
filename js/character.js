@@ -10,7 +10,7 @@ const Character = (function () {
       accBack: '', accFront: '', hideAntenna: false,
     },
     'mint': {
-      name: { fr: 'Menthe', en: 'Mint' }, body: '#CDEDE0', accent: '#1F6F4E', glow: '#A8DAC4', cost: 3,
+      name: { fr: 'Menthe', en: 'Mint' }, body: '#CDEDE0', accent: '#1F6F4E', glow: '#A8DAC4', cost: 20,
       // Little leaf on top
       accBack: `
         <g class="char-acc" transform="translate(50, 24) rotate(-15)">
@@ -20,7 +20,7 @@ const Character = (function () {
       `, accFront: '', hideAntenna: false,
     },
     'rose': {
-      name: { fr: 'Rose', en: 'Rose' }, body: '#FCD9DD', accent: '#D14D6E', glow: '#F9BFC7', cost: 3,
+      name: { fr: 'Rose', en: 'Rose' }, body: '#FCD9DD', accent: '#D14D6E', glow: '#F9BFC7', cost: 20,
       // Cute flower on the side of head
       accBack: `
         <g class="char-acc" transform="translate(30, 28)">
@@ -33,7 +33,7 @@ const Character = (function () {
       `, accFront: '', hideAntenna: false,
     },
     'sky': {
-      name: { fr: 'Azur', en: 'Sky' }, body: '#CFE5F5', accent: '#3A6EA5', glow: '#A8CFEC', cost: 3,
+      name: { fr: 'Azur', en: 'Sky' }, body: '#CFE5F5', accent: '#3A6EA5', glow: '#A8CFEC', cost: 20,
       // Tiny cloud floating beside
       accBack: `
         <g class="char-acc" transform="translate(80, 30)">
@@ -45,7 +45,7 @@ const Character = (function () {
     },
 
     'crown': {
-      name: { fr: 'Royal', en: 'Royal' }, body: '#F5EBD8', accent: '#0E1A2B', glow: '#F1E2C5', cost: 8,
+      name: { fr: 'Royal', en: 'Royal' }, body: '#F5EBD8', accent: '#0E1A2B', glow: '#F1E2C5', cost: 60,
       hideAntenna: true,
       accBack: `
         <g class="char-acc" transform="translate(50, 18)">
@@ -81,7 +81,7 @@ const Character = (function () {
     },
 
     'pirate': {
-      name: { fr: 'Pirate', en: 'Pirate' }, body: '#F2E7D2', accent: '#0E1A2B', glow: '#E5D6B5', cost: 10,
+      name: { fr: 'Pirate', en: 'Pirate' }, body: '#F2E7D2', accent: '#0E1A2B', glow: '#E5D6B5', cost: 100,
       hideAntenna: true,
       accBack: `
         <g class="char-acc" transform="translate(50, 26)">
@@ -117,7 +117,7 @@ const Character = (function () {
     },
 
     'astro': {
-      name: { fr: 'Astronaute', en: 'Astronaut' }, body: '#E8E9F0', accent: '#3A4A66', glow: '#D8DBE8', cost: 15,
+      name: { fr: 'Astronaute', en: 'Astronaut' }, body: '#E8E9F0', accent: '#3A4A66', glow: '#D8DBE8', cost: 200,
       hideAntenna: true,
       accBack: `
         <g class="char-acc">
